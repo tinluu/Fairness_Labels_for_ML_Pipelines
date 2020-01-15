@@ -1,0 +1,2166 @@
+Unnamed: 0,sex,age,race,priors_count,is_recid,c_charge_degree=F,c_charge_degree=M
+6493,Female,32,African-American,0,neg,0,1
+1564,Female,56,Native American&more,1,pos,1,0
+219,Female,51,Native American&more,0,neg,0,1
+4427,Male,32,Native American&more,0,neg,1,0
+5578,Male,20,Native American&more,0,neg,1,0
+5600,Male,30,African-American,1,pos,1,0
+1100,Female,24,Native American&more,2,pos,1,0
+771,Male,29,African-American,1,pos,0,1
+1278,Male,30,Native American&more,1,neg,1,0
+6424,Male,37,Native American&more,1,pos,0,1
+1936,Male,69,Native American&more,0,pos,0,1
+3242,Male,22,Native American&more,0,neg,0,1
+4672,Male,41,Native American&more,1,pos,1,0
+6877,Male,52,African-American,17,neg,1,0
+5684,Male,21,Native American&more,2,neg,1,0
+2236,Female,19,Native American&more,0,neg,1,0
+5906,Male,45,Native American&more,0,pos,1,0
+3059,Male,29,Native American&more,6,neg,1,0
+2358,Male,34,African-American,1,pos,1,0
+5495,Male,51,African-American,21,neg,1,0
+3430,Male,24,African-American,1,neg,1,0
+206,Male,27,African-American,0,pos,0,1
+6380,Male,50,Native American&more,2,pos,1,0
+3022,Male,24,African-American,4,neg,1,0
+2924,Male,37,African-American,3,pos,0,1
+5072,Female,23,African-American,0,neg,1,0
+2273,Male,37,Native American&more,1,pos,0,1
+5874,Male,46,Native American&more,0,pos,0,1
+2621,Male,42,African-American,0,neg,1,0
+6862,Male,34,African-American,12,neg,1,0
+3973,Female,31,Native American&more,0,pos,0,1
+446,Female,50,African-American,3,pos,1,0
+1104,Male,54,Native American&more,3,neg,0,1
+7067,Male,47,African-American,7,neg,1,0
+3175,Female,31,African-American,0,neg,1,0
+2666,Male,31,Native American&more,3,neg,0,1
+5103,Male,46,Native American&more,12,neg,1,0
+5077,Male,34,African-American,8,neg,1,0
+3130,Male,23,Native American&more,2,pos,1,0
+1306,Male,22,African-American,0,neg,1,0
+407,Male,32,African-American,3,pos,1,0
+5850,Female,35,African-American,7,neg,1,0
+3095,Female,28,Native American&more,3,pos,1,0
+5596,Female,26,African-American,0,pos,0,1
+2055,Male,33,African-American,11,neg,1,0
+292,Male,21,African-American,0,neg,0,1
+599,Male,59,African-American,17,neg,1,0
+6378,Male,24,Native American&more,0,pos,1,0
+5240,Male,34,African-American,5,pos,0,1
+2593,Male,59,African-American,14,neg,1,0
+6584,Female,49,Native American&more,0,pos,1,0
+5721,Male,37,Native American&more,9,pos,1,0
+6511,Male,27,African-American,4,neg,1,0
+3215,Male,52,African-American,19,pos,1,0
+2453,Male,28,Native American&more,14,pos,1,0
+2063,Male,33,Native American&more,3,pos,1,0
+3609,Male,54,Native American&more,0,pos,0,1
+1143,Female,62,Native American&more,0,pos,0,1
+741,Female,22,Native American&more,0,pos,0,1
+3916,Male,51,Native American&more,6,neg,0,1
+6539,Male,34,African-American,13,neg,1,0
+1857,Male,66,Native American&more,0,pos,0,1
+2603,Male,34,African-American,0,neg,0,1
+5476,Male,50,Native American&more,1,pos,1,0
+3691,Male,37,Native American&more,2,neg,0,1
+6090,Female,22,African-American,0,pos,1,0
+3405,Male,20,African-American,1,neg,1,0
+3615,Female,26,Native American&more,1,pos,0,1
+3797,Male,23,Native American&more,3,neg,0,1
+4480,Male,21,Native American&more,0,neg,1,0
+5927,Male,32,Native American&more,5,neg,1,0
+6388,Male,32,African-American,4,neg,1,0
+1468,Female,23,African-American,1,pos,1,0
+3564,Female,42,Native American&more,1,neg,1,0
+6422,Male,26,African-American,3,pos,0,1
+4303,Male,34,Native American&more,0,neg,1,0
+1369,Male,44,Native American&more,0,pos,0,1
+4169,Male,36,Native American&more,2,pos,1,0
+5071,Male,55,African-American,0,neg,0,1
+1151,Male,35,Native American&more,4,neg,1,0
+5852,Male,63,Native American&more,0,pos,1,0
+2493,Male,46,African-American,0,neg,1,0
+235,Male,52,African-American,0,pos,1,0
+2584,Male,21,African-American,1,pos,1,0
+2198,Male,60,Native American&more,3,pos,1,0
+4357,Male,41,Native American&more,3,neg,0,1
+3055,Female,21,African-American,0,pos,0,1
+168,Male,25,African-American,1,neg,0,1
+5282,Male,53,African-American,5,pos,1,0
+5681,Male,53,African-American,5,pos,0,1
+2623,Male,26,Native American&more,0,pos,0,1
+1089,Female,30,Native American&more,5,neg,1,0
+6239,Male,29,Native American&more,1,pos,0,1
+1869,Male,22,African-American,0,neg,1,0
+4704,Female,39,Native American&more,1,pos,1,0
+4978,Female,25,Native American&more,0,pos,0,1
+3991,Female,55,Native American&more,6,pos,1,0
+1901,Male,27,African-American,9,neg,1,0
+4386,Male,25,African-American,7,neg,1,0
+3027,Male,32,African-American,2,neg,1,0
+5666,Male,31,African-American,9,neg,1,0
+1726,Male,25,African-American,7,neg,0,1
+2401,Male,58,African-American,16,neg,1,0
+2888,Male,58,Native American&more,3,pos,1,0
+6096,Male,39,African-American,4,pos,1,0
+4996,Male,36,Native American&more,11,neg,0,1
+246,Male,53,Native American&more,1,pos,0,1
+2215,Male,46,African-American,10,neg,1,0
+1826,Male,67,Native American&more,2,neg,0,1
+1833,Male,25,African-American,1,pos,0,1
+5817,Male,31,Native American&more,5,neg,1,0
+6890,Female,65,Native American&more,1,pos,1,0
+1327,Female,22,Native American&more,1,pos,0,1
+981,Male,45,Native American&more,2,pos,1,0
+6229,Male,27,African-American,9,neg,1,0
+3592,Male,34,African-American,0,pos,1,0
+4931,Male,20,African-American,0,neg,1,0
+2039,Male,34,Native American&more,2,neg,1,0
+1662,Male,19,Native American&more,0,neg,0,1
+4778,Male,33,African-American,3,neg,1,0
+4789,Male,41,African-American,24,neg,1,0
+4020,Male,60,African-American,3,pos,0,1
+6896,Male,33,Native American&more,1,pos,1,0
+5150,Male,25,Native American&more,3,neg,1,0
+4752,Female,26,African-American,3,neg,1,0
+899,Male,27,African-American,5,neg,0,1
+201,Female,37,Native American&more,0,pos,0,1
+2766,Female,30,African-American,9,neg,1,0
+6698,Male,22,African-American,0,neg,0,1
+2675,Male,23,African-American,0,pos,1,0
+7185,Male,42,Native American&more,5,pos,1,0
+4755,Male,27,African-American,4,neg,0,1
+115,Male,41,African-American,10,neg,1,0
+5514,Male,40,African-American,2,pos,1,0
+1359,Male,22,African-American,1,neg,0,1
+6942,Female,29,Native American&more,3,pos,1,0
+3796,Male,52,Native American&more,10,pos,1,0
+930,Male,47,Native American&more,4,neg,1,0
+5353,Male,30,Native American&more,0,pos,1,0
+3087,Male,21,African-American,0,neg,0,1
+1081,Female,54,Native American&more,0,pos,0,1
+4675,Male,34,African-American,3,pos,0,1
+5460,Male,26,African-American,4,neg,1,0
+380,Male,42,African-American,1,pos,1,0
+3911,Female,40,African-American,13,neg,1,0
+6713,Male,36,African-American,0,pos,1,0
+5931,Female,32,Native American&more,0,pos,0,1
+5244,Male,51,African-American,19,neg,1,0
+2194,Male,36,African-American,0,neg,0,1
+4614,Male,56,African-American,1,pos,1,0
+6362,Male,26,African-American,2,neg,1,0
+1345,Male,34,Native American&more,2,pos,0,1
+4533,Male,43,African-American,1,neg,0,1
+2385,Male,26,Native American&more,0,pos,0,1
+685,Female,32,African-American,2,pos,1,0
+5655,Male,34,African-American,1,pos,1,0
+1091,Female,20,African-American,0,pos,1,0
+7065,Male,51,Native American&more,0,pos,1,0
+275,Male,25,Native American&more,0,pos,1,0
+2513,Male,44,Native American&more,8,neg,1,0
+2433,Female,38,African-American,0,pos,1,0
+6645,Male,25,Native American&more,6,neg,0,1
+6936,Male,32,African-American,5,pos,0,1
+4206,Female,22,African-American,2,pos,1,0
+2891,Female,53,African-American,10,neg,1,0
+6655,Male,28,African-American,3,neg,0,1
+5044,Male,58,Native American&more,2,neg,0,1
+4037,Male,37,Native American&more,4,pos,0,1
+4513,Male,29,African-American,2,pos,0,1
+1671,Male,37,African-American,24,pos,1,0
+4819,Male,41,Native American&more,0,neg,1,0
+4381,Male,44,African-American,0,pos,0,1
+2742,Male,30,Native American&more,19,neg,1,0
+2087,Female,27,Native American&more,2,pos,1,0
+4009,Male,34,African-American,0,neg,0,1
+5431,Female,23,Native American&more,0,pos,0,1
+1435,Male,26,African-American,7,neg,1,0
+5914,Male,56,Native American&more,1,pos,0,1
+3968,Male,23,African-American,1,pos,0,1
+6882,Male,58,Native American&more,12,neg,1,0
+3182,Male,24,Native American&more,1,pos,0,1
+2463,Male,41,African-American,18,neg,0,1
+3886,Female,34,Native American&more,0,neg,1,0
+4585,Male,54,African-American,4,neg,1,0
+2529,Male,60,Native American&more,3,pos,0,1
+1329,Male,21,African-American,2,neg,1,0
+2856,Male,57,Native American&more,0,pos,0,1
+3842,Male,25,Native American&more,2,neg,1,0
+51,Female,28,Native American&more,0,pos,1,0
+5843,Male,20,Native American&more,1,neg,1,0
+6687,Female,25,African-American,1,neg,0,1
+3773,Male,29,African-American,1,pos,1,0
+2316,Male,31,Native American&more,0,pos,1,0
+6341,Male,22,Native American&more,4,neg,0,1
+1358,Male,33,Native American&more,0,neg,1,0
+1412,Female,37,African-American,0,pos,0,1
+1780,Female,60,Native American&more,0,neg,1,0
+2806,Male,29,African-American,1,pos,0,1
+5671,Female,24,Native American&more,0,pos,0,1
+1856,Male,24,African-American,0,neg,1,0
+5506,Male,20,Native American&more,0,neg,1,0
+3413,Male,29,Native American&more,0,pos,1,0
+5959,Male,22,African-American,1,pos,1,0
+302,Male,24,Native American&more,0,pos,1,0
+3945,Male,29,Native American&more,2,pos,1,0
+4016,Female,22,Native American&more,2,pos,1,0
+1667,Female,25,African-American,4,neg,0,1
+5319,Male,24,African-American,7,neg,0,1
+2689,Male,55,African-American,0,neg,1,0
+4306,Male,51,African-American,12,neg,1,0
+4148,Male,51,African-American,0,neg,1,0
+1815,Female,46,Native American&more,2,pos,1,0
+345,Female,25,African-American,2,pos,1,0
+2131,Female,26,African-American,9,neg,0,1
+3585,Male,23,Native American&more,0,neg,0,1
+1426,Male,41,African-American,0,pos,0,1
+3149,Female,22,Native American&more,0,pos,0,1
+3828,Male,29,African-American,16,neg,1,0
+4700,Male,37,Native American&more,4,pos,0,1
+797,Male,20,Native American&more,0,pos,1,0
+3654,Male,43,African-American,5,pos,1,0
+1454,Male,31,Native American&more,2,neg,0,1
+1827,Female,22,Native American&more,0,pos,1,0
+5061,Male,28,African-American,2,neg,1,0
+1896,Male,29,Native American&more,0,pos,0,1
+6571,Male,31,African-American,6,neg,0,1
+1313,Male,45,Native American&more,0,pos,0,1
+1336,Male,30,African-American,6,pos,1,0
+1220,Male,47,Native American&more,0,pos,0,1
+183,Male,22,African-American,1,neg,1,0
+2052,Male,25,African-American,7,pos,1,0
+1418,Male,21,African-American,1,pos,1,0
+4537,Female,33,African-American,0,pos,1,0
+3806,Male,49,African-American,4,pos,1,0
+1881,Male,37,Native American&more,11,neg,1,0
+5218,Female,62,Native American&more,1,neg,0,1
+2031,Male,31,African-American,13,neg,0,1
+5911,Male,31,African-American,5,pos,0,1
+2559,Male,29,African-American,13,neg,1,0
+3819,Male,25,Native American&more,2,pos,1,0
+3128,Male,38,African-American,3,neg,1,0
+2310,Male,49,Native American&more,1,neg,1,0
+7120,Female,43,Native American&more,0,pos,0,1
+4671,Female,42,African-American,0,neg,0,1
+2526,Male,26,African-American,5,neg,1,0
+133,Female,24,African-American,0,pos,0,1
+6427,Female,48,Native American&more,4,neg,1,0
+159,Male,55,African-American,3,pos,0,1
+987,Male,27,African-American,3,neg,1,0
+2926,Male,60,Native American&more,4,pos,1,0
+1476,Male,28,Native American&more,2,pos,1,0
+6449,Female,53,African-American,3,pos,1,0
+2455,Female,22,African-American,2,pos,1,0
+4479,Male,37,Native American&more,1,pos,1,0
+3221,Male,37,African-American,14,pos,1,0
+715,Male,22,African-American,1,pos,1,0
+3384,Male,37,Native American&more,3,neg,0,1
+3303,Male,24,African-American,1,neg,1,0
+5951,Male,54,African-American,22,neg,1,0
+1056,Male,22,African-American,5,neg,1,0
+5343,Male,24,African-American,1,neg,0,1
+1585,Male,30,African-American,9,neg,1,0
+5774,Male,33,African-American,0,pos,1,0
+1270,Male,28,African-American,0,pos,0,1
+2363,Male,53,Native American&more,1,pos,1,0
+4416,Male,24,African-American,2,neg,0,1
+5778,Female,28,African-American,5,pos,0,1
+2949,Male,49,Native American&more,1,pos,0,1
+5662,Male,21,Native American&more,2,neg,1,0
+2138,Male,21,African-American,0,pos,1,0
+6867,Female,34,Native American&more,0,pos,1,0
+2314,Male,56,Native American&more,5,pos,1,0
+4749,Female,24,African-American,2,neg,1,0
+1391,Male,48,Native American&more,4,neg,1,0
+3672,Male,38,Native American&more,2,pos,1,0
+6055,Male,23,African-American,1,neg,1,0
+6451,Male,49,African-American,0,pos,1,0
+6565,Male,43,African-American,8,neg,1,0
+5429,Male,36,Native American&more,5,pos,1,0
+4231,Male,23,African-American,3,neg,1,0
+689,Male,44,African-American,14,neg,1,0
+1972,Male,20,Native American&more,2,neg,1,0
+6903,Male,27,African-American,5,neg,0,1
+6347,Male,44,African-American,2,pos,0,1
+4389,Male,25,Native American&more,0,pos,0,1
+3002,Male,36,Native American&more,0,neg,0,1
+3471,Male,30,Native American&more,0,neg,0,1
+980,Female,22,African-American,0,pos,0,1
+6570,Male,24,Native American&more,0,pos,1,0
+1591,Male,28,Native American&more,3,pos,1,0
+700,Male,37,African-American,6,pos,1,0
+3400,Male,55,African-American,0,pos,1,0
+3738,Male,56,African-American,7,pos,1,0
+5530,Male,57,African-American,16,neg,0,1
+6573,Female,46,African-American,4,pos,1,0
+6987,Male,22,African-American,0,pos,0,1
+2271,Male,21,African-American,1,neg,0,1
+4962,Female,64,Native American&more,0,pos,0,1
+708,Male,23,Native American&more,0,pos,0,1
+772,Male,27,Native American&more,1,neg,1,0
+1122,Male,43,African-American,9,neg,1,0
+5208,Male,52,Native American&more,0,pos,0,1
+2861,Male,36,Native American&more,9,neg,0,1
+3712,Male,18,Native American&more,4,neg,1,0
+5594,Female,22,Native American&more,1,pos,1,0
+737,Male,24,African-American,0,pos,1,0
+6902,Male,21,Native American&more,0,pos,1,0
+1800,Male,28,Native American&more,0,pos,1,0
+4552,Male,27,African-American,3,neg,1,0
+3818,Male,39,African-American,7,neg,1,0
+5528,Male,27,African-American,0,pos,1,0
+777,Male,47,Native American&more,0,pos,0,1
+868,Male,39,African-American,13,neg,1,0
+2074,Male,38,Native American&more,2,neg,1,0
+2345,Male,42,African-American,1,pos,1,0
+2791,Male,26,African-American,5,pos,0,1
+1283,Male,26,Native American&more,2,neg,1,0
+2042,Male,23,African-American,1,neg,1,0
+359,Female,23,African-American,0,neg,1,0
+1587,Male,29,Native American&more,1,pos,1,0
+3374,Male,26,Native American&more,9,neg,1,0
+6492,Male,27,Native American&more,6,neg,1,0
+3946,Male,35,Native American&more,8,neg,1,0
+4402,Female,41,Native American&more,1,pos,0,1
+2851,Male,40,Native American&more,4,neg,1,0
+5736,Male,22,African-American,2,neg,1,0
+512,Female,48,Native American&more,0,pos,0,1
+6648,Male,33,Native American&more,1,pos,0,1
+2235,Male,53,Native American&more,1,pos,0,1
+3292,Female,23,African-American,0,pos,1,0
+3687,Male,37,African-American,0,pos,0,1
+5801,Male,38,African-American,0,neg,1,0
+1188,Male,31,Native American&more,2,neg,1,0
+4273,Female,39,Native American&more,11,neg,1,0
+5638,Male,23,African-American,4,neg,1,0
+4269,Male,61,African-American,13,neg,1,0
+996,Male,59,Native American&more,1,pos,0,1
+5588,Female,46,Native American&more,1,neg,0,1
+1853,Male,26,African-American,8,neg,0,1
+4478,Female,34,Native American&more,9,neg,0,1
+3640,Male,25,Native American&more,1,pos,0,1
+4153,Male,49,African-American,11,neg,0,1
+2309,Male,28,Native American&more,1,neg,1,0
+6030,Male,26,Native American&more,0,neg,0,1
+1884,Male,21,Native American&more,3,neg,1,0
+6280,Female,23,African-American,0,pos,1,0
+137,Male,32,African-American,3,neg,1,0
+6174,Male,34,African-American,16,neg,1,0
+4687,Male,23,African-American,5,neg,1,0
+6515,Male,27,African-American,14,neg,1,0
+4756,Male,24,Native American&more,1,neg,1,0
+936,Male,21,African-American,1,pos,1,0
+4487,Male,27,Native American&more,7,neg,1,0
+3145,Male,35,African-American,0,neg,1,0
+531,Male,25,African-American,6,neg,1,0
+6311,Male,33,Native American&more,0,pos,0,1
+6314,Male,32,Native American&more,7,pos,1,0
+4851,Male,20,African-American,0,neg,0,1
+5100,Female,23,African-American,2,neg,1,0
+1898,Male,32,Native American&more,5,neg,1,0
+128,Female,25,Native American&more,2,pos,1,0
+6433,Female,25,African-American,5,neg,1,0
+3347,Male,39,Native American&more,1,pos,0,1
+2508,Male,23,African-American,1,pos,0,1
+4901,Male,23,African-American,2,neg,1,0
+5637,Male,32,African-American,2,pos,1,0
+2350,Female,32,Native American&more,0,neg,0,1
+5233,Male,37,Native American&more,13,pos,1,0
+1981,Male,56,Native American&more,8,pos,0,1
+1408,Male,45,Native American&more,1,neg,1,0
+3569,Male,32,Native American&more,1,pos,1,0
+596,Male,20,African-American,1,pos,1,0
+5213,Female,37,Native American&more,0,pos,0,1
+4792,Male,45,Native American&more,3,neg,1,0
+5141,Female,31,African-American,2,neg,1,0
+5963,Female,52,African-American,3,pos,0,1
+1242,Male,32,Native American&more,0,pos,0,1
+440,Male,34,Native American&more,0,pos,0,1
+4822,Male,22,African-American,1,neg,1,0
+3701,Female,25,Native American&more,0,pos,0,1
+2129,Male,55,African-American,21,neg,1,0
+3077,Male,44,Native American&more,8,neg,1,0
+3071,Male,35,Native American&more,0,neg,0,1
+3937,Male,31,African-American,11,neg,1,0
+188,Male,66,African-American,3,neg,1,0
+1298,Male,54,Native American&more,4,pos,0,1
+4162,Male,54,African-American,3,neg,1,0
+2229,Male,35,African-American,13,pos,1,0
+4004,Female,24,Native American&more,0,pos,1,0
+369,Male,21,African-American,1,neg,1,0
+854,Male,24,African-American,5,neg,1,0
+6246,Male,21,African-American,2,neg,1,0
+6974,Male,23,Native American&more,6,neg,1,0
+3909,Female,23,African-American,1,pos,1,0
+2611,Male,35,African-American,10,neg,0,1
+2043,Male,23,African-American,3,neg,1,0
+1518,Male,32,African-American,12,neg,1,0
+718,Male,34,Native American&more,0,neg,0,1
+4634,Male,35,Native American&more,0,pos,1,0
+2515,Male,21,Native American&more,0,neg,1,0
+2359,Male,27,Native American&more,1,pos,1,0
+921,Male,46,African-American,0,pos,0,1
+4435,Female,40,Native American&more,0,pos,1,0
+1578,Female,32,Native American&more,1,neg,0,1
+6789,Female,24,African-American,0,pos,0,1
+5001,Male,34,African-American,0,pos,1,0
+5111,Male,20,African-American,1,neg,1,0
+892,Male,26,African-American,9,neg,1,0
+1903,Female,52,African-American,21,neg,1,0
+1883,Male,26,African-American,1,neg,1,0
+2972,Female,32,African-American,0,pos,0,1
+1872,Male,46,Native American&more,10,neg,1,0
+4543,Female,24,African-American,4,neg,1,0
+2870,Male,28,African-American,3,pos,0,1
+5946,Female,31,African-American,1,neg,0,1
+6784,Male,46,African-American,4,pos,1,0
+660,Male,65,African-American,2,neg,0,1
+3853,Male,44,African-American,0,neg,1,0
+6557,Male,20,Native American&more,0,neg,0,1
+2711,Male,23,Native American&more,3,neg,0,1
+3722,Male,23,African-American,0,pos,1,0
+694,Male,47,Native American&more,2,neg,1,0
+6906,Female,67,Native American&more,0,pos,0,1
+4311,Male,36,Native American&more,1,neg,1,0
+602,Female,38,African-American,1,pos,1,0
+3606,Male,30,African-American,1,pos,0,1
+6281,Female,52,African-American,0,neg,1,0
+4018,Male,44,African-American,0,pos,0,1
+4991,Male,31,Native American&more,0,pos,0,1
+4685,Male,27,Native American&more,2,neg,1,0
+1161,Female,35,African-American,2,pos,1,0
+6783,Male,29,African-American,0,pos,1,0
+514,Male,28,Native American&more,2,pos,0,1
+3670,Male,33,African-American,8,pos,1,0
+5512,Male,19,African-American,0,neg,1,0
+6457,Male,30,Native American&more,1,neg,1,0
+5139,Female,45,Native American&more,0,neg,1,0
+3539,Male,21,African-American,1,neg,1,0
+7053,Male,26,Native American&more,0,pos,1,0
+2854,Male,22,Native American&more,1,neg,1,0
+3694,Male,23,African-American,6,neg,1,0
+2399,Male,66,Native American&more,1,pos,1,0
+6045,Male,29,Native American&more,2,neg,1,0
+4107,Male,45,Native American&more,1,pos,0,1
+6020,Male,53,Native American&more,1,pos,1,0
+7055,Male,45,African-American,4,pos,0,1
+5640,Male,59,African-American,9,neg,1,0
+4056,Male,23,African-American,2,neg,0,1
+2910,Female,25,Native American&more,2,pos,1,0
+1650,Male,25,Native American&more,5,pos,1,0
+3627,Female,30,African-American,0,pos,0,1
+2998,Male,60,African-American,10,pos,1,0
+7107,Male,31,African-American,1,pos,1,0
+4070,Male,37,Native American&more,4,neg,0,1
+4340,Male,28,Native American&more,1,neg,0,1
+6778,Male,29,African-American,3,neg,0,1
+6549,Male,42,Native American&more,8,pos,1,0
+1711,Male,34,African-American,7,neg,1,0
+6720,Male,24,African-American,0,pos,0,1
+3289,Male,45,African-American,13,neg,0,1
+5591,Male,21,African-American,1,neg,1,0
+2023,Male,30,African-American,3,neg,1,0
+6991,Male,27,Native American&more,4,neg,1,0
+2587,Male,24,Native American&more,1,pos,0,1
+781,Male,21,Native American&more,2,neg,1,0
+5728,Male,32,African-American,2,pos,0,1
+485,Male,29,Native American&more,2,pos,0,1
+1659,Male,26,African-American,0,neg,0,1
+867,Male,24,African-American,0,pos,1,0
+394,Male,28,African-American,5,neg,1,0
+5381,Male,45,African-American,16,pos,1,0
+6599,Male,34,African-American,0,pos,1,0
+705,Male,53,Native American&more,1,pos,1,0
+2340,Male,27,African-American,8,neg,1,0
+3932,Female,21,African-American,0,neg,1,0
+208,Male,43,Native American&more,11,neg,1,0
+1831,Male,32,Native American&more,9,neg,0,1
+6734,Male,22,African-American,0,pos,0,1
+2610,Male,96,Native American&more,2,neg,1,0
+5539,Male,42,African-American,7,pos,1,0
+4086,Female,44,Native American&more,0,neg,0,1
+7093,Male,44,Native American&more,0,neg,0,1
+516,Female,34,African-American,6,pos,1,0
+5334,Male,29,Native American&more,0,neg,0,1
+3559,Male,36,Native American&more,3,neg,0,1
+5108,Female,28,Native American&more,6,neg,0,1
+5230,Male,37,Native American&more,8,neg,1,0
+1982,Male,58,Native American&more,0,pos,0,1
+3098,Female,64,African-American,1,neg,0,1
+6385,Male,31,African-American,1,pos,1,0
+4928,Male,25,African-American,1,pos,1,0
+4567,Male,59,Native American&more,1,neg,1,0
+4909,Male,68,African-American,6,pos,0,1
+81,Male,41,African-American,1,pos,0,1
+5748,Male,47,Native American&more,13,neg,0,1
+1973,Male,58,African-American,16,neg,1,0
+335,Male,28,Native American&more,1,pos,1,0
+3152,Male,37,Native American&more,2,neg,0,1
+6502,Male,26,Native American&more,0,pos,1,0
+5654,Male,28,Native American&more,0,pos,1,0
+4171,Male,26,African-American,4,neg,1,0
+6094,Male,24,African-American,8,neg,1,0
+4586,Male,51,African-American,8,pos,0,1
+3271,Male,25,African-American,4,neg,1,0
+6845,Male,41,Native American&more,3,pos,0,1
+945,Male,41,Native American&more,5,pos,1,0
+578,Male,28,Native American&more,8,neg,1,0
+1565,Male,32,Native American&more,2,neg,0,1
+1197,Female,54,Native American&more,12,pos,1,0
+5816,Male,31,African-American,0,pos,0,1
+5562,Male,28,African-American,7,neg,1,0
+6154,Male,38,Native American&more,5,pos,1,0
+5458,Male,30,African-American,0,pos,1,0
+6518,Male,45,African-American,1,neg,1,0
+5875,Male,56,Native American&more,2,pos,0,1
+4926,Female,25,African-American,1,pos,1,0
+3207,Male,24,African-American,0,pos,1,0
+2691,Male,44,Native American&more,6,neg,1,0
+5271,Male,25,African-American,0,pos,1,0
+2333,Male,28,Native American&more,0,pos,0,1
+4812,Male,26,African-American,24,neg,1,0
+4384,Male,42,Native American&more,0,pos,1,0
+457,Male,29,African-American,3,neg,1,0
+3416,Male,46,Native American&more,2,pos,1,0
+1984,Male,46,Native American&more,1,neg,0,1
+6080,Female,25,African-American,0,pos,0,1
+6888,Female,23,African-American,2,neg,0,1
+1692,Female,34,Native American&more,1,neg,1,0
+4515,Male,62,African-American,4,pos,1,0
+1668,Male,21,Native American&more,0,pos,1,0
+913,Male,52,Native American&more,1,pos,1,0
+5806,Male,60,Native American&more,1,neg,0,1
+5813,Male,27,Native American&more,0,pos,0,1
+4267,Male,29,African-American,1,neg,0,1
+3073,Female,50,African-American,0,pos,0,1
+3639,Male,51,African-American,0,neg,0,1
+3661,Male,39,Native American&more,9,neg,1,0
+6370,Female,64,African-American,0,pos,1,0
+6099,Female,26,African-American,4,neg,1,0
+4951,Male,31,African-American,6,neg,1,0
+4173,Male,26,African-American,1,neg,0,1
+5730,Male,38,African-American,0,pos,0,1
+6519,Male,50,Native American&more,0,pos,0,1
+4763,Male,24,Native American&more,0,pos,1,0
+576,Female,49,Native American&more,2,neg,0,1
+4425,Female,23,Native American&more,0,pos,0,1
+2219,Male,52,African-American,1,neg,0,1
+2959,Male,24,Native American&more,1,neg,1,0
+6600,Female,27,Native American&more,2,neg,1,0
+5837,Male,36,African-American,0,pos,0,1
+4450,Female,38,Native American&more,2,pos,0,1
+1836,Male,44,African-American,19,neg,0,1
+1177,Male,35,African-American,1,pos,0,1
+3439,Male,28,African-American,0,pos,0,1
+194,Male,26,African-American,9,neg,1,0
+2772,Male,31,Native American&more,0,pos,1,0
+994,Male,69,Native American&more,0,pos,0,1
+2253,Female,28,African-American,0,pos,0,1
+1664,Male,57,African-American,27,pos,0,1
+4708,Female,28,Native American&more,1,neg,1,0
+2069,Male,22,African-American,1,neg,1,0
+2553,Male,30,Native American&more,0,neg,1,0
+6260,Male,52,African-American,16,neg,1,0
+2297,Female,30,African-American,14,neg,1,0
+5354,Female,20,Native American&more,1,pos,1,0
+114,Male,42,Native American&more,1,neg,1,0
+1808,Female,27,Native American&more,3,neg,1,0
+1323,Male,32,Native American&more,4,pos,1,0
+7125,Male,47,Native American&more,3,neg,0,1
+5274,Male,23,Native American&more,6,neg,1,0
+3208,Male,23,Native American&more,6,pos,0,1
+802,Male,36,African-American,3,neg,1,0
+4448,Male,61,African-American,12,pos,1,0
+6972,Male,32,African-American,4,neg,1,0
+6430,Male,46,Native American&more,2,pos,1,0
+3063,Male,49,Native American&more,7,neg,1,0
+6494,Male,28,Native American&more,8,neg,0,1
+5685,Male,36,African-American,7,neg,1,0
+5989,Female,21,African-American,0,pos,0,1
+4927,Male,41,Native American&more,11,neg,1,0
+299,Male,34,African-American,5,neg,1,0
+4645,Female,24,Native American&more,0,pos,1,0
+5012,Male,34,Native American&more,2,neg,0,1
+1094,Female,54,Native American&more,1,pos,0,1
+5740,Male,65,Native American&more,1,neg,1,0
+2609,Female,32,African-American,0,neg,0,1
+3198,Female,35,Native American&more,0,pos,0,1
+1955,Male,31,African-American,4,neg,0,1
+6296,Female,32,Native American&more,8,neg,0,1
+1392,Male,22,Native American&more,5,neg,1,0
+4455,Male,44,Native American&more,1,pos,1,0
+1652,Male,29,African-American,5,neg,1,0
+4548,Male,32,Native American&more,1,neg,0,1
+3604,Male,24,Native American&more,3,neg,1,0
+5307,Male,29,African-American,5,neg,1,0
+5538,Male,21,Native American&more,0,neg,1,0
+3249,Male,32,African-American,10,neg,1,0
+1986,Male,46,African-American,2,pos,1,0
+4197,Female,31,African-American,2,pos,0,1
+2580,Male,38,African-American,1,neg,1,0
+6521,Male,25,Native American&more,1,neg,1,0
+2810,Male,20,Native American&more,0,neg,1,0
+1758,Male,65,Native American&more,4,pos,0,1
+5245,Female,26,African-American,1,neg,1,0
+4507,Female,28,Native American&more,0,neg,0,1
+3238,Male,57,African-American,8,neg,0,1
+3764,Male,29,African-American,2,pos,1,0
+2448,Male,34,African-American,0,pos,1,0
+3934,Male,29,African-American,29,neg,1,0
+3228,Male,34,African-American,9,neg,1,0
+3026,Male,38,Native American&more,1,pos,1,0
+6730,Female,31,African-American,4,pos,1,0
+5155,Male,28,Native American&more,3,neg,0,1
+6178,Male,39,Native American&more,2,neg,1,0
+5210,Male,26,Native American&more,2,pos,1,0
+6669,Male,44,Native American&more,0,neg,1,0
+3074,Male,31,African-American,1,pos,0,1
+4168,Male,26,African-American,10,neg,1,0
+5223,Male,41,African-American,14,neg,1,0
+5705,Male,35,Native American&more,4,pos,1,0
+2544,Male,45,African-American,0,neg,1,0
+6958,Male,21,African-American,5,neg,0,1
+5557,Male,21,African-American,0,pos,1,0
+1806,Male,31,Native American&more,0,pos,0,1
+178,Male,58,Native American&more,0,pos,1,0
+3161,Male,25,Native American&more,2,pos,1,0
+3953,Male,24,African-American,0,neg,1,0
+1940,Female,24,African-American,6,pos,0,1
+4605,Male,23,Native American&more,0,pos,1,0
+1796,Male,25,African-American,4,neg,1,0
+6037,Male,23,African-American,0,pos,1,0
+2024,Female,50,African-American,7,pos,0,1
+6114,Male,20,African-American,1,neg,1,0
+1506,Male,55,Native American&more,11,pos,0,1
+7158,Male,21,African-American,1,pos,1,0
+4709,Female,70,Native American&more,0,pos,1,0
+4897,Male,26,African-American,5,neg,1,0
+4898,Male,26,African-American,10,neg,1,0
+6999,Male,30,African-American,18,neg,1,0
+7048,Male,44,Native American&more,1,pos,0,1
+3189,Male,31,African-American,0,pos,1,0
+4244,Female,23,African-American,0,neg,0,1
+5953,Male,34,African-American,12,neg,1,0
+419,Male,31,African-American,7,neg,0,1
+2671,Male,26,Native American&more,0,pos,0,1
+1583,Male,43,Native American&more,11,neg,1,0
+4627,Male,31,African-American,4,neg,0,1
+5028,Male,39,Native American&more,2,pos,1,0
+7100,Male,25,African-American,3,neg,1,0
+4379,Male,26,African-American,3,neg,0,1
+4445,Female,47,African-American,21,neg,0,1
+4775,Male,25,Native American&more,2,pos,1,0
+317,Female,42,Native American&more,0,pos,1,0
+6876,Male,36,Native American&more,5,pos,1,0
+3799,Male,51,Native American&more,6,neg,1,0
+5396,Female,31,Native American&more,14,pos,1,0
+3057,Female,65,Native American&more,1,pos,1,0
+2802,Male,21,Native American&more,0,pos,0,1
+3326,Male,48,African-American,6,pos,1,0
+1078,Male,24,African-American,1,neg,0,1
+6780,Female,34,Native American&more,0,neg,1,0
+5750,Female,25,African-American,6,neg,1,0
+5930,Male,34,Native American&more,1,pos,0,1
+7207,Male,30,African-American,0,neg,0,1
+6719,Male,26,Native American&more,0,pos,1,0
+6265,Female,25,African-American,2,pos,0,1
+4968,Female,33,Native American&more,1,pos,0,1
+2462,Male,32,African-American,1,neg,1,0
+3757,Female,45,Native American&more,0,pos,0,1
+2272,Male,48,African-American,1,pos,1,0
+5456,Male,26,African-American,6,pos,0,1
+2784,Female,27,African-American,0,pos,1,0
+3655,Male,37,African-American,11,neg,0,1
+6663,Female,51,Native American&more,1,pos,1,0
+3173,Male,25,African-American,3,neg,1,0
+4541,Male,62,Native American&more,2,pos,1,0
+410,Female,39,Native American&more,0,pos,0,1
+3385,Female,31,African-American,3,pos,1,0
+228,Male,33,Native American&more,4,neg,1,0
+3907,Male,55,Native American&more,0,pos,0,1
+5998,Male,25,African-American,5,pos,0,1
+588,Male,21,African-American,4,neg,1,0
+699,Male,46,African-American,0,pos,1,0
+1852,Male,23,African-American,0,pos,1,0
+2250,Male,25,African-American,21,neg,1,0
+2509,Male,30,Native American&more,3,pos,0,1
+5597,Female,50,Native American&more,7,neg,0,1
+2753,Female,32,African-American,0,pos,1,0
+982,Male,29,African-American,0,pos,0,1
+6910,Male,42,Native American&more,5,pos,1,0
+327,Male,24,African-American,2,neg,1,0
+374,Male,34,Native American&more,1,pos,0,1
+6357,Female,24,Native American&more,7,pos,0,1
+5735,Male,30,African-American,8,neg,0,1
+2519,Male,53,African-American,1,pos,0,1
+890,Female,29,African-American,1,pos,1,0
+4527,Female,27,African-American,0,neg,1,0
+746,Male,24,Native American&more,1,pos,1,0
+7116,Male,22,African-American,1,neg,1,0
+4826,Female,49,Native American&more,4,pos,0,1
+6733,Male,33,Native American&more,2,pos,0,1
+5157,Female,22,Native American&more,0,neg,1,0
+2556,Male,26,Native American&more,5,pos,0,1
+983,Male,54,African-American,2,pos,0,1
+2613,Male,27,Native American&more,8,neg,1,0
+2639,Female,25,African-American,2,neg,1,0
+7134,Female,26,African-American,4,neg,1,0
+5628,Male,28,African-American,3,pos,0,1
+7128,Male,36,Native American&more,20,neg,1,0
+3984,Male,41,African-American,3,pos,1,0
+3324,Female,38,African-American,0,pos,0,1
+6382,Male,51,African-American,12,neg,1,0
+6348,Male,26,African-American,4,pos,0,1
+2242,Male,31,African-American,2,neg,1,0
+3076,Male,44,Native American&more,2,pos,0,1
+57,Male,49,African-American,4,pos,0,1
+5958,Male,45,Native American&more,1,neg,1,0
+6065,Male,33,Native American&more,0,pos,0,1
+2315,Female,24,African-American,0,pos,1,0
+3307,Male,28,Native American&more,2,neg,1,0
+4167,Male,30,African-American,6,neg,0,1
+4539,Male,23,African-American,1,neg,1,0
+5067,Male,20,African-American,0,pos,1,0
+849,Male,21,African-American,1,pos,1,0
+4354,Male,35,Native American&more,2,pos,1,0
+5536,Male,34,African-American,0,neg,1,0
+6625,Male,31,Native American&more,8,pos,0,1
+2645,Male,26,African-American,0,pos,1,0
+2409,Male,33,Native American&more,0,pos,1,0
+3389,Male,52,Native American&more,1,pos,1,0
+5217,Male,58,Native American&more,5,pos,0,1
+1282,Male,30,Native American&more,0,pos,0,1
+1654,Male,57,African-American,19,pos,1,0
+3014,Male,31,Native American&more,3,neg,0,1
+5821,Male,24,Native American&more,6,pos,1,0
+3251,Male,24,African-American,1,pos,0,1
+2935,Male,47,African-American,15,pos,1,0
+1330,Female,29,African-American,1,neg,1,0
+6268,Male,39,African-American,3,neg,0,1
+6699,Female,20,Native American&more,0,neg,1,0
+5294,Male,25,African-American,1,pos,1,0
+2807,Female,24,Native American&more,0,pos,1,0
+6044,Male,33,African-American,9,neg,0,1
+1804,Male,36,Native American&more,14,neg,1,0
+2061,Female,43,Native American&more,7,pos,1,0
+520,Male,24,Native American&more,0,pos,1,0
+4549,Male,51,Native American&more,3,pos,1,0
+59,Male,35,African-American,5,pos,1,0
+909,Male,39,African-American,6,neg,0,1
+3650,Male,27,African-American,2,neg,1,0
+714,Male,45,African-American,0,pos,0,1
+1467,Male,31,African-American,6,neg,1,0
+5546,Male,30,African-American,4,pos,1,0
+6934,Male,26,African-American,2,neg,1,0
+6374,Male,30,Native American&more,0,pos,0,1
+5124,Male,27,Native American&more,0,neg,0,1
+3827,Male,27,Native American&more,1,pos,0,1
+2793,Male,60,African-American,9,pos,1,0
+4844,Male,23,African-American,1,pos,1,0
+2622,Male,29,African-American,0,pos,0,1
+3961,Male,37,Native American&more,4,neg,0,1
+5433,Male,33,Native American&more,5,neg,1,0
+6957,Male,25,Native American&more,1,pos,1,0
+4010,Male,46,African-American,1,neg,0,1
+1031,Male,46,Native American&more,5,pos,0,1
+973,Male,23,African-American,2,neg,1,0
+5511,Male,39,Native American&more,16,neg,1,0
+1642,Male,21,African-American,1,neg,1,0
+2227,Male,62,African-American,1,pos,0,1
+5886,Female,27,African-American,1,neg,0,1
+2507,Female,21,African-American,4,neg,0,1
+4307,Male,25,Native American&more,1,pos,1,0
+6012,Female,33,African-American,3,neg,0,1
+334,Female,23,Native American&more,1,neg,0,1
+4238,Male,47,Native American&more,28,neg,1,0
+5904,Male,23,African-American,0,pos,1,0
+3800,Male,24,African-American,8,neg,1,0
+2551,Female,21,African-American,0,neg,1,0
+6226,Male,45,Native American&more,0,pos,0,1
+4524,Female,61,African-American,1,pos,1,0
+1500,Male,21,Native American&more,5,neg,1,0
+6496,Male,22,Native American&more,2,neg,0,1
+370,Male,22,Native American&more,2,neg,0,1
+4588,Male,23,Native American&more,0,pos,1,0
+1879,Male,26,African-American,6,pos,1,0
+4736,Male,31,African-American,12,neg,1,0
+4832,Male,45,Native American&more,1,pos,1,0
+6853,Male,30,African-American,8,neg,1,0
+244,Male,32,African-American,14,pos,1,0
+840,Male,28,African-American,1,neg,1,0
+2030,Female,24,Native American&more,1,pos,1,0
+6266,Female,20,Native American&more,4,neg,1,0
+5802,Male,46,Native American&more,1,pos,1,0
+1402,Male,27,African-American,3,neg,1,0
+247,Male,28,African-American,25,neg,1,0
+355,Male,69,Native American&more,0,pos,0,1
+1739,Male,19,Native American&more,1,neg,1,0
+2260,Male,29,African-American,11,neg,1,0
+1250,Male,57,Native American&more,0,pos,0,1
+6629,Male,25,African-American,2,neg,0,1
+6696,Female,26,African-American,0,pos,0,1
+4651,Male,55,Native American&more,0,pos,1,0
+1638,Male,45,Native American&more,0,pos,1,0
+2808,Male,24,Native American&more,2,neg,1,0
+6842,Male,53,Native American&more,8,pos,0,1
+1307,Male,32,African-American,4,neg,0,1
+4657,Male,55,Native American&more,0,neg,1,0
+1710,Male,47,African-American,6,pos,1,0
+3852,Male,25,African-American,0,pos,1,0
+5785,Female,27,African-American,0,neg,0,1
+5019,Male,24,African-American,0,pos,0,1
+3753,Male,27,Native American&more,13,neg,1,0
+52,Male,48,Native American&more,20,neg,1,0
+5252,Male,23,Native American&more,0,pos,0,1
+1696,Male,58,Native American&more,1,pos,1,0
+3341,Female,57,African-American,0,pos,0,1
+675,Male,46,African-American,17,neg,1,0
+5903,Male,38,African-American,6,pos,1,0
+1259,Male,30,Native American&more,9,neg,0,1
+5190,Male,21,Native American&more,0,neg,1,0
+1677,Female,49,Native American&more,8,pos,1,0
+2485,Male,38,Native American&more,0,pos,1,0
+1285,Male,21,Native American&more,0,pos,1,0
+1493,Male,37,African-American,12,neg,0,1
+3560,Female,36,African-American,3,neg,1,0
+4904,Female,21,Native American&more,0,pos,0,1
+5807,Female,39,African-American,3,neg,1,0
+3508,Male,37,African-American,3,neg,1,0
+895,Male,27,Native American&more,1,pos,0,1
+4900,Male,53,Native American&more,3,neg,0,1
+1873,Male,38,Native American&more,1,neg,1,0
+571,Male,38,African-American,15,neg,1,0
+4397,Male,30,African-American,4,pos,1,0
+2796,Male,21,African-American,0,pos,1,0
+1837,Male,28,African-American,1,neg,1,0
+1637,Male,22,African-American,0,pos,1,0
+1596,Male,29,Native American&more,3,pos,1,0
+7082,Male,34,Native American&more,13,pos,1,0
+387,Male,35,African-American,2,pos,1,0
+433,Male,24,Native American&more,3,neg,1,0
+5734,Female,43,Native American&more,0,neg,0,1
+303,Male,33,Native American&more,1,neg,0,1
+6230,Male,30,Native American&more,0,pos,1,0
+6051,Female,37,African-American,0,pos,1,0
+703,Male,40,Native American&more,1,pos,1,0
+3125,Male,23,African-American,1,pos,1,0
+6819,Male,23,Native American&more,3,pos,0,1
+2532,Female,33,African-American,3,neg,1,0
+6468,Male,35,Native American&more,13,pos,1,0
+4295,Male,40,Native American&more,1,pos,0,1
+880,Male,28,African-American,1,pos,1,0
+5709,Female,61,Native American&more,0,pos,1,0
+3692,Male,42,Native American&more,4,neg,1,0
+5583,Male,24,African-American,2,neg,0,1
+3046,Male,21,African-American,1,neg,1,0
+3261,Male,32,Native American&more,10,neg,1,0
+5664,Male,52,African-American,0,pos,1,0
+3449,Male,21,African-American,0,neg,0,1
+1355,Male,43,Native American&more,4,neg,1,0
+5006,Male,32,Native American&more,0,neg,0,1
+5176,Female,43,Native American&more,0,pos,0,1
+6192,Male,33,African-American,5,neg,0,1
+3599,Male,43,Native American&more,0,pos,0,1
+4506,Male,29,Native American&more,0,pos,1,0
+7109,Female,29,African-American,2,neg,1,0
+18,Male,31,Native American&more,6,neg,1,0
+5504,Male,27,Native American&more,4,pos,1,0
+4815,Male,20,African-American,4,neg,1,0
+1712,Male,45,Native American&more,1,pos,0,1
+1281,Male,26,Native American&more,1,neg,0,1
+4057,Male,26,African-American,0,pos,0,1
+5089,Male,34,Native American&more,5,neg,1,0
+362,Female,60,Native American&more,0,pos,0,1
+4433,Male,61,Native American&more,1,pos,1,0
+4788,Male,36,African-American,2,neg,1,0
+2038,Male,35,African-American,0,neg,1,0
+2413,Male,35,Native American&more,1,pos,1,0
+4760,Male,65,Native American&more,3,pos,1,0
+3338,Male,20,African-American,2,neg,1,0
+6039,Male,66,Native American&more,0,pos,0,1
+6349,Female,26,African-American,0,pos,0,1
+1867,Female,58,African-American,3,pos,0,1
+46,Male,35,African-American,13,neg,1,0
+3280,Male,30,African-American,8,neg,1,0
+7036,Male,33,African-American,2,pos,0,1
+2970,Male,25,Native American&more,2,pos,1,0
+2787,Male,27,Native American&more,0,pos,1,0
+3723,Male,38,Native American&more,1,pos,0,1
+3313,Male,25,African-American,1,pos,1,0
+6998,Male,26,Native American&more,1,pos,0,1
+5422,Male,23,African-American,1,pos,1,0
+2379,Male,50,Native American&more,0,pos,1,0
+6820,Female,47,Native American&more,0,pos,0,1
+7121,Female,28,African-American,6,neg,0,1
+928,Female,33,Native American&more,1,pos,0,1
+2096,Female,24,Native American&more,0,pos,1,0
+6781,Male,23,African-American,1,neg,0,1
+3418,Male,23,African-American,0,neg,1,0
+5781,Male,21,Native American&more,1,pos,1,0
+4475,Male,27,Native American&more,2,pos,1,0
+674,Male,36,African-American,0,neg,0,1
+7186,Male,36,African-American,9,pos,1,0
+3432,Male,28,African-American,0,pos,1,0
+5814,Male,22,African-American,2,pos,1,0
+6840,Male,47,Native American&more,1,pos,1,0
+6177,Male,26,African-American,1,neg,1,0
+6683,Male,25,Native American&more,4,pos,1,0
+3963,Male,19,African-American,3,neg,1,0
+2682,Female,41,African-American,6,pos,0,1
+6462,Male,54,African-American,4,neg,1,0
+2082,Male,34,African-American,4,neg,1,0
+1423,Male,39,Native American&more,1,neg,1,0
+1934,Male,26,African-American,8,neg,1,0
+2153,Female,20,Native American&more,0,neg,0,1
+954,Male,36,African-American,5,neg,0,1
+4076,Male,21,African-American,1,neg,1,0
+45,Male,25,Native American&more,9,neg,0,1
+3186,Male,50,Native American&more,5,pos,1,0
+4305,Male,47,Native American&more,2,pos,1,0
+1927,Male,23,African-American,0,neg,1,0
+2127,Male,51,African-American,4,neg,0,1
+5439,Male,28,African-American,8,neg,0,1
+3081,Male,21,African-American,1,neg,1,0
+1776,Male,54,African-American,0,pos,0,1
+3403,Male,27,Native American&more,0,pos,1,0
+5844,Male,38,African-American,5,pos,0,1
+5885,Male,26,African-American,2,pos,1,0
+7114,Male,43,African-American,5,pos,0,1
+1328,Male,26,African-American,6,neg,0,1
+429,Male,37,Native American&more,0,pos,1,0
+2614,Male,41,Native American&more,2,pos,1,0
+5113,Male,28,African-American,2,pos,1,0
+1314,Female,51,Native American&more,5,pos,1,0
+1439,Male,30,African-American,2,pos,0,1
+4189,Male,24,African-American,1,neg,0,1
+1594,Male,25,Native American&more,0,pos,1,0
+6618,Female,28,African-American,1,pos,1,0
+483,Male,35,Native American&more,0,pos,1,0
+5023,Male,25,African-American,8,neg,1,0
+4044,Male,34,Native American&more,5,neg,0,1
+2053,Female,33,Native American&more,0,pos,0,1
+4190,Male,47,African-American,1,pos,1,0
+759,Female,23,Native American&more,0,pos,0,1
+3104,Male,23,African-American,0,pos,1,0
+2431,Male,75,Native American&more,2,pos,0,1
+7182,Female,49,Native American&more,2,pos,1,0
+6899,Male,29,African-American,8,neg,0,1
+3317,Male,27,African-American,1,pos,1,0
+6194,Male,36,African-American,17,neg,1,0
+4997,Female,23,African-American,1,pos,1,0
+6278,Male,26,African-American,5,pos,0,1
+7208,Male,20,African-American,0,pos,1,0
+861,Male,30,African-American,1,pos,1,0
+1488,Male,32,African-American,2,pos,1,0
+3813,Male,31,Native American&more,3,pos,0,1
+4283,Female,33,African-American,5,pos,1,0
+1546,Male,33,Native American&more,2,pos,0,1
+6088,Female,29,Native American&more,0,pos,0,1
+3004,Male,37,Native American&more,3,neg,0,1
+6035,Male,24,Native American&more,4,neg,1,0
+4326,Male,51,African-American,0,neg,1,0
+910,Male,22,African-American,1,neg,1,0
+4090,Female,45,Native American&more,0,pos,0,1
+6963,Male,22,Native American&more,3,pos,1,0
+6150,Male,29,Native American&more,0,pos,1,0
+7010,Male,32,African-American,9,pos,1,0
+6112,Male,28,African-American,12,neg,0,1
+1400,Female,38,African-American,14,neg,1,0
+1567,Male,29,African-American,2,pos,0,1
+7031,Male,26,Native American&more,1,pos,1,0
+251,Female,37,Native American&more,0,pos,0,1
+7209,Male,23,African-American,0,pos,1,0
+1817,Male,27,African-American,5,neg,1,0
+6823,Male,30,Native American&more,0,pos,0,1
+5859,Male,25,Native American&more,4,neg,1,0
+1948,Male,46,Native American&more,9,pos,0,1
+6274,Male,22,African-American,0,neg,1,0
+2628,Male,20,African-American,0,pos,1,0
+1016,Male,24,Native American&more,3,pos,0,1
+4674,Male,57,African-American,1,pos,1,0
+2633,Male,27,Native American&more,4,pos,1,0
+3365,Female,54,Native American&more,2,pos,1,0
+4638,Male,38,Native American&more,2,pos,1,0
+4030,Male,22,African-American,0,neg,1,0
+944,Male,35,Native American&more,2,pos,1,0
+7154,Male,26,African-American,2,pos,0,1
+2498,Male,47,African-American,0,neg,0,1
+4241,Male,58,Native American&more,4,neg,1,0
+4501,Female,35,African-American,2,pos,1,0
+619,Male,55,African-American,9,neg,0,1
+1576,Male,25,Native American&more,6,pos,1,0
+2953,Male,34,African-American,8,pos,1,0
+205,Male,26,African-American,2,neg,1,0
+6704,Male,29,African-American,9,neg,1,0
+2539,Male,69,African-American,22,pos,0,1
+3802,Male,43,African-American,8,neg,1,0
+916,Male,49,African-American,3,neg,1,0
+4744,Male,23,African-American,2,neg,1,0
+826,Female,23,African-American,1,pos,1,0
+3791,Female,53,Native American&more,0,pos,0,1
+2977,Male,32,African-American,0,neg,1,0
+6982,Female,40,Native American&more,3,neg,1,0
+6595,Male,31,Native American&more,5,pos,0,1
+38,Male,34,African-American,21,neg,1,0
+2282,Male,43,Native American&more,5,pos,1,0
+3246,Male,31,Native American&more,1,pos,0,1
+404,Male,56,African-American,5,pos,1,0
+3069,Male,27,Native American&more,1,pos,0,1
+6591,Male,25,Native American&more,5,neg,1,0
+6881,Male,54,Native American&more,0,pos,0,1
+3464,Female,30,African-American,15,neg,0,1
+5270,Male,42,Native American&more,1,pos,0,1
+1812,Male,44,Native American&more,0,pos,0,1
+2510,Female,45,African-American,2,pos,1,0
+5717,Female,20,African-American,0,neg,0,1
+3591,Male,22,African-American,0,neg,1,0
+3954,Male,48,African-American,10,pos,1,0
+5880,Male,32,Native American&more,0,pos,0,1
+947,Female,21,Native American&more,0,neg,0,1
+5827,Female,56,Native American&more,3,pos,1,0
+1757,Female,35,Native American&more,3,pos,1,0
+7044,Male,63,African-American,1,pos,1,0
+2435,Male,28,Native American&more,0,neg,1,0
+2638,Female,33,Native American&more,0,pos,0,1
+3525,Male,21,African-American,0,neg,1,0
+1388,Male,20,African-American,0,neg,1,0
+1535,Male,24,African-American,0,neg,1,0
+3998,Male,33,African-American,17,neg,1,0
+1085,Male,34,African-American,1,pos,0,1
+5254,Male,29,African-American,6,neg,1,0
+5212,Male,27,African-American,0,pos,1,0
+5305,Male,59,Native American&more,0,pos,0,1
+2903,Male,71,Native American&more,1,pos,0,1
+3419,Female,23,African-American,1,neg,1,0
+5114,Male,33,African-American,7,neg,1,0
+3404,Male,23,African-American,2,neg,1,0
+532,Male,32,Native American&more,1,neg,1,0
+3479,Male,58,Native American&more,1,neg,1,0
+6961,Female,32,Native American&more,1,pos,1,0
+1446,Male,44,African-American,2,pos,1,0
+6368,Male,24,Native American&more,1,neg,1,0
+6534,Female,21,African-American,2,pos,1,0
+1878,Female,25,African-American,1,neg,0,1
+4021,Male,49,Native American&more,0,pos,1,0
+5440,Female,21,Native American&more,3,neg,0,1
+2121,Male,23,African-American,2,pos,1,0
+3700,Male,42,African-American,0,pos,1,0
+584,Male,30,Native American&more,0,neg,0,1
+2407,Female,41,Native American&more,12,neg,1,0
+7117,Male,74,Native American&more,2,pos,1,0
+5452,Female,27,Native American&more,6,pos,1,0
+583,Male,23,Native American&more,1,pos,0,1
+5835,Male,30,African-American,0,pos,1,0
+5587,Male,44,African-American,29,neg,1,0
+970,Male,32,African-American,5,neg,0,1
+1602,Female,51,Native American&more,5,neg,0,1
+3493,Male,34,African-American,27,pos,0,1
+5745,Male,36,Native American&more,0,neg,0,1
+2295,Male,26,African-American,2,pos,1,0
+6258,Male,26,Native American&more,0,pos,0,1
+2216,Male,21,Native American&more,1,pos,1,0
+6391,Male,24,African-American,0,pos,1,0
+666,Male,37,African-American,11,pos,1,0
+3623,Male,21,Native American&more,1,neg,1,0
+962,Male,56,Native American&more,0,pos,0,1
+4599,Female,58,Native American&more,1,pos,0,1
+1137,Female,24,African-American,0,pos,1,0
+4067,Male,29,Native American&more,8,neg,0,1
+7062,Male,36,African-American,9,neg,1,0
+1745,Male,59,African-American,4,pos,0,1
+6846,Male,45,African-American,6,pos,1,0
+1040,Male,40,African-American,0,pos,1,0
+2816,Male,38,Native American&more,0,pos,0,1
+6847,Male,47,Native American&more,2,pos,0,1
+333,Female,25,Native American&more,2,neg,0,1
+7142,Male,23,African-American,0,pos,1,0
+192,Male,37,African-American,2,neg,0,1
+1373,Male,51,Native American&more,1,pos,1,0
+4697,Male,35,Native American&more,1,pos,1,0
+2429,Male,74,Native American&more,0,pos,0,1
+6165,Male,23,African-American,3,neg,0,1
+4830,Male,21,Native American&more,1,pos,1,0
+3237,Female,51,Native American&more,2,pos,0,1
+229,Male,54,African-American,11,pos,1,0
+1498,Male,40,Native American&more,0,pos,1,0
+2813,Male,53,Native American&more,1,pos,1,0
+2745,Female,44,Native American&more,1,neg,1,0
+1854,Male,36,Native American&more,5,neg,0,1
+5840,Female,34,African-American,5,neg,1,0
+7206,Male,21,Native American&more,0,neg,0,1
+5658,Male,29,Native American&more,11,neg,1,0
+4026,Male,34,African-American,0,pos,1,0
+2447,Male,53,Native American&more,0,pos,0,1
+590,Male,25,African-American,0,neg,0,1
+1146,Male,35,Native American&more,0,pos,0,1
+3319,Male,21,Native American&more,0,neg,0,1
+5771,Female,29,Native American&more,0,pos,0,1
+5015,Male,46,African-American,18,neg,1,0
+264,Male,30,African-American,2,neg,1,0
+833,Male,48,African-American,25,neg,1,0
+1427,Male,23,Native American&more,5,neg,0,1
+4601,Male,28,Native American&more,2,neg,1,0
+5497,Male,76,Native American&more,0,pos,1,0
+1620,Male,31,African-American,8,neg,0,1
+5708,Male,29,Native American&more,12,neg,0,1
+1636,Male,55,Native American&more,3,neg,1,0
+5901,Female,43,Native American&more,0,neg,1,0
+6563,Female,24,African-American,2,neg,1,0
+792,Female,23,Native American&more,0,pos,0,1
+2086,Male,42,African-American,1,neg,1,0
+2997,Male,25,African-American,5,neg,1,0
+1238,Male,24,Native American&more,4,pos,0,1
+3008,Male,29,African-American,5,neg,1,0
+4179,Male,33,African-American,13,neg,1,0
+3803,Male,45,African-American,20,neg,0,1
+1257,Female,32,Native American&more,0,neg,1,0
+6967,Female,21,Native American&more,0,neg,0,1
+3589,Male,44,Native American&more,5,pos,1,0
+155,Female,32,African-American,4,neg,1,0
+6234,Male,32,African-American,7,neg,1,0
+4573,Male,30,African-American,2,neg,1,0
+401,Male,26,African-American,6,pos,1,0
+683,Male,48,Native American&more,3,neg,1,0
+1689,Female,28,African-American,2,neg,1,0
+2007,Male,28,African-American,4,pos,1,0
+5981,Male,35,African-American,13,neg,1,0
+3485,Male,24,African-American,0,pos,1,0
+3421,Male,24,African-American,1,neg,1,0
+2985,Male,41,African-American,2,neg,0,1
+1899,Male,33,African-American,14,neg,1,0
+5082,Male,26,African-American,0,neg,1,0
+7164,Male,31,Native American&more,7,neg,0,1
+5203,Male,30,African-American,4,pos,0,1
+5313,Male,69,African-American,1,neg,1,0
+3680,Male,25,African-American,11,neg,1,0
+2457,Male,29,African-American,6,neg,1,0
+9,Male,21,Native American&more,1,neg,1,0
+4714,Male,28,African-American,1,pos,1,0
+2698,Male,56,Native American&more,7,neg,1,0
+5529,Female,26,Native American&more,1,neg,1,0
+6446,Male,25,Native American&more,1,neg,0,1
+2225,Male,32,Native American&more,0,neg,1,0
+7105,Male,24,Native American&more,0,pos,0,1
+1272,Male,24,African-American,0,neg,1,0
+4603,Male,26,African-American,6,neg,1,0
+6741,Female,63,Native American&more,0,pos,0,1
+2022,Female,33,Native American&more,1,pos,0,1
+6834,Male,32,Native American&more,6,neg,0,1
+6512,Male,29,Native American&more,0,neg,1,0
+7005,Male,56,Native American&more,0,neg,0,1
+5295,Male,26,African-American,2,pos,1,0
+894,Male,52,Native American&more,1,neg,1,0
+1324,Male,39,Native American&more,3,pos,1,0
+2372,Female,53,Native American&more,0,pos,0,1
+4629,Female,27,Native American&more,0,neg,0,1
+5830,Male,22,African-American,2,neg,0,1
+6207,Male,24,Native American&more,0,pos,0,1
+442,Male,20,African-American,1,neg,1,0
+5868,Male,41,African-American,0,pos,1,0
+4212,Male,50,African-American,0,pos,0,1
+1779,Male,50,Native American&more,11,pos,0,1
+2989,Male,51,Native American&more,14,neg,1,0
+1178,Male,25,African-American,4,neg,1,0
+3265,Male,52,Native American&more,3,pos,1,0
+2568,Male,27,Native American&more,0,pos,0,1
+4883,Male,34,African-American,5,pos,1,0
+884,Male,32,African-American,1,pos,1,0
+906,Male,24,Native American&more,0,pos,1,0
+2849,Female,64,Native American&more,0,pos,1,0
+3379,Male,33,Native American&more,0,pos,1,0
+1216,Male,38,African-American,1,pos,0,1
+3491,Male,47,Native American&more,3,pos,0,1
+3780,Female,32,African-American,1,pos,0,1
+1154,Male,56,African-American,0,pos,1,0
+1205,Male,28,African-American,5,neg,1,0
+7167,Male,30,Native American&more,2,pos,0,1
+1717,Male,51,African-American,1,pos,1,0
+3667,Male,25,African-American,0,neg,0,1
+2389,Male,31,Native American&more,11,neg,1,0
+6746,Male,21,African-American,0,pos,1,0
+3329,Male,30,Native American&more,7,pos,1,0
+1640,Male,22,Native American&more,0,neg,0,1
+1528,Female,29,African-American,11,pos,1,0
+830,Male,21,Native American&more,0,neg,1,0
+5722,Male,42,African-American,7,neg,1,0
+4504,Male,29,African-American,17,neg,1,0
+621,Female,22,African-American,0,pos,0,1
+2757,Male,34,Native American&more,2,pos,1,0
+1311,Male,20,African-American,2,neg,1,0
+1983,Male,22,African-American,1,neg,1,0
+5197,Male,22,African-American,0,pos,1,0
+680,Male,23,African-American,2,neg,0,1
+1582,Male,27,African-American,1,pos,1,0
+3398,Male,46,African-American,8,neg,0,1
+5427,Male,26,African-American,3,neg,1,0
+5893,Male,34,Native American&more,0,pos,0,1
+3760,Male,31,African-American,9,neg,0,1
+2952,Male,22,Native American&more,0,pos,1,0
+3807,Male,42,African-American,0,neg,1,0
+5723,Female,29,Native American&more,1,pos,1,0
+3285,Male,27,African-American,6,neg,1,0
+3085,Male,52,African-American,3,neg,0,1
+179,Male,78,Native American&more,1,neg,0,1
+4362,Male,20,African-American,1,neg,1,0
+3685,Male,36,Native American&more,1,pos,0,1
+3902,Male,53,Native American&more,18,pos,1,0
+1381,Male,41,African-American,2,pos,1,0
+4242,Female,40,Native American&more,4,neg,1,0
+2615,Male,31,Native American&more,0,pos,0,1
+405,Male,27,African-American,9,neg,1,0
+6198,Female,24,African-American,0,pos,1,0
+5473,Male,47,Native American&more,1,pos,0,1
+7058,Female,26,Native American&more,1,pos,0,1
+5216,Male,23,African-American,3,neg,1,0
+1437,Female,60,Native American&more,2,pos,1,0
+617,Male,28,African-American,10,pos,1,0
+2907,Female,54,Native American&more,1,pos,0,1
+501,Male,26,Native American&more,7,neg,1,0
+2490,Male,29,Native American&more,1,pos,1,0
+4400,Male,26,African-American,18,neg,1,0
+2992,Male,24,Native American&more,0,neg,1,0
+5325,Male,37,African-American,12,pos,0,1
+5167,Male,26,Native American&more,1,neg,1,0
+6292,Female,34,African-American,5,neg,1,0
+4213,Female,24,Native American&more,2,neg,1,0
+2427,Male,61,African-American,30,pos,1,0
+4610,Male,26,Native American&more,7,neg,1,0
+6581,Male,63,African-American,22,neg,0,1
+2369,Male,42,African-American,4,pos,0,1
+1706,Female,26,African-American,3,pos,1,0
+182,Male,38,African-American,22,neg,1,0
+690,Male,53,Native American&more,2,pos,1,0
+4867,Female,51,Native American&more,0,pos,1,0
+3456,Male,27,Native American&more,0,neg,1,0
+6811,Male,22,Native American&more,1,pos,0,1
+2875,Male,23,African-American,2,neg,0,1
+609,Male,28,African-American,5,neg,0,1
+5008,Male,36,African-American,0,pos,1,0
+565,Male,40,Native American&more,5,pos,1,0
+6143,Male,47,Native American&more,22,neg,1,0
+4415,Female,51,Native American&more,0,pos,0,1
+4886,Female,29,African-American,1,pos,0,1
+5975,Male,39,Native American&more,1,pos,1,0
+3743,Male,21,African-American,1,pos,1,0
+413,Female,27,African-American,1,neg,1,0
+3344,Male,31,African-American,3,neg,1,0
+2656,Male,36,African-American,6,pos,1,0
+1777,Male,37,Native American&more,3,neg,1,0
+49,Male,29,African-American,0,pos,1,0
+6870,Male,45,Native American&more,2,pos,0,1
+2111,Male,29,African-American,4,neg,1,0
+4964,Male,43,Native American&more,8,pos,1,0
+5701,Female,29,Native American&more,0,pos,1,0
+6100,Male,61,African-American,2,pos,0,1
+3880,Male,52,Native American&more,4,neg,0,1
+3310,Female,24,African-American,2,neg,1,0
+6485,Male,35,African-American,9,pos,1,0
+4465,Male,24,Native American&more,1,pos,1,0
+7161,Male,28,Native American&more,1,pos,1,0
+6651,Male,25,African-American,2,pos,1,0
+5494,Male,66,Native American&more,2,pos,0,1
+2170,Female,40,Native American&more,0,pos,1,0
+2483,Male,33,African-American,14,pos,1,0
+5331,Male,50,African-American,1,pos,1,0
+1770,Female,21,African-American,0,pos,1,0
+6232,Male,43,African-American,2,pos,1,0
+5335,Female,50,Native American&more,1,neg,1,0
+1189,Male,38,Native American&more,0,pos,1,0
+1970,Male,59,African-American,4,neg,1,0
+6007,Male,21,African-American,0,neg,1,0
+5913,Male,32,African-American,5,neg,1,0
+5005,Male,35,Native American&more,16,neg,1,0
+3513,Male,21,Native American&more,0,pos,1,0
+1026,Male,24,African-American,1,pos,0,1
+1428,Male,43,Native American&more,1,neg,1,0
+5232,Male,45,Native American&more,21,neg,1,0
+1232,Male,24,African-American,8,neg,1,0
+3340,Male,31,African-American,10,neg,1,0
+4615,Male,51,Native American&more,3,pos,1,0
+4027,Male,55,African-American,5,neg,1,0
+3415,Male,37,African-American,0,neg,1,0
+4584,Male,22,African-American,1,neg,1,0
+1289,Male,45,Native American&more,0,pos,0,1
+800,Male,83,Native American&more,0,pos,0,1
+1371,Male,28,African-American,2,neg,1,0
+2664,Female,33,Native American&more,2,pos,1,0
+731,Female,36,African-American,4,neg,1,0
+3972,Male,57,Native American&more,6,pos,1,0
+3605,Male,43,Native American&more,2,pos,0,1
+1153,Male,23,African-American,1,pos,0,1
+5095,Male,25,Native American&more,2,neg,0,1
+1612,Male,51,African-American,8,pos,1,0
+2683,Male,35,African-American,0,pos,1,0
+5889,Female,43,Native American&more,0,pos,1,0
+6220,Male,31,African-American,0,pos,1,0
+5383,Male,31,Native American&more,3,neg,0,1
+6475,Male,52,African-American,0,neg,0,1
+5065,Male,22,Native American&more,0,neg,1,0
+3202,Male,45,Native American&more,0,pos,0,1
+6218,Male,22,Native American&more,1,pos,0,1
+3323,Female,24,African-American,0,pos,0,1
+298,Male,23,Native American&more,0,neg,1,0
+6940,Male,24,African-American,12,pos,0,1
+569,Female,35,African-American,6,neg,1,0
+3602,Male,24,African-American,1,neg,1,0
+489,Male,50,Native American&more,5,neg,1,0
+2805,Male,51,Native American&more,2,pos,1,0
+5266,Male,41,Native American&more,0,pos,0,1
+1477,Female,25,Native American&more,5,pos,1,0
+6767,Male,31,Native American&more,8,neg,0,1
+1210,Male,21,Native American&more,1,pos,1,0
+458,Male,52,Native American&more,6,neg,1,0
+7115,Male,29,African-American,2,neg,1,0
+5826,Male,29,African-American,7,neg,1,0
+4667,Male,38,African-American,7,neg,1,0
+3926,Male,33,Native American&more,5,neg,1,0
+5419,Male,26,African-American,6,neg,1,0
+768,Male,23,Native American&more,2,pos,0,1
+3737,Male,49,Native American&more,0,pos,1,0
+6532,Female,22,African-American,0,pos,0,1
+5663,Male,44,African-American,0,pos,1,0
+5916,Male,43,African-American,2,pos,0,1
+461,Male,55,African-American,5,neg,1,0
+4230,Male,59,African-American,15,neg,0,1
+4525,Male,30,African-American,9,neg,1,0
+4827,Female,35,Native American&more,2,pos,0,1
+4409,Male,44,Native American&more,7,neg,1,0
+2705,Female,19,African-American,0,neg,0,1
+1110,Female,32,Native American&more,1,pos,1,0
+6071,Male,45,Native American&more,0,pos,0,1
+6421,Male,30,African-American,2,neg,1,0
+4750,Female,26,African-American,1,pos,1,0
+5116,Male,22,African-American,1,neg,0,1
+121,Male,27,African-American,3,neg,1,0
+2517,Female,62,Native American&more,0,pos,0,1
+6175,Male,41,Native American&more,1,neg,0,1
+4140,Male,39,African-American,21,neg,1,0
+331,Male,21,Native American&more,3,neg,1,0
+2892,Male,29,African-American,0,pos,1,0
+6626,Female,39,African-American,1,pos,1,0
+189,Male,45,Native American&more,8,neg,0,1
+7073,Female,49,Native American&more,2,pos,0,1
+6054,Female,34,African-American,0,pos,1,0
+5687,Female,25,Native American&more,0,pos,0,1
+2937,Male,24,African-American,3,neg,1,0
+451,Female,46,African-American,2,neg,1,0
+2502,Male,26,Native American&more,9,neg,0,1
+1508,Male,28,African-American,3,pos,1,0
+3441,Female,48,Native American&more,2,pos,1,0
+1946,Male,21,Native American&more,0,pos,1,0
+7099,Male,23,Native American&more,2,pos,1,0
+722,Male,68,Native American&more,0,pos,0,1
+3097,Male,26,Native American&more,0,pos,0,1
+3349,Male,20,African-American,0,neg,1,0
+1600,Male,21,African-American,0,neg,1,0
+6498,Male,52,African-American,7,neg,1,0
+6452,Female,44,Native American&more,0,neg,0,1
+509,Female,35,African-American,12,pos,0,1
+2877,Male,44,African-American,0,pos,1,0
+5879,Male,20,Native American&more,1,neg,1,0
+998,Male,29,African-American,2,pos,1,0
+6694,Male,67,African-American,3,pos,1,0
+6855,Male,23,African-American,0,pos,1,0
+5766,Female,27,Native American&more,0,pos,0,1
+7212,Female,33,African-American,3,pos,0,1
+2220,Male,48,Native American&more,0,pos,0,1
+4995,Male,49,African-American,1,neg,0,1
+6488,Male,27,African-American,5,neg,1,0
+4516,Male,39,Native American&more,0,pos,0,1
+1979,Male,21,African-American,1,pos,1,0
+3967,Male,31,African-American,6,pos,1,0
+3981,Male,29,African-American,12,neg,1,0
+5948,Male,22,Native American&more,0,neg,1,0
+3302,Male,23,African-American,3,neg,1,0
+2355,Male,51,African-American,1,neg,0,1
+2885,Male,50,Native American&more,1,pos,1,0
+1741,Male,30,Native American&more,1,neg,0,1
+2821,Male,28,African-American,14,neg,0,1
+41,Male,51,African-American,2,pos,0,1
+1937,Male,27,African-American,1,pos,1,0
+755,Male,26,African-American,4,neg,1,0
+5969,Male,20,African-American,1,neg,1,0
+5724,Male,44,Native American&more,4,pos,1,0
+6346,Male,24,African-American,0,pos,1,0
+3068,Male,21,African-American,1,neg,1,0
+6822,Female,30,Native American&more,5,neg,1,0
+5017,Male,57,African-American,0,neg,1,0
+5014,Male,37,Native American&more,1,neg,1,0
+3809,Male,25,African-American,2,neg,1,0
+864,Female,22,Native American&more,1,pos,1,0
+4103,Male,38,Native American&more,2,neg,1,0
+1754,Male,27,African-American,0,neg,1,0
+4198,Male,83,Native American&more,4,pos,1,0
+6305,Male,39,African-American,0,pos,0,1
+1957,Male,37,Native American&more,0,pos,1,0
+3423,Male,48,African-American,10,pos,1,0
+5716,Female,34,Native American&more,1,pos,1,0
+6227,Male,36,African-American,7,pos,0,1
+6666,Male,33,Native American&more,0,neg,0,1
+5234,Male,24,African-American,2,pos,0,1
+949,Male,27,African-American,10,neg,1,0
+5241,Male,55,Native American&more,18,neg,1,0
+1357,Male,19,African-American,2,neg,1,0
+2846,Male,33,Native American&more,5,neg,0,1
+2183,Male,32,African-American,14,neg,1,0
+2016,Male,26,African-American,13,neg,0,1
+6060,Male,24,African-American,1,neg,1,0
+1,Male,34,African-American,0,neg,1,0
+4510,Male,35,Native American&more,3,neg,0,1
+1759,Male,29,African-American,7,neg,1,0
+6405,Male,36,African-American,0,pos,1,0
+6901,Female,42,Native American&more,0,pos,1,0
+7032,Male,74,Native American&more,0,pos,0,1
+3086,Female,52,Native American&more,0,neg,1,0
+1363,Female,33,Native American&more,0,pos,0,1
+5845,Male,46,Native American&more,0,pos,0,1
+6966,Male,25,Native American&more,0,pos,0,1
+2076,Male,25,African-American,4,neg,1,0
+688,Male,36,African-American,1,pos,0,1
+4838,Male,40,African-American,15,neg,1,0
+1632,Male,21,Native American&more,0,pos,1,0
+559,Male,38,African-American,0,pos,1,0
+4329,Male,52,African-American,1,pos,1,0
+2769,Male,32,Native American&more,0,neg,0,1
+1202,Male,20,African-American,1,pos,1,0
+2694,Male,21,African-American,1,pos,1,0
+972,Female,30,African-American,3,pos,1,0
+3644,Male,35,African-American,5,neg,1,0
+4046,Female,50,African-American,12,neg,0,1
+4008,Female,48,African-American,0,pos,0,1
+5680,Male,32,Native American&more,0,neg,1,0
+4437,Female,28,Native American&more,0,pos,0,1
+2708,Male,51,African-American,8,neg,0,1
+6435,Female,33,African-American,2,neg,1,0
+2980,Male,34,Native American&more,2,neg,0,1
+1068,Male,50,Native American&more,2,pos,0,1
+6442,Male,29,African-American,3,neg,1,0
+6748,Male,55,African-American,1,pos,1,0
+2381,Male,39,Native American&more,0,pos,1,0
+1444,Female,26,African-American,3,neg,1,0
+3030,Male,69,Native American&more,0,neg,0,1
+4553,Male,28,Native American&more,0,pos,1,0
+1887,Male,25,Native American&more,0,pos,1,0
+6122,Male,46,African-American,3,neg,0,1
+5727,Male,39,Native American&more,0,neg,1,0
+174,Male,55,Native American&more,1,pos,1,0
+6533,Female,25,African-American,0,pos,0,1
+4294,Male,56,African-American,12,neg,1,0
+3348,Male,40,African-American,1,pos,1,0
+702,Male,27,African-American,10,neg,1,0
+6771,Male,25,African-American,1,pos,1,0
+6721,Male,43,Native American&more,1,pos,1,0
+798,Female,24,African-American,1,neg,0,1
+1230,Male,20,Native American&more,8,neg,1,0
+1892,Male,32,Native American&more,15,neg,1,0
+6723,Male,28,Native American&more,4,pos,1,0
+1719,Male,39,African-American,1,pos,1,0
+2867,Male,26,Native American&more,1,neg,1,0
+2342,Male,36,Native American&more,9,pos,1,0
+4163,Male,39,Native American&more,0,pos,1,0
+3637,Male,28,African-American,5,pos,0,1
+3511,Female,36,Native American&more,3,neg,1,0
+4014,Female,54,Native American&more,7,pos,1,0
+4981,Male,27,African-American,0,neg,0,1
+5956,Male,37,Native American&more,2,pos,0,1
+2790,Male,25,Native American&more,0,pos,0,1
+6546,Male,21,African-American,1,neg,1,0
+4712,Male,37,Native American&more,0,pos,1,0
+5515,Male,30,Native American&more,5,neg,1,0
+6928,Male,51,Native American&more,1,pos,1,0
+101,Male,30,African-American,1,pos,1,0
+7011,Male,27,Native American&more,2,neg,1,0
+1045,Male,22,Native American&more,0,pos,0,1
+5442,Male,29,Native American&more,1,pos,1,0
+3995,Male,20,African-American,1,neg,0,1
+3269,Male,33,African-American,2,neg,1,0
+6049,Male,35,Native American&more,3,pos,1,0
+4452,Male,23,African-American,0,neg,1,0
+707,Male,28,African-American,0,pos,1,0
+4707,Male,21,Native American&more,0,neg,0,1
+4611,Male,40,Native American&more,2,pos,0,1
+162,Male,30,African-American,1,pos,1,0
+1715,Male,26,African-American,0,neg,0,1
+2384,Male,29,African-American,0,pos,0,1
+2619,Male,41,African-American,1,pos,1,0
+5265,Male,44,African-American,8,neg,0,1
+1047,Female,26,African-American,4,neg,1,0
+5775,Male,38,Native American&more,1,pos,1,0
+4669,Male,26,African-American,3,neg,1,0
+486,Female,24,Native American&more,6,neg,1,0
+6327,Male,48,African-American,3,neg,1,0
+6052,Female,30,African-American,0,pos,1,0
+4011,Female,41,Native American&more,3,pos,1,0
+4141,Male,32,African-American,3,pos,0,1
+6997,Male,20,African-American,0,pos,1,0
+2440,Male,23,African-American,2,pos,1,0
+6155,Male,35,Native American&more,2,pos,0,1
+3211,Male,48,Native American&more,0,pos,0,1
+6560,Male,29,African-American,9,neg,1,0
+5202,Male,22,Native American&more,5,neg,0,1
+3790,Male,47,Native American&more,0,pos,0,1
+795,Male,26,Native American&more,2,neg,1,0
+4191,Male,57,Native American&more,1,pos,0,1
+5004,Male,24,African-American,3,neg,1,0
+5967,Male,39,Native American&more,8,pos,1,0
+1185,Male,24,Native American&more,5,pos,1,0
+801,Male,28,Native American&more,2,pos,1,0
+3003,Male,24,African-American,2,neg,1,0
+3362,Male,27,Native American&more,0,neg,0,1
+5565,Male,52,Native American&more,2,pos,0,1
+3688,Male,39,Native American&more,0,pos,1,0
+1861,Female,22,African-American,0,neg,0,1
+6142,Male,50,African-American,15,pos,0,1
+3515,Male,69,African-American,3,pos,1,0
+3567,Male,34,African-American,21,neg,0,1
+5976,Male,51,Native American&more,1,neg,0,1
+5908,Male,79,Native American&more,1,pos,0,1
+5985,Male,26,African-American,5,pos,1,0
+152,Female,61,African-American,1,neg,1,0
+2642,Male,28,Native American&more,0,neg,0,1
+7033,Male,24,African-American,3,neg,1,0
+1507,Female,23,Native American&more,0,neg,1,0
+848,Female,39,Native American&more,1,neg,0,1
+3218,Male,49,African-American,1,neg,0,1
+728,Male,42,Native American&more,1,pos,1,0
+1473,Male,36,African-American,5,pos,1,0
+3266,Male,26,Native American&more,1,neg,1,0
+5642,Female,22,African-American,0,pos,1,0
+7087,Male,34,Native American&more,1,pos,1,0
+94,Female,20,Native American&more,0,pos,1,0
+3741,Male,34,African-American,5,pos,1,0
+24,Male,24,Native American&more,1,neg,1,0
+6214,Male,37,African-American,16,neg,1,0
+1676,Male,33,Native American&more,0,pos,1,0
+4028,Male,37,African-American,6,pos,0,1
+923,Male,28,African-American,10,neg,0,1
+477,Male,37,Native American&more,3,pos,1,0
+4875,Male,26,African-American,5,pos,1,0
+3950,Male,54,Native American&more,0,pos,1,0
+4517,Male,30,African-American,1,neg,1,0
+6709,Male,23,African-American,1,pos,1,0
+4922,Male,49,Native American&more,4,neg,0,1
+6671,Male,46,Native American&more,0,pos,1,0
+3470,Male,31,Native American&more,5,neg,1,0
+1343,Male,21,Native American&more,1,pos,1,0
+6447,Male,67,Native American&more,0,pos,1,0
+4596,Male,36,Native American&more,5,neg,1,0
+2480,Male,28,Native American&more,1,neg,0,1
+3843,Male,31,African-American,4,neg,1,0
+5133,Female,42,Native American&more,4,neg,0,1
+3774,Male,38,Native American&more,0,pos,0,1
+1674,Male,30,African-American,1,neg,1,0
+4602,Male,28,Native American&more,0,neg,0,1
+5490,Male,56,Native American&more,0,pos,0,1
+6407,Male,22,Native American&more,6,neg,1,0
+6585,Male,34,Native American&more,0,neg,0,1
+328,Male,53,Native American&more,36,neg,1,0
+951,Female,21,Native American&more,0,neg,0,1
+417,Male,22,Native American&more,0,pos,1,0
+3537,Male,31,Native American&more,2,pos,1,0
+2678,Male,23,Native American&more,2,pos,0,1
+6836,Male,26,Native American&more,2,neg,1,0
+585,Male,24,African-American,10,neg,1,0
+1751,Male,29,Native American&more,2,pos,1,0
+1166,Male,20,Native American&more,2,neg,1,0
+6059,Male,39,Native American&more,3,pos,1,0
+2744,Male,59,Native American&more,0,pos,1,0
+4390,Male,32,African-American,5,pos,1,0
+2500,Male,28,Native American&more,0,neg,1,0
+2783,Male,33,Native American&more,8,neg,1,0
+4449,Male,57,African-American,3,pos,1,0
+813,Male,26,Native American&more,0,pos,0,1
+6042,Male,22,Native American&more,3,neg,1,0
+2752,Female,31,African-American,0,neg,0,1
+4774,Female,25,African-American,3,pos,0,1
+1988,Male,35,African-American,4,pos,0,1
+7139,Male,35,African-American,18,neg,1,0
+1539,Male,22,Native American&more,2,pos,1,0
+7101,Male,47,African-American,14,pos,0,1
+2374,Male,22,African-American,1,neg,1,0
+4872,Male,52,African-American,0,neg,1,0
+4239,Male,34,African-American,7,neg,1,0
+4110,Male,44,African-American,3,pos,0,1
+3012,Male,39,African-American,2,neg,1,0
+270,Male,22,Native American&more,0,pos,1,0
+5617,Male,30,African-American,13,neg,1,0
+4246,Male,56,Native American&more,13,pos,1,0
+4000,Male,27,Native American&more,0,pos,0,1
+6138,Male,36,African-American,6,pos,0,1
+3314,Male,55,African-American,12,pos,1,0
+7023,Male,31,Native American&more,9,neg,0,1
+5603,Male,58,African-American,0,neg,1,0
+4987,Male,20,African-American,4,neg,1,0
+4195,Male,30,African-American,0,neg,1,0
+6412,Male,26,African-American,7,neg,1,0
+6832,Male,24,African-American,1,pos,0,1
+127,Male,42,Native American&more,6,pos,1,0
+3205,Male,25,Native American&more,0,pos,0,1
+1090,Male,23,African-American,1,neg,1,0
+2780,Male,43,Native American&more,3,neg,0,1
+6697,Male,31,African-American,9,neg,1,0
+2927,Male,58,Native American&more,0,pos,0,1
+5934,Female,21,Native American&more,0,neg,0,1
+1570,Female,24,African-American,0,pos,1,0
+1419,Male,22,African-American,1,pos,1,0
+5878,Male,36,African-American,2,neg,1,0
+4138,Male,36,Native American&more,9,neg,1,0
+4834,Male,28,Native American&more,3,pos,1,0
+5753,Male,27,African-American,2,pos,1,0
+2263,Male,27,African-American,2,neg,0,1
+1194,Female,29,African-American,2,pos,1,0
+5340,Male,21,Native American&more,0,pos,1,0
+2874,Male,37,African-American,2,neg,1,0
+5447,Female,32,Native American&more,2,pos,0,1
+3169,Male,26,African-American,2,neg,1,0
+5890,Male,24,Native American&more,0,neg,1,0
+794,Male,30,Native American&more,0,pos,1,0
+1209,Male,38,African-American,3,pos,1,0
+3531,Male,57,Native American&more,0,pos,1,0
+4578,Male,61,African-American,20,neg,0,1
+6810,Male,27,African-American,10,neg,1,0
+4808,Male,32,African-American,6,neg,1,0
+4963,Male,22,Native American&more,0,pos,0,1
+1840,Male,21,Native American&more,0,neg,0,1
+373,Male,21,African-American,0,neg,1,0
+4023,Male,30,African-American,10,neg,0,1
+3250,Male,68,African-American,1,pos,1,0
+4499,Male,57,African-American,2,pos,1,0
+3635,Male,51,African-American,22,neg,1,0
+2537,Male,61,Native American&more,0,pos,0,1
+2118,Male,41,Native American&more,0,pos,0,1
+2799,Male,21,African-American,0,neg,1,0
+865,Male,25,African-American,0,neg,1,0
+3434,Male,31,Native American&more,0,pos,0,1
+3888,Male,36,Native American&more,4,neg,1,0
+322,Male,56,Native American&more,0,pos,0,1
+5574,Male,37,Native American&more,3,pos,1,0
+7000,Male,23,Native American&more,0,neg,0,1
+1158,Male,23,Native American&more,1,pos,0,1
+2882,Male,56,Native American&more,0,neg,0,1
+4124,Male,56,African-American,3,pos,0,1
+3137,Male,28,African-American,9,neg,1,0
+3483,Male,27,African-American,0,pos,0,1
+2065,Male,49,Native American&more,4,pos,1,0
+2887,Male,47,African-American,1,neg,0,1
+817,Male,32,African-American,0,pos,0,1
+4761,Female,33,Native American&more,5,neg,0,1
+1499,Male,23,Native American&more,0,pos,1,0
+4647,Male,49,Native American&more,4,neg,0,1
+5036,Male,26,African-American,4,neg,1,0
+843,Male,37,African-American,6,neg,1,0
+4800,Male,30,Native American&more,2,neg,0,1
+7045,Male,24,African-American,11,neg,1,0
+48,Male,34,African-American,4,neg,0,1
+6131,Female,31,African-American,0,pos,0,1
+887,Male,19,Native American&more,1,neg,0,1
+5487,Male,25,African-American,4,neg,1,0
+5776,Male,21,African-American,2,neg,1,0
+3665,Male,26,Native American&more,1,pos,1,0
+950,Male,22,Native American&more,0,pos,0,1
+5175,Male,20,African-American,0,pos,1,0
+5553,Male,45,Native American&more,2,pos,1,0
+2155,Male,31,Native American&more,6,pos,0,1
+1541,Male,41,Native American&more,5,pos,1,0
+3570,Female,31,Native American&more,2,pos,1,0
+4068,Male,29,Native American&more,0,pos,1,0
+2479,Female,42,Native American&more,0,pos,0,1
+1256,Male,58,Native American&more,2,pos,1,0
+552,Male,26,African-American,3,neg,1,0
+7196,Male,43,African-American,0,pos,0,1
+3393,Male,71,Native American&more,13,pos,1,0
+5368,Male,36,Native American&more,4,neg,1,0
+6396,Male,28,African-American,4,neg,0,1
+237,Male,30,African-American,11,neg,0,1
+4733,Male,50,Native American&more,3,pos,1,0
+358,Male,22,Native American&more,0,pos,1,0
+2922,Female,26,African-American,1,pos,1,0
+6564,Male,60,African-American,15,neg,1,0
+6995,Male,64,African-American,0,pos,0,1
+6152,Female,25,Native American&more,2,neg,1,0
+592,Male,27,African-American,0,pos,0,1
+6366,Female,55,Native American&more,0,pos,0,1
+5417,Male,29,African-American,11,neg,1,0
+5973,Male,26,African-American,11,neg,1,0
+1071,Male,44,Native American&more,2,pos,0,1
+200,Male,50,Native American&more,1,pos,1,0
+4223,Male,23,African-American,0,pos,1,0
+5500,Male,44,Native American&more,6,neg,1,0
+3092,Male,35,African-American,12,neg,1,0
+3113,Male,47,African-American,1,pos,1,0
+6062,Female,55,Native American&more,0,pos,0,1
+5907,Male,39,African-American,1,neg,1,0
+2833,Male,50,African-American,24,neg,0,1
+1524,Male,28,African-American,4,neg,1,0
+6389,Male,28,African-American,11,neg,1,0
+1568,Male,46,African-American,15,neg,1,0
+131,Female,37,Native American&more,2,pos,0,1
+2815,Male,25,African-American,5,pos,1,0
+2579,Male,37,Native American&more,0,pos,0,1
+6287,Female,46,Native American&more,0,pos,1,0
+6472,Male,32,African-American,1,pos,0,1
+2834,Male,54,Native American&more,12,neg,1,0
+821,Male,34,Native American&more,1,neg,0,1
+4767,Male,56,African-American,16,pos,1,0
+5324,Male,27,African-American,2,neg,1,0
+1595,Male,24,African-American,8,neg,1,0
+6040,Male,28,African-American,7,pos,0,1
+6887,Male,62,Native American&more,0,pos,0,1
+1064,Male,44,Native American&more,3,pos,1,0
+4738,Male,21,Native American&more,1,pos,1,0
+6802,Male,35,Native American&more,0,neg,0,1
+3788,Male,35,Native American&more,3,neg,1,0
+3975,Male,57,Native American&more,12,pos,0,1
+6866,Male,37,Native American&more,0,neg,0,1
+5936,Male,24,Native American&more,8,neg,1,0
+3913,Male,33,Native American&more,0,neg,0,1
+1318,Female,63,African-American,1,pos,1,0
+5148,Male,51,African-American,4,pos,1,0
+2302,Male,26,African-American,7,pos,0,1
+1558,Male,34,African-American,3,pos,0,1
+506,Male,35,Native American&more,1,pos,1,0
+742,Male,36,Native American&more,0,pos,1,0
+4745,Female,22,African-American,0,pos,0,1
+6001,Male,26,African-American,0,pos,1,0
+5624,Male,21,African-American,0,neg,0,1
+5595,Male,29,African-American,4,neg,0,1
+2599,Male,48,African-American,7,neg,1,0
+3845,Male,26,Native American&more,2,neg,1,0
+1310,Male,22,African-American,6,neg,1,0
+1193,Male,20,African-American,0,neg,0,1
+6180,Male,26,African-American,2,pos,1,0
+4196,Male,53,Native American&more,1,pos,1,0
+6562,Male,45,African-American,4,neg,0,1
+5360,Male,25,African-American,0,pos,0,1
+5009,Male,61,Native American&more,0,pos,0,1
+3752,Female,39,African-American,22,neg,1,0
+5412,Female,29,Native American&more,7,neg,1,0
+3792,Male,31,Native American&more,6,pos,1,0
+4274,Male,22,African-American,3,neg,1,0
+6920,Female,31,Native American&more,1,neg,0,1
+2446,Female,41,Native American&more,0,pos,1,0
+2826,Male,34,African-American,22,pos,1,0
+2028,Female,23,African-American,0,pos,0,1
+5507,Male,21,African-American,0,neg,1,0
+6976,Male,59,Native American&more,20,neg,1,0
+6897,Male,25,African-American,3,pos,1,0
+3110,Male,47,Native American&more,1,pos,1,0
+7079,Female,22,African-American,0,neg,1,0
+3624,Male,45,African-American,1,pos,1,0
+4561,Male,23,African-American,4,neg,1,0
+1566,Male,30,African-American,11,pos,1,0
+4161,Male,35,Native American&more,3,neg,1,0
+5406,Male,28,African-American,7,pos,1,0
+6983,Male,54,Native American&more,7,pos,1,0
+1969,Male,55,Native American&more,0,pos,0,1
+6796,Male,23,African-American,3,neg,1,0
+412,Female,22,African-American,0,pos,1,0
+408,Male,60,Native American&more,4,pos,1,0
+3234,Male,29,Native American&more,1,pos,1,0
+6763,Male,44,African-American,0,neg,1,0
+2060,Male,37,Native American&more,0,neg,1,0
+5278,Male,41,Native American&more,0,pos,0,1
+4623,Male,27,African-American,6,neg,0,1
+4969,Male,25,Native American&more,3,pos,1,0
+824,Male,47,Native American&more,2,pos,1,0
+647,Female,45,Native American&more,1,pos,1,0
+90,Male,26,Native American&more,7,neg,1,0
+1775,Female,53,Native American&more,4,neg,1,0
+2472,Male,32,Native American&more,2,neg,1,0
+832,Male,25,African-American,3,neg,1,0
+4474,Male,25,African-American,0,neg,1,0
+1738,Male,31,Native American&more,0,pos,0,1
+181,Male,24,Native American&more,0,pos,1,0
+5799,Male,29,African-American,3,pos,0,1
+1241,Male,21,Native American&more,1,neg,1,0
+2894,Female,43,Native American&more,0,pos,0,1
+4059,Male,27,African-American,3,neg,1,0
+5443,Male,22,African-American,12,neg,1,0
+2911,Female,22,African-American,1,pos,1,0
+1924,Male,51,African-American,5,pos,0,1
+3501,Male,55,Native American&more,2,pos,1,0
+3547,Male,39,Native American&more,21,pos,1,0
+238,Male,28,Native American&more,1,pos,1,0
+1521,Male,25,African-American,14,neg,1,0
+4718,Male,30,Native American&more,3,pos,0,1
+5448,Male,30,Native American&more,0,pos,1,0
+4781,Female,35,African-American,13,pos,1,0
+2158,Female,30,African-American,0,pos,0,1
+6010,Male,43,Native American&more,1,neg,0,1
+678,Female,34,Native American&more,15,neg,1,0
+4268,Male,36,Native American&more,1,pos,1,0
+2963,Male,24,African-American,5,neg,1,0
+2081,Male,41,African-American,4,pos,1,0
+6212,Female,30,African-American,3,pos,1,0
+1647,Male,28,African-American,11,pos,1,0
+5786,Male,35,Native American&more,0,pos,1,0
+2896,Male,25,Native American&more,2,neg,0,1
+6295,Female,23,Native American&more,0,pos,1,0
+4947,Male,37,African-American,1,neg,1,0
+4325,Male,40,African-American,0,pos,1,0
+5652,Male,30,African-American,3,pos,1,0
+2719,Male,29,Native American&more,1,pos,0,1
+7092,Male,30,African-American,8,neg,1,0
+1303,Male,51,Native American&more,7,neg,1,0
+2449,Male,24,Native American&more,0,neg,1,0
+1382,Female,28,African-American,4,pos,1,0
+5308,Female,21,African-American,0,pos,0,1
+5215,Male,37,Native American&more,1,pos,1,0
+3325,Male,27,African-American,7,neg,1,0
+2113,Male,26,Native American&more,2,pos,1,0
+3736,Male,20,Native American&more,0,neg,0,1
+3612,Male,31,Native American&more,1,neg,0,1
+5818,Female,29,Native American&more,0,pos,1,0
+4915,Male,26,African-American,3,neg,0,1
+2797,Male,25,African-American,4,neg,1,0
+4207,Male,45,Native American&more,1,pos,0,1
+2555,Male,30,African-American,11,neg,1,0
+6331,Male,25,African-American,0,pos,0,1
+3746,Male,57,Native American&more,1,pos,0,1
+225,Female,41,African-American,5,pos,0,1
+1723,Male,23,Native American&more,2,pos,1,0
+2378,Male,21,African-American,0,neg,1,0
+7063,Male,33,Native American&more,2,neg,0,1
+4542,Female,56,African-American,1,neg,1,0
+5660,Male,38,Native American&more,1,pos,1,0
+2527,Male,35,African-American,4,pos,0,1
+1951,Male,40,African-American,1,pos,0,1
+1684,Male,27,African-American,2,neg,0,1
+5713,Male,44,African-American,12,pos,1,0
+256,Female,24,Native American&more,1,neg,0,1
+5815,Female,29,African-American,0,neg,1,0
+6838,Male,49,African-American,2,pos,1,0
+1502,Male,55,Native American&more,13,neg,1,0
+4380,Female,24,African-American,3,neg,0,1
+6464,Male,26,African-American,15,pos,1,0
+5612,Male,30,African-American,0,neg,1,0
+3987,Male,53,African-American,26,neg,1,0
+2706,Male,20,African-American,0,neg,0,1
+6508,Female,50,Native American&more,0,neg,0,1
+5791,Male,36,Native American&more,26,neg,1,0
+2803,Female,24,African-American,2,neg,0,1
+4980,Female,51,Native American&more,2,neg,1,0
+4554,Female,31,African-American,0,pos,1,0
+6474,Male,39,Native American&more,2,pos,1,0
+2964,Female,30,African-American,3,neg,1,0
+4511,Male,20,African-American,1,neg,1,0
+6839,Female,33,African-American,6,neg,0,1
+1971,Female,42,African-American,0,pos,1,0
+681,Male,27,African-American,3,pos,1,0
+3162,Female,27,African-American,3,pos,1,0
+1639,Female,31,African-American,7,neg,1,0
+638,Female,57,Native American&more,0,neg,0,1
+6631,Male,55,Native American&more,0,pos,0,1
+1497,Male,38,Native American&more,0,pos,1,0
+3075,Male,47,Native American&more,0,pos,0,1
+595,Female,24,Native American&more,0,pos,1,0
+1824,Female,26,African-American,0,pos,0,1
+5580,Male,33,African-American,14,neg,1,0
+4797,Male,39,Native American&more,2,pos,0,1
+3870,Male,50,Native American&more,9,neg,1,0
+1680,Male,21,Native American&more,0,neg,1,0
+5441,Male,37,African-American,8,neg,1,0
+7052,Female,22,Native American&more,0,pos,0,1
+6718,Male,25,African-American,7,neg,1,0
+1462,Female,30,Native American&more,7,pos,0,1
+6490,Male,47,African-American,21,neg,1,0
+6505,Male,31,African-American,1,pos,0,1
+7150,Male,44,African-American,11,neg,1,0
+1510,Male,56,African-American,3,pos,0,1
+2625,Male,35,Native American&more,4,pos,0,1
+6277,Male,47,Native American&more,3,pos,0,1
+3355,Male,21,Native American&more,0,neg,1,0
+4255,Male,29,Native American&more,0,pos,1,0
+3964,Male,39,Native American&more,2,pos,0,1
+2301,Male,26,African-American,2,pos,0,1
+911,Male,46,African-American,2,neg,1,0
+4234,Male,34,African-American,12,pos,1,0
+2125,Male,70,Native American&more,11,neg,1,0
+2572,Male,45,Native American&more,2,pos,0,1
+4065,Male,20,African-American,2,neg,1,0
+6003,Male,29,African-American,0,pos,1,0
+6766,Male,43,African-American,3,neg,1,0
+6495,Male,25,African-American,5,neg,1,0
+6022,Male,52,African-American,2,neg,1,0
+4333,Female,22,African-American,0,pos,1,0
+2495,Male,27,African-American,0,pos,0,1
+304,Male,58,Native American&more,2,pos,1,0
+6959,Male,29,African-American,1,neg,1,0
+5971,Male,58,Native American&more,7,neg,1,0
+6509,Male,27,African-American,1,pos,0,1
+733,Female,45,Native American&more,1,pos,1,0
+3353,Male,37,Native American&more,1,neg,1,0
+1675,Male,61,African-American,1,pos,0,1
+5386,Male,39,Native American&more,1,pos,1,0
+1187,Female,26,Native American&more,3,pos,0,1
+2112,Male,43,Native American&more,1,neg,1,0
+4785,Female,42,African-American,1,pos,1,0
+1169,Male,49,African-American,3,pos,1,0
+639,Male,21,African-American,0,pos,1,0
+5854,Male,27,African-American,1,neg,1,0
+3938,Female,35,African-American,0,pos,0,1
+4315,Male,30,Native American&more,1,pos,1,0
+5277,Male,33,Native American&more,2,pos,1,0
+6031,Male,43,African-American,3,neg,1,0
+2189,Male,20,African-American,1,neg,1,0
+4743,Male,33,African-American,4,pos,0,1
+3320,Female,27,African-American,0,pos,0,1
+5165,Male,55,Native American&more,0,pos,1,0
+4846,Male,23,African-American,2,neg,1,0
+5283,Male,36,African-American,1,pos,0,1
+5367,Male,53,Native American&more,3,neg,1,0
+3105,Male,46,African-American,3,pos,1,0
+3282,Male,59,African-American,8,neg,1,0
+3682,Male,32,Native American&more,0,neg,0,1
+4319,Male,21,African-American,0,pos,1,0
+5876,Male,22,African-American,1,neg,0,1
+3139,Male,24,Native American&more,5,pos,0,1
+151,Female,26,Native American&more,0,pos,0,1
+5572,Male,53,Native American&more,1,neg,0,1
+2627,Male,24,African-American,3,neg,0,1
+2037,Male,28,African-American,6,pos,0,1
+6589,Male,29,Native American&more,8,neg,1,0
+739,Male,34,African-American,10,neg,1,0
+4906,Male,31,African-American,4,neg,1,0
+2685,Male,20,African-American,1,pos,0,1
+5935,Male,63,African-American,9,neg,1,0
+1598,Male,31,African-American,5,neg,1,0
+2422,Male,21,African-American,1,neg,1,0
+6705,Male,49,Native American&more,3,pos,1,0
+6398,Male,49,Native American&more,0,pos,1,0
+4277,Female,35,Native American&more,0,pos,0,1
+2452,Female,27,Native American&more,0,pos,1,0
+3204,Male,31,African-American,16,neg,1,0
+318,Male,24,Native American&more,9,neg,1,0
+4820,Male,25,Native American&more,0,pos,1,0
+4839,Male,22,African-American,2,neg,0,1
+6978,Male,23,African-American,0,pos,1,0
+4032,Male,20,African-American,0,neg,1,0
+6588,Male,57,Native American&more,0,pos,1,0
+5464,Male,54,African-American,4,pos,1,0
+774,Male,31,African-American,0,pos,0,1
+3016,Male,50,Native American&more,0,pos,0,1
+4564,Male,28,Native American&more,1,pos,0,1
+1774,Female,28,African-American,2,pos,0,1
+1395,Female,59,Native American&more,1,pos,1,0
+3831,Male,29,African-American,0,pos,0,1
+1707,Male,49,African-American,1,pos,1,0
+4025,Female,27,African-American,1,pos,0,1
+2672,Male,41,African-American,13,pos,1,0
+3309,Male,23,Native American&more,7,neg,1,0
+6330,Male,27,African-American,6,pos,0,1
+255,Male,22,African-American,3,neg,0,1
+6320,Male,43,Native American&more,0,pos,1,0
+6134,Male,54,African-American,21,pos,1,0
+221,Male,36,Native American&more,1,neg,0,1
+3229,Male,26,Native American&more,1,pos,0,1
+898,Male,32,African-American,3,neg,1,0
+2029,Male,25,African-American,1,pos,1,0
+7176,Male,22,Native American&more,0,pos,0,1
+1627,Female,46,Native American&more,0,neg,0,1
+988,Male,24,Native American&more,1,neg,1,0
+6583,Male,25,African-American,6,neg,1,0
+1315,Male,27,African-American,4,neg,1,0
+1997,Female,33,African-American,1,pos,0,1
+1469,Male,30,African-American,15,neg,1,0
+6097,Male,29,African-American,10,neg,1,0
+2641,Female,35,African-American,0,pos,0,1
+5170,Male,48,Native American&more,3,neg,1,0
+7195,Male,35,African-American,8,neg,0,1
+5041,Male,39,Native American&more,3,neg,0,1
+6318,Male,26,African-American,27,neg,0,1
+96,Male,66,Native American&more,3,pos,1,0
+3185,Female,27,African-American,4,neg,1,0
+6222,Male,21,Native American&more,2,neg,1,0
+6371,Male,48,Native American&more,0,pos,0,1
+6923,Male,51,Native American&more,2,neg,0,1
+6886,Female,25,Native American&more,14,pos,1,0
+5109,Male,41,African-American,2,pos,1,0
+6805,Male,41,Native American&more,0,pos,1,0
+447,Male,30,African-American,1,pos,0,1
+2823,Male,52,African-American,7,neg,1,0
+6432,Male,32,African-American,8,pos,1,0
+6093,Male,47,African-American,3,pos,1,0
+2761,Male,46,Native American&more,0,pos,1,0
+7143,Male,20,African-American,1,neg,1,0
+3812,Male,21,Native American&more,2,neg,1,0
+6141,Male,32,African-American,3,neg,1,0
+4106,Male,32,African-American,9,neg,0,1
+4108,Male,30,Native American&more,1,neg,1,0
+2839,Male,50,African-American,5,pos,1,0
+1708,Female,47,Native American&more,0,pos,0,1
+5387,Male,33,Native American&more,0,pos,1,0
+6139,Male,34,African-American,9,neg,1,0
+3540,Male,43,Native American&more,8,neg,1,0
+6249,Female,37,African-American,23,neg,0,1
+3824,Male,22,African-American,1,neg,0,1
+5570,Female,30,African-American,4,pos,1,0
+6046,Male,31,Native American&more,1,pos,1,0
+1939,Male,27,African-American,1,pos,1,0
+4375,Male,25,Native American&more,2,neg,0,1
+2079,Male,21,Native American&more,0,neg,1,0
+5773,Female,30,Native American&more,1,pos,1,0
+6386,Male,23,African-American,2,neg,0,1
+6148,Male,21,African-American,2,pos,1,0
+2755,Male,22,Native American&more,2,pos,1,0
+3702,Male,32,African-American,7,neg,1,0
+6128,Male,20,Native American&more,1,neg,1,0
+329,Male,28,Native American&more,2,neg,0,1
+5798,Male,33,African-American,11,neg,1,0
+5960,Male,24,African-American,3,neg,1,0
+2014,Male,42,Native American&more,1,pos,0,1
+2929,Male,30,African-American,0,neg,0,1
+3146,Male,57,African-American,23,neg,1,0
+7152,Male,35,African-American,12,neg,0,1
+3158,Female,56,African-American,1,pos,1,0
+3079,Male,23,African-American,0,pos,0,1
+2950,Male,29,African-American,1,neg,0,1
+2552,Male,23,Native American&more,6,neg,0,1
+4932,Male,21,African-American,1,neg,1,0
+5298,Male,59,African-American,8,neg,1,0
+4895,Male,42,African-American,1,neg,0,1
+6482,Female,22,African-American,0,pos,1,0
+1809,Male,28,Native American&more,0,pos,1,0
+5027,Male,26,Native American&more,1,pos,1,0
+3611,Male,36,Native American&more,0,pos,1,0
+2786,Male,46,African-American,12,pos,0,1
+3231,Male,21,African-American,0,neg,1,0
+4587,Male,28,African-American,0,pos,1,0
+4804,Male,41,African-American,19,neg,1,0
+2567,Male,46,Native American&more,3,neg,1,0
+3532,Male,25,African-American,9,pos,1,0
+1058,Male,26,African-American,0,neg,1,0
+4285,Male,59,Native American&more,3,pos,0,1
+180,Male,56,Native American&more,0,pos,1,0
+3686,Female,42,Native American&more,5,neg,0,1
+3496,Male,20,Native American&more,0,neg,1,0
+2188,Male,42,African-American,0,neg,0,1
+3985,Male,25,African-American,1,neg,0,1
+2607,Male,29,Native American&more,17,neg,1,0
+1277,Male,21,African-American,0,pos,0,1
+3171,Male,50,Native American&more,3,neg,0,1
+5293,Male,23,African-American,2,neg,1,0
+6679,Male,29,African-American,8,neg,1,0
+6716,Female,29,Native American&more,0,pos,0,1
+3005,Male,25,Native American&more,9,pos,1,0
+6176,Male,57,Native American&more,7,neg,1,0
+5692,Male,40,Native American&more,5,pos,1,0
+6343,Male,33,African-American,0,pos,1,0
+3342,Male,25,African-American,0,pos,0,1
+2778,Male,35,Native American&more,0,pos,1,0
+1271,Male,28,Native American&more,2,pos,0,1
+265,Male,39,Native American&more,0,pos,1,0
+3321,Male,46,Native American&more,0,neg,1,0
+1125,Male,25,African-American,11,neg,1,0
+4282,Female,23,Native American&more,2,pos,0,1
+1106,Male,46,Native American&more,1,pos,0,1
+1365,Male,53,Native American&more,0,neg,1,0
+3140,Male,33,Native American&more,9,pos,1,0
+12,Female,37,Native American&more,0,pos,0,1
+1949,Male,26,African-American,2,pos,0,1
+2403,Male,33,African-American,8,neg,1,0
+2041,Female,40,African-American,7,pos,0,1
+1181,Male,30,Native American&more,0,pos,0,1
+1380,Male,44,Native American&more,0,pos,0,1
+2957,Male,59,African-American,1,pos,1,0
+6701,Male,37,African-American,0,pos,0,1
+6576,Female,37,Native American&more,5,neg,1,0
+668,Male,33,Native American&more,5,pos,1,0
+4529,Male,42,African-American,1,pos,1,0
+6526,Male,56,Native American&more,2,pos,1,0
+2771,Male,22,Native American&more,2,neg,1,0
+4536,Male,22,Native American&more,3,neg,1,0
+1501,Male,27,Native American&more,4,neg,1,0
+5694,Male,27,African-American,2,pos,1,0
+26,Male,32,Native American&more,0,pos,0,1
+1766,Male,29,African-American,0,pos,1,0
+5312,Male,21,African-American,3,neg,1,0
+6924,Male,67,Native American&more,0,pos,0,1
+3462,Male,44,African-American,7,pos,1,0
+5548,Male,33,Native American&more,2,neg,1,0
+3949,Male,58,Native American&more,5,neg,1,0
+3021,Female,24,African-American,2,pos,0,1
+1756,Male,24,Native American&more,0,pos,1,0
+5173,Male,26,African-American,6,pos,0,1
+3410,Male,26,Native American&more,0,pos,1,0
+3431,Male,25,African-American,4,pos,0,1
+3147,Female,39,Native American&more,8,neg,1,0
+2000,Male,21,Native American&more,1,pos,1,0
+1509,Male,31,Native American&more,2,neg,1,0
+1203,Male,42,African-American,0,pos,0,1
+5370,Male,23,African-American,0,neg,0,1
+4147,Female,26,Native American&more,2,pos,0,1
+248,Male,44,Native American&more,8,neg,0,1
+3861,Female,21,African-American,0,neg,1,0
+4489,Male,31,Native American&more,1,neg,1,0
+6969,Male,54,Native American&more,1,neg,1,0
+435,Male,29,African-American,2,pos,1,0
+605,Male,27,Native American&more,6,neg,1,0
+428,Male,48,Native American&more,1,neg,0,1
+4730,Male,24,African-American,1,neg,1,0
+5764,Male,41,Native American&more,5,neg,0,1
+1195,Male,24,Native American&more,0,pos,1,0
+4803,Male,20,Native American&more,0,neg,1,0
+5772,Female,42,Native American&more,0,neg,1,0
+6639,Male,56,Native American&more,5,neg,0,1
+1714,Female,52,Native American&more,0,pos,0,1
+482,Male,59,Native American&more,1,neg,1,0
+1353,Male,30,African-American,7,neg,1,0
+4790,Male,27,Native American&more,0,pos,1,0
+1911,Male,24,African-American,3,pos,0,1
+5169,Male,25,African-American,0,pos,0,1
+5752,Male,43,Native American&more,1,pos,1,0
+6806,Male,22,Native American&more,0,neg,0,1
+3273,Male,34,Native American&more,14,neg,1,0
+3900,Female,33,Native American&more,0,pos,1,0
+5493,Male,47,Native American&more,5,pos,0,1
+17,Male,25,African-American,3,pos,1,0
+119,Female,30,Native American&more,1,pos,1,0
+469,Female,24,African-American,6,neg,1,0
+4083,Male,23,Native American&more,0,neg,1,0
+1449,Male,52,African-American,15,neg,0,1
+2713,Female,41,Native American&more,1,pos,0,1
+2209,Male,52,Native American&more,9,neg,1,0
+175,Male,31,Native American&more,8,neg,1,0
+706,Male,26,African-American,8,pos,1,0
+4575,Male,25,African-American,2,neg,0,1
+3428,Male,43,Native American&more,2,pos,1,0
+5070,Male,34,African-American,8,neg,1,0
+4662,Male,36,Native American&more,4,neg,0,1
+351,Male,19,African-American,2,neg,1,0
+3871,Female,32,African-American,3,pos,0,1
+3689,Female,52,Native American&more,3,pos,0,1
+5902,Male,21,African-American,0,neg,1,0
+7156,Male,36,African-American,0,pos,0,1
+2278,Male,49,Native American&more,2,pos,1,0
+3901,Male,31,African-American,6,pos,1,0
+1147,Female,24,African-American,0,pos,1,0
+1338,Male,20,African-American,0,neg,1,0
+5954,Male,59,Native American&more,2,neg,0,1
+6602,Male,26,Native American&more,1,pos,0,1
+84,Male,25,African-American,14,neg,1,0
+1404,Female,42,African-American,2,pos,1,0
+2612,Male,29,Native American&more,0,pos,0,1
+1990,Male,42,African-American,2,pos,1,0
+5224,Male,22,Native American&more,0,pos,1,0
+3447,Female,28,Native American&more,0,neg,1,0
+6714,Male,30,African-American,10,neg,1,0
+1162,Male,33,Native American&more,3,pos,0,1
+2293,Male,35,Native American&more,0,pos,0,1
+852,Male,26,African-American,4,neg,0,1
+3316,Male,26,African-American,24,neg,0,1
+4101,Male,42,African-American,17,neg,0,1
+3327,Female,31,Native American&more,2,neg,1,0
+1361,Female,23,African-American,0,pos,0,1
+6108,Male,47,Native American&more,0,pos,1,0
+363,Female,26,African-American,0,pos,0,1
+7050,Female,52,Native American&more,0,pos,0,1
+3276,Male,29,Native American&more,0,pos,0,1
+5037,Male,47,Native American&more,0,pos,0,1
+214,Male,38,African-American,15,pos,1,0
+4971,Female,20,African-American,3,neg,0,1
+5846,Male,27,African-American,0,neg,1,0
+1761,Male,23,African-American,1,neg,1,0
+5667,Female,21,African-American,2,neg,1,0
+3078,Male,56,Native American&more,0,pos,1,0

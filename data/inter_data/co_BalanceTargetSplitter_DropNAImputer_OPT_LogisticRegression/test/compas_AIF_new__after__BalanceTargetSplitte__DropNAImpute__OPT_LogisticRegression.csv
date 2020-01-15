@@ -1,0 +1,2166 @@
+Unnamed: 0,sex,age,race,priors_count,is_recid,c_charge_degree,pred_is_recid
+6493.0,Female,32.0,African-American,0.0,neg,M,neg
+1564.0,Female,56.0,Native American&more,1.0,pos,F,pos
+219.0,Female,51.0,Native American&more,0.0,neg,M,pos
+4427.0,Male,32.0,Native American&more,0.0,neg,F,neg
+5578.0,Male,20.0,Native American&more,0.0,neg,F,neg
+5600.0,Male,30.0,African-American,1.0,pos,F,neg
+1100.0,Female,24.0,Native American&more,2.0,pos,F,neg
+771.0,Male,29.0,African-American,1.0,pos,M,neg
+1278.0,Male,30.0,Native American&more,1.0,neg,F,neg
+6424.0,Male,37.0,Native American&more,1.0,pos,M,neg
+1936.0,Male,69.0,Native American&more,0.0,pos,M,pos
+3242.0,Male,22.0,Native American&more,0.0,neg,M,neg
+4672.0,Male,41.0,Native American&more,1.0,pos,F,neg
+6877.0,Male,52.0,African-American,17.0,neg,F,neg
+5684.0,Male,21.0,Native American&more,2.0,neg,F,neg
+2236.0,Female,19.0,Native American&more,0.0,neg,F,neg
+5906.0,Male,45.0,Native American&more,0.0,pos,F,neg
+3059.0,Male,29.0,Native American&more,6.0,neg,F,neg
+2358.0,Male,34.0,African-American,1.0,pos,F,neg
+5495.0,Male,51.0,African-American,21.0,neg,F,neg
+3430.0,Male,24.0,African-American,1.0,neg,F,neg
+206.0,Male,27.0,African-American,0.0,pos,M,pos
+6380.0,Male,50.0,Native American&more,2.0,pos,F,neg
+3022.0,Male,24.0,African-American,4.0,neg,F,neg
+2924.0,Male,37.0,African-American,3.0,pos,M,neg
+5072.0,Female,23.0,African-American,0.0,neg,F,neg
+2273.0,Male,37.0,Native American&more,1.0,pos,M,neg
+5874.0,Male,46.0,Native American&more,0.0,pos,M,neg
+2621.0,Male,42.0,African-American,0.0,neg,F,neg
+6862.0,Male,34.0,African-American,12.0,neg,F,neg
+3973.0,Female,31.0,Native American&more,0.0,pos,M,neg
+446.0,Female,50.0,African-American,3.0,pos,F,pos
+1104.0,Male,54.0,Native American&more,3.0,neg,M,pos
+7067.0,Male,47.0,African-American,7.0,neg,F,neg
+3175.0,Female,31.0,African-American,0.0,neg,F,neg
+2666.0,Male,31.0,Native American&more,3.0,neg,M,neg
+5103.0,Male,46.0,Native American&more,12.0,neg,F,neg
+5077.0,Male,34.0,African-American,8.0,neg,F,neg
+3130.0,Male,23.0,Native American&more,2.0,pos,F,neg
+1306.0,Male,22.0,African-American,0.0,neg,F,neg
+407.0,Male,32.0,African-American,3.0,pos,F,neg
+5850.0,Female,35.0,African-American,7.0,neg,F,neg
+3095.0,Female,28.0,Native American&more,3.0,pos,F,neg
+5596.0,Female,26.0,African-American,0.0,pos,M,neg
+2055.0,Male,33.0,African-American,11.0,neg,F,neg
+292.0,Male,21.0,African-American,0.0,neg,M,pos
+599.0,Male,59.0,African-American,17.0,neg,F,neg
+6378.0,Male,24.0,Native American&more,0.0,pos,F,neg
+5240.0,Male,34.0,African-American,5.0,pos,M,neg
+2593.0,Male,59.0,African-American,14.0,neg,F,neg
+6584.0,Female,49.0,Native American&more,0.0,pos,F,neg
+5721.0,Male,37.0,Native American&more,9.0,pos,F,neg
+6511.0,Male,27.0,African-American,4.0,neg,F,neg
+3215.0,Male,52.0,African-American,19.0,pos,F,neg
+2453.0,Male,28.0,Native American&more,14.0,pos,F,neg
+2063.0,Male,33.0,Native American&more,3.0,pos,F,neg
+3609.0,Male,54.0,Native American&more,0.0,pos,M,neg
+1143.0,Female,62.0,Native American&more,0.0,pos,M,pos
+741.0,Female,22.0,Native American&more,0.0,pos,M,pos
+3916.0,Male,51.0,Native American&more,6.0,neg,M,neg
+6539.0,Male,34.0,African-American,13.0,neg,F,neg
+1857.0,Male,66.0,Native American&more,0.0,pos,M,pos
+2603.0,Male,34.0,African-American,0.0,neg,M,neg
+5476.0,Male,50.0,Native American&more,1.0,pos,F,neg
+3691.0,Male,37.0,Native American&more,2.0,neg,M,neg
+6090.0,Female,22.0,African-American,0.0,pos,F,neg
+3405.0,Male,20.0,African-American,1.0,neg,F,neg
+3615.0,Female,26.0,Native American&more,1.0,pos,M,neg
+3797.0,Male,23.0,Native American&more,3.0,neg,M,neg
+4480.0,Male,21.0,Native American&more,0.0,neg,F,neg
+5927.0,Male,32.0,Native American&more,5.0,neg,F,neg
+6388.0,Male,32.0,African-American,4.0,neg,F,neg
+1468.0,Female,23.0,African-American,1.0,pos,F,neg
+3564.0,Female,42.0,Native American&more,1.0,neg,F,neg
+6422.0,Male,26.0,African-American,3.0,pos,M,neg
+4303.0,Male,34.0,Native American&more,0.0,neg,F,neg
+1369.0,Male,44.0,Native American&more,0.0,pos,M,pos
+4169.0,Male,36.0,Native American&more,2.0,pos,F,neg
+5071.0,Male,55.0,African-American,0.0,neg,M,neg
+1151.0,Male,35.0,Native American&more,4.0,neg,F,neg
+5852.0,Male,63.0,Native American&more,0.0,pos,F,neg
+2493.0,Male,46.0,African-American,0.0,neg,F,neg
+235.0,Male,52.0,African-American,0.0,pos,F,pos
+2584.0,Male,21.0,African-American,1.0,pos,F,neg
+2198.0,Male,60.0,Native American&more,3.0,pos,F,neg
+4357.0,Male,41.0,Native American&more,3.0,neg,M,neg
+3055.0,Female,21.0,African-American,0.0,pos,M,neg
+168.0,Male,25.0,African-American,1.0,neg,M,pos
+5282.0,Male,53.0,African-American,5.0,pos,F,neg
+5681.0,Male,53.0,African-American,5.0,pos,M,neg
+2623.0,Male,26.0,Native American&more,0.0,pos,M,neg
+1089.0,Female,30.0,Native American&more,5.0,neg,F,neg
+6239.0,Male,29.0,Native American&more,1.0,pos,M,neg
+1869.0,Male,22.0,African-American,0.0,neg,F,neg
+4704.0,Female,39.0,Native American&more,1.0,pos,F,neg
+4978.0,Female,25.0,Native American&more,0.0,pos,M,neg
+3991.0,Female,55.0,Native American&more,6.0,pos,F,neg
+1901.0,Male,27.0,African-American,9.0,neg,F,neg
+4386.0,Male,25.0,African-American,7.0,neg,F,neg
+3027.0,Male,32.0,African-American,2.0,neg,F,neg
+5666.0,Male,31.0,African-American,9.0,neg,F,neg
+1726.0,Male,25.0,African-American,7.0,neg,M,neg
+2401.0,Male,58.0,African-American,16.0,neg,F,neg
+2888.0,Male,58.0,Native American&more,3.0,pos,F,neg
+6096.0,Male,39.0,African-American,4.0,pos,F,neg
+4996.0,Male,36.0,Native American&more,11.0,neg,M,neg
+246.0,Male,53.0,Native American&more,1.0,pos,M,pos
+2215.0,Male,46.0,African-American,10.0,neg,F,neg
+1826.0,Male,67.0,Native American&more,2.0,neg,M,pos
+1833.0,Male,25.0,African-American,1.0,pos,M,neg
+5817.0,Male,31.0,Native American&more,5.0,neg,F,neg
+6890.0,Female,65.0,Native American&more,1.0,pos,F,neg
+1327.0,Female,22.0,Native American&more,1.0,pos,M,neg
+981.0,Male,45.0,Native American&more,2.0,pos,F,pos
+6229.0,Male,27.0,African-American,9.0,neg,F,neg
+3592.0,Male,34.0,African-American,0.0,pos,F,neg
+4931.0,Male,20.0,African-American,0.0,neg,F,neg
+2039.0,Male,34.0,Native American&more,2.0,neg,F,neg
+1662.0,Male,19.0,Native American&more,0.0,neg,M,neg
+4778.0,Male,33.0,African-American,3.0,neg,F,neg
+4789.0,Male,41.0,African-American,24.0,neg,F,neg
+4020.0,Male,60.0,African-American,3.0,pos,M,neg
+6896.0,Male,33.0,Native American&more,1.0,pos,F,neg
+5150.0,Male,25.0,Native American&more,3.0,neg,F,neg
+4752.0,Female,26.0,African-American,3.0,neg,F,neg
+899.0,Male,27.0,African-American,5.0,neg,M,neg
+201.0,Female,37.0,Native American&more,0.0,pos,M,pos
+2766.0,Female,30.0,African-American,9.0,neg,F,neg
+6698.0,Male,22.0,African-American,0.0,neg,M,neg
+2675.0,Male,23.0,African-American,0.0,pos,F,neg
+7185.0,Male,42.0,Native American&more,5.0,pos,F,neg
+4755.0,Male,27.0,African-American,4.0,neg,M,neg
+115.0,Male,41.0,African-American,10.0,neg,F,neg
+5514.0,Male,40.0,African-American,2.0,pos,F,neg
+1359.0,Male,22.0,African-American,1.0,neg,M,neg
+6942.0,Female,29.0,Native American&more,3.0,pos,F,neg
+3796.0,Male,52.0,Native American&more,10.0,pos,F,neg
+930.0,Male,47.0,Native American&more,4.0,neg,F,neg
+5353.0,Male,30.0,Native American&more,0.0,pos,F,neg
+3087.0,Male,21.0,African-American,0.0,neg,M,neg
+1081.0,Female,54.0,Native American&more,0.0,pos,M,pos
+4675.0,Male,34.0,African-American,3.0,pos,M,neg
+5460.0,Male,26.0,African-American,4.0,neg,F,neg
+380.0,Male,42.0,African-American,1.0,pos,F,pos
+3911.0,Female,40.0,African-American,13.0,neg,F,neg
+6713.0,Male,36.0,African-American,0.0,pos,F,neg
+5931.0,Female,32.0,Native American&more,0.0,pos,M,neg
+5244.0,Male,51.0,African-American,19.0,neg,F,neg
+2194.0,Male,36.0,African-American,0.0,neg,M,neg
+4614.0,Male,56.0,African-American,1.0,pos,F,neg
+6362.0,Male,26.0,African-American,2.0,neg,F,neg
+1345.0,Male,34.0,Native American&more,2.0,pos,M,neg
+4533.0,Male,43.0,African-American,1.0,neg,M,neg
+2385.0,Male,26.0,Native American&more,0.0,pos,M,neg
+685.0,Female,32.0,African-American,2.0,pos,F,neg
+5655.0,Male,34.0,African-American,1.0,pos,F,neg
+1091.0,Female,20.0,African-American,0.0,pos,F,neg
+7065.0,Male,51.0,Native American&more,0.0,pos,F,neg
+275.0,Male,25.0,Native American&more,0.0,pos,F,pos
+2513.0,Male,44.0,Native American&more,8.0,neg,F,neg
+2433.0,Female,38.0,African-American,0.0,pos,F,neg
+6645.0,Male,25.0,Native American&more,6.0,neg,M,neg
+6936.0,Male,32.0,African-American,5.0,pos,M,neg
+4206.0,Female,22.0,African-American,2.0,pos,F,neg
+2891.0,Female,53.0,African-American,10.0,neg,F,neg
+6655.0,Male,28.0,African-American,3.0,neg,M,neg
+5044.0,Male,58.0,Native American&more,2.0,neg,M,neg
+4037.0,Male,37.0,Native American&more,4.0,pos,M,neg
+4513.0,Male,29.0,African-American,2.0,pos,M,neg
+1671.0,Male,37.0,African-American,24.0,pos,F,neg
+4819.0,Male,41.0,Native American&more,0.0,neg,F,neg
+4381.0,Male,44.0,African-American,0.0,pos,M,neg
+2742.0,Male,30.0,Native American&more,19.0,neg,F,neg
+2087.0,Female,27.0,Native American&more,2.0,pos,F,neg
+4009.0,Male,34.0,African-American,0.0,neg,M,neg
+5431.0,Female,23.0,Native American&more,0.0,pos,M,neg
+1435.0,Male,26.0,African-American,7.0,neg,F,neg
+5914.0,Male,56.0,Native American&more,1.0,pos,M,neg
+3968.0,Male,23.0,African-American,1.0,pos,M,neg
+6882.0,Male,58.0,Native American&more,12.0,neg,F,neg
+3182.0,Male,24.0,Native American&more,1.0,pos,M,neg
+2463.0,Male,41.0,African-American,18.0,neg,M,neg
+3886.0,Female,34.0,Native American&more,0.0,neg,F,neg
+4585.0,Male,54.0,African-American,4.0,neg,F,neg
+2529.0,Male,60.0,Native American&more,3.0,pos,M,neg
+1329.0,Male,21.0,African-American,2.0,neg,F,neg
+2856.0,Male,57.0,Native American&more,0.0,pos,M,neg
+3842.0,Male,25.0,Native American&more,2.0,neg,F,neg
+51.0,Female,28.0,Native American&more,0.0,pos,F,pos
+5843.0,Male,20.0,Native American&more,1.0,neg,F,neg
+6687.0,Female,25.0,African-American,1.0,neg,M,neg
+3773.0,Male,29.0,African-American,1.0,pos,F,neg
+2316.0,Male,31.0,Native American&more,0.0,pos,F,neg
+6341.0,Male,22.0,Native American&more,4.0,neg,M,neg
+1358.0,Male,33.0,Native American&more,0.0,neg,F,neg
+1412.0,Female,37.0,African-American,0.0,pos,M,pos
+1780.0,Female,60.0,Native American&more,0.0,neg,F,pos
+2806.0,Male,29.0,African-American,1.0,pos,M,neg
+5671.0,Female,24.0,Native American&more,0.0,pos,M,neg
+1856.0,Male,24.0,African-American,0.0,neg,F,neg
+5506.0,Male,20.0,Native American&more,0.0,neg,F,neg
+3413.0,Male,29.0,Native American&more,0.0,pos,F,neg
+5959.0,Male,22.0,African-American,1.0,pos,F,neg
+302.0,Male,24.0,Native American&more,0.0,pos,F,pos
+3945.0,Male,29.0,Native American&more,2.0,pos,F,neg
+4016.0,Female,22.0,Native American&more,2.0,pos,F,neg
+1667.0,Female,25.0,African-American,4.0,neg,M,neg
+5319.0,Male,24.0,African-American,7.0,neg,M,neg
+2689.0,Male,55.0,African-American,0.0,neg,F,neg
+4306.0,Male,51.0,African-American,12.0,neg,F,neg
+4148.0,Male,51.0,African-American,0.0,neg,F,neg
+1815.0,Female,46.0,Native American&more,2.0,pos,F,neg
+345.0,Female,25.0,African-American,2.0,pos,F,neg
+2131.0,Female,26.0,African-American,9.0,neg,M,neg
+3585.0,Male,23.0,Native American&more,0.0,neg,M,neg
+1426.0,Male,41.0,African-American,0.0,pos,M,pos
+3149.0,Female,22.0,Native American&more,0.0,pos,M,neg
+3828.0,Male,29.0,African-American,16.0,neg,F,neg
+4700.0,Male,37.0,Native American&more,4.0,pos,M,neg
+797.0,Male,20.0,Native American&more,0.0,pos,F,neg
+3654.0,Male,43.0,African-American,5.0,pos,F,neg
+1454.0,Male,31.0,Native American&more,2.0,neg,M,neg
+1827.0,Female,22.0,Native American&more,0.0,pos,F,neg
+5061.0,Male,28.0,African-American,2.0,neg,F,neg
+1896.0,Male,29.0,Native American&more,0.0,pos,M,neg
+6571.0,Male,31.0,African-American,6.0,neg,M,neg
+1313.0,Male,45.0,Native American&more,0.0,pos,M,pos
+1336.0,Male,30.0,African-American,6.0,pos,F,neg
+1220.0,Male,47.0,Native American&more,0.0,pos,M,pos
+183.0,Male,22.0,African-American,1.0,neg,F,pos
+2052.0,Male,25.0,African-American,7.0,pos,F,neg
+1418.0,Male,21.0,African-American,1.0,pos,F,neg
+4537.0,Female,33.0,African-American,0.0,pos,F,neg
+3806.0,Male,49.0,African-American,4.0,pos,F,neg
+1881.0,Male,37.0,Native American&more,11.0,neg,F,neg
+5218.0,Female,62.0,Native American&more,1.0,neg,M,neg
+2031.0,Male,31.0,African-American,13.0,neg,M,neg
+5911.0,Male,31.0,African-American,5.0,pos,M,neg
+2559.0,Male,29.0,African-American,13.0,neg,F,neg
+3819.0,Male,25.0,Native American&more,2.0,pos,F,neg
+3128.0,Male,38.0,African-American,3.0,neg,F,neg
+2310.0,Male,49.0,Native American&more,1.0,neg,F,neg
+7120.0,Female,43.0,Native American&more,0.0,pos,M,neg
+4671.0,Female,42.0,African-American,0.0,neg,M,neg
+2526.0,Male,26.0,African-American,5.0,neg,F,neg
+133.0,Female,24.0,African-American,0.0,pos,M,pos
+6427.0,Female,48.0,Native American&more,4.0,neg,F,neg
+159.0,Male,55.0,African-American,3.0,pos,M,pos
+987.0,Male,27.0,African-American,3.0,neg,F,neg
+2926.0,Male,60.0,Native American&more,4.0,pos,F,neg
+1476.0,Male,28.0,Native American&more,2.0,pos,F,neg
+6449.0,Female,53.0,African-American,3.0,pos,F,neg
+2455.0,Female,22.0,African-American,2.0,pos,F,neg
+4479.0,Male,37.0,Native American&more,1.0,pos,F,neg
+3221.0,Male,37.0,African-American,14.0,pos,F,neg
+715.0,Male,22.0,African-American,1.0,pos,F,neg
+3384.0,Male,37.0,Native American&more,3.0,neg,M,neg
+3303.0,Male,24.0,African-American,1.0,neg,F,neg
+5951.0,Male,54.0,African-American,22.0,neg,F,neg
+1056.0,Male,22.0,African-American,5.0,neg,F,neg
+5343.0,Male,24.0,African-American,1.0,neg,M,neg
+1585.0,Male,30.0,African-American,9.0,neg,F,neg
+5774.0,Male,33.0,African-American,0.0,pos,F,neg
+1270.0,Male,28.0,African-American,0.0,pos,M,neg
+2363.0,Male,53.0,Native American&more,1.0,pos,F,neg
+4416.0,Male,24.0,African-American,2.0,neg,M,neg
+5778.0,Female,28.0,African-American,5.0,pos,M,neg
+2949.0,Male,49.0,Native American&more,1.0,pos,M,neg
+5662.0,Male,21.0,Native American&more,2.0,neg,F,neg
+2138.0,Male,21.0,African-American,0.0,pos,F,neg
+6867.0,Female,34.0,Native American&more,0.0,pos,F,neg
+2314.0,Male,56.0,Native American&more,5.0,pos,F,neg
+4749.0,Female,24.0,African-American,2.0,neg,F,neg
+1391.0,Male,48.0,Native American&more,4.0,neg,F,neg
+3672.0,Male,38.0,Native American&more,2.0,pos,F,neg
+6055.0,Male,23.0,African-American,1.0,neg,F,neg
+6451.0,Male,49.0,African-American,0.0,pos,F,neg
+6565.0,Male,43.0,African-American,8.0,neg,F,neg
+5429.0,Male,36.0,Native American&more,5.0,pos,F,neg
+4231.0,Male,23.0,African-American,3.0,neg,F,neg
+689.0,Male,44.0,African-American,14.0,neg,F,neg
+1972.0,Male,20.0,Native American&more,2.0,neg,F,neg
+6903.0,Male,27.0,African-American,5.0,neg,M,neg
+6347.0,Male,44.0,African-American,2.0,pos,M,neg
+4389.0,Male,25.0,Native American&more,0.0,pos,M,neg
+3002.0,Male,36.0,Native American&more,0.0,neg,M,neg
+3471.0,Male,30.0,Native American&more,0.0,neg,M,neg
+980.0,Female,22.0,African-American,0.0,pos,M,neg
+6570.0,Male,24.0,Native American&more,0.0,pos,F,neg
+1591.0,Male,28.0,Native American&more,3.0,pos,F,neg
+700.0,Male,37.0,African-American,6.0,pos,F,neg
+3400.0,Male,55.0,African-American,0.0,pos,F,neg
+3738.0,Male,56.0,African-American,7.0,pos,F,neg
+5530.0,Male,57.0,African-American,16.0,neg,M,neg
+6573.0,Female,46.0,African-American,4.0,pos,F,neg
+6987.0,Male,22.0,African-American,0.0,pos,M,neg
+2271.0,Male,21.0,African-American,1.0,neg,M,neg
+4962.0,Female,64.0,Native American&more,0.0,pos,M,neg
+708.0,Male,23.0,Native American&more,0.0,pos,M,pos
+772.0,Male,27.0,Native American&more,1.0,neg,F,neg
+1122.0,Male,43.0,African-American,9.0,neg,F,neg
+5208.0,Male,52.0,Native American&more,0.0,pos,M,neg
+2861.0,Male,36.0,Native American&more,9.0,neg,M,neg
+3712.0,Male,18.0,Native American&more,4.0,neg,F,neg
+5594.0,Female,22.0,Native American&more,1.0,pos,F,neg
+737.0,Male,24.0,African-American,0.0,pos,F,pos
+6902.0,Male,21.0,Native American&more,0.0,pos,F,neg
+1800.0,Male,28.0,Native American&more,0.0,pos,F,neg
+4552.0,Male,27.0,African-American,3.0,neg,F,neg
+3818.0,Male,39.0,African-American,7.0,neg,F,neg
+5528.0,Male,27.0,African-American,0.0,pos,F,neg
+777.0,Male,47.0,Native American&more,0.0,pos,M,pos
+868.0,Male,39.0,African-American,13.0,neg,F,neg
+2074.0,Male,38.0,Native American&more,2.0,neg,F,neg
+2345.0,Male,42.0,African-American,1.0,pos,F,neg
+2791.0,Male,26.0,African-American,5.0,pos,M,neg
+1283.0,Male,26.0,Native American&more,2.0,neg,F,neg
+2042.0,Male,23.0,African-American,1.0,neg,F,neg
+359.0,Female,23.0,African-American,0.0,neg,F,pos
+1587.0,Male,29.0,Native American&more,1.0,pos,F,neg
+3374.0,Male,26.0,Native American&more,9.0,neg,F,neg
+6492.0,Male,27.0,Native American&more,6.0,neg,F,neg
+3946.0,Male,35.0,Native American&more,8.0,neg,F,neg
+4402.0,Female,41.0,Native American&more,1.0,pos,M,neg
+2851.0,Male,40.0,Native American&more,4.0,neg,F,neg
+5736.0,Male,22.0,African-American,2.0,neg,F,neg
+512.0,Female,48.0,Native American&more,0.0,pos,M,pos
+6648.0,Male,33.0,Native American&more,1.0,pos,M,neg
+2235.0,Male,53.0,Native American&more,1.0,pos,M,neg
+3292.0,Female,23.0,African-American,0.0,pos,F,neg
+3687.0,Male,37.0,African-American,0.0,pos,M,neg
+5801.0,Male,38.0,African-American,0.0,neg,F,neg
+1188.0,Male,31.0,Native American&more,2.0,neg,F,neg
+4273.0,Female,39.0,Native American&more,11.0,neg,F,neg
+5638.0,Male,23.0,African-American,4.0,neg,F,neg
+4269.0,Male,61.0,African-American,13.0,neg,F,neg
+996.0,Male,59.0,Native American&more,1.0,pos,M,pos
+5588.0,Female,46.0,Native American&more,1.0,neg,M,neg
+1853.0,Male,26.0,African-American,8.0,neg,M,neg
+4478.0,Female,34.0,Native American&more,9.0,neg,M,neg
+3640.0,Male,25.0,Native American&more,1.0,pos,M,neg
+4153.0,Male,49.0,African-American,11.0,neg,M,neg
+2309.0,Male,28.0,Native American&more,1.0,neg,F,neg
+6030.0,Male,26.0,Native American&more,0.0,neg,M,neg
+1884.0,Male,21.0,Native American&more,3.0,neg,F,neg
+6280.0,Female,23.0,African-American,0.0,pos,F,neg
+137.0,Male,32.0,African-American,3.0,neg,F,pos
+6174.0,Male,34.0,African-American,16.0,neg,F,neg
+4687.0,Male,23.0,African-American,5.0,neg,F,neg
+6515.0,Male,27.0,African-American,14.0,neg,F,neg
+4756.0,Male,24.0,Native American&more,1.0,neg,F,neg
+936.0,Male,21.0,African-American,1.0,pos,F,neg
+4487.0,Male,27.0,Native American&more,7.0,neg,F,neg
+3145.0,Male,35.0,African-American,0.0,neg,F,neg
+531.0,Male,25.0,African-American,6.0,neg,F,neg
+6311.0,Male,33.0,Native American&more,0.0,pos,M,neg
+6314.0,Male,32.0,Native American&more,7.0,pos,F,neg
+4851.0,Male,20.0,African-American,0.0,neg,M,neg
+5100.0,Female,23.0,African-American,2.0,neg,F,neg
+1898.0,Male,32.0,Native American&more,5.0,neg,F,neg
+128.0,Female,25.0,Native American&more,2.0,pos,F,pos
+6433.0,Female,25.0,African-American,5.0,neg,F,neg
+3347.0,Male,39.0,Native American&more,1.0,pos,M,neg
+2508.0,Male,23.0,African-American,1.0,pos,M,neg
+4901.0,Male,23.0,African-American,2.0,neg,F,neg
+5637.0,Male,32.0,African-American,2.0,pos,F,neg
+2350.0,Female,32.0,Native American&more,0.0,neg,M,neg
+5233.0,Male,37.0,Native American&more,13.0,pos,F,neg
+1981.0,Male,56.0,Native American&more,8.0,pos,M,neg
+1408.0,Male,45.0,Native American&more,1.0,neg,F,pos
+3569.0,Male,32.0,Native American&more,1.0,pos,F,neg
+596.0,Male,20.0,African-American,1.0,pos,F,neg
+5213.0,Female,37.0,Native American&more,0.0,pos,M,neg
+4792.0,Male,45.0,Native American&more,3.0,neg,F,neg
+5141.0,Female,31.0,African-American,2.0,neg,F,neg
+5963.0,Female,52.0,African-American,3.0,pos,M,neg
+1242.0,Male,32.0,Native American&more,0.0,pos,M,neg
+440.0,Male,34.0,Native American&more,0.0,pos,M,pos
+4822.0,Male,22.0,African-American,1.0,neg,F,neg
+3701.0,Female,25.0,Native American&more,0.0,pos,M,neg
+2129.0,Male,55.0,African-American,21.0,neg,F,neg
+3077.0,Male,44.0,Native American&more,8.0,neg,F,neg
+3071.0,Male,35.0,Native American&more,0.0,neg,M,neg
+3937.0,Male,31.0,African-American,11.0,neg,F,neg
+188.0,Male,66.0,African-American,3.0,neg,F,pos
+1298.0,Male,54.0,Native American&more,4.0,pos,M,neg
+4162.0,Male,54.0,African-American,3.0,neg,F,neg
+2229.0,Male,35.0,African-American,13.0,pos,F,neg
+4004.0,Female,24.0,Native American&more,0.0,pos,F,neg
+369.0,Male,21.0,African-American,1.0,neg,F,neg
+854.0,Male,24.0,African-American,5.0,neg,F,neg
+6246.0,Male,21.0,African-American,2.0,neg,F,neg
+6974.0,Male,23.0,Native American&more,6.0,neg,F,neg
+3909.0,Female,23.0,African-American,1.0,pos,F,neg
+2611.0,Male,35.0,African-American,10.0,neg,M,neg
+2043.0,Male,23.0,African-American,3.0,neg,F,neg
+1518.0,Male,32.0,African-American,12.0,neg,F,neg
+718.0,Male,34.0,Native American&more,0.0,neg,M,pos
+4634.0,Male,35.0,Native American&more,0.0,pos,F,neg
+2515.0,Male,21.0,Native American&more,0.0,neg,F,neg
+2359.0,Male,27.0,Native American&more,1.0,pos,F,neg
+921.0,Male,46.0,African-American,0.0,pos,M,pos
+4435.0,Female,40.0,Native American&more,0.0,pos,F,neg
+1578.0,Female,32.0,Native American&more,1.0,neg,M,neg
+6789.0,Female,24.0,African-American,0.0,pos,M,neg
+5001.0,Male,34.0,African-American,0.0,pos,F,neg
+5111.0,Male,20.0,African-American,1.0,neg,F,neg
+892.0,Male,26.0,African-American,9.0,neg,F,neg
+1903.0,Female,52.0,African-American,21.0,neg,F,neg
+1883.0,Male,26.0,African-American,1.0,neg,F,neg
+2972.0,Female,32.0,African-American,0.0,pos,M,neg
+1872.0,Male,46.0,Native American&more,10.0,neg,F,neg
+4543.0,Female,24.0,African-American,4.0,neg,F,neg
+2870.0,Male,28.0,African-American,3.0,pos,M,neg
+5946.0,Female,31.0,African-American,1.0,neg,M,neg
+6784.0,Male,46.0,African-American,4.0,pos,F,neg
+660.0,Male,65.0,African-American,2.0,neg,M,pos
+3853.0,Male,44.0,African-American,0.0,neg,F,neg
+6557.0,Male,20.0,Native American&more,0.0,neg,M,neg
+2711.0,Male,23.0,Native American&more,3.0,neg,M,neg
+3722.0,Male,23.0,African-American,0.0,pos,F,neg
+694.0,Male,47.0,Native American&more,2.0,neg,F,pos
+6906.0,Female,67.0,Native American&more,0.0,pos,M,neg
+4311.0,Male,36.0,Native American&more,1.0,neg,F,neg
+602.0,Female,38.0,African-American,1.0,pos,F,pos
+3606.0,Male,30.0,African-American,1.0,pos,M,neg
+6281.0,Female,52.0,African-American,0.0,neg,F,neg
+4018.0,Male,44.0,African-American,0.0,pos,M,neg
+4991.0,Male,31.0,Native American&more,0.0,pos,M,neg
+4685.0,Male,27.0,Native American&more,2.0,neg,F,neg
+1161.0,Female,35.0,African-American,2.0,pos,F,neg
+6783.0,Male,29.0,African-American,0.0,pos,F,neg
+514.0,Male,28.0,Native American&more,2.0,pos,M,neg
+3670.0,Male,33.0,African-American,8.0,pos,F,neg
+5512.0,Male,19.0,African-American,0.0,neg,F,neg
+6457.0,Male,30.0,Native American&more,1.0,neg,F,neg
+5139.0,Female,45.0,Native American&more,0.0,neg,F,neg
+3539.0,Male,21.0,African-American,1.0,neg,F,neg
+7053.0,Male,26.0,Native American&more,0.0,pos,F,neg
+2854.0,Male,22.0,Native American&more,1.0,neg,F,neg
+3694.0,Male,23.0,African-American,6.0,neg,F,neg
+2399.0,Male,66.0,Native American&more,1.0,pos,F,pos
+6045.0,Male,29.0,Native American&more,2.0,neg,F,neg
+4107.0,Male,45.0,Native American&more,1.0,pos,M,neg
+6020.0,Male,53.0,Native American&more,1.0,pos,F,neg
+7055.0,Male,45.0,African-American,4.0,pos,M,neg
+5640.0,Male,59.0,African-American,9.0,neg,F,neg
+4056.0,Male,23.0,African-American,2.0,neg,M,neg
+2910.0,Female,25.0,Native American&more,2.0,pos,F,neg
+1650.0,Male,25.0,Native American&more,5.0,pos,F,neg
+3627.0,Female,30.0,African-American,0.0,pos,M,neg
+2998.0,Male,60.0,African-American,10.0,pos,F,neg
+7107.0,Male,31.0,African-American,1.0,pos,F,neg
+4070.0,Male,37.0,Native American&more,4.0,neg,M,neg
+4340.0,Male,28.0,Native American&more,1.0,neg,M,neg
+6778.0,Male,29.0,African-American,3.0,neg,M,neg
+6549.0,Male,42.0,Native American&more,8.0,pos,F,neg
+1711.0,Male,34.0,African-American,7.0,neg,F,neg
+6720.0,Male,24.0,African-American,0.0,pos,M,neg
+3289.0,Male,45.0,African-American,13.0,neg,M,neg
+5591.0,Male,21.0,African-American,1.0,neg,F,neg
+2023.0,Male,30.0,African-American,3.0,neg,F,neg
+6991.0,Male,27.0,Native American&more,4.0,neg,F,neg
+2587.0,Male,24.0,Native American&more,1.0,pos,M,neg
+781.0,Male,21.0,Native American&more,2.0,neg,F,neg
+5728.0,Male,32.0,African-American,2.0,pos,M,neg
+485.0,Male,29.0,Native American&more,2.0,pos,M,neg
+1659.0,Male,26.0,African-American,0.0,neg,M,neg
+867.0,Male,24.0,African-American,0.0,pos,F,neg
+394.0,Male,28.0,African-American,5.0,neg,F,neg
+5381.0,Male,45.0,African-American,16.0,pos,F,neg
+6599.0,Male,34.0,African-American,0.0,pos,F,neg
+705.0,Male,53.0,Native American&more,1.0,pos,F,pos
+2340.0,Male,27.0,African-American,8.0,neg,F,neg
+3932.0,Female,21.0,African-American,0.0,neg,F,neg
+208.0,Male,43.0,Native American&more,11.0,neg,F,neg
+1831.0,Male,32.0,Native American&more,9.0,neg,M,neg
+6734.0,Male,22.0,African-American,0.0,pos,M,neg
+2610.0,Male,96.0,Native American&more,2.0,neg,F,pos
+5539.0,Male,42.0,African-American,7.0,pos,F,neg
+4086.0,Female,44.0,Native American&more,0.0,neg,M,neg
+7093.0,Male,44.0,Native American&more,0.0,neg,M,neg
+516.0,Female,34.0,African-American,6.0,pos,F,neg
+5334.0,Male,29.0,Native American&more,0.0,neg,M,neg
+3559.0,Male,36.0,Native American&more,3.0,neg,M,neg
+5108.0,Female,28.0,Native American&more,6.0,neg,M,neg
+5230.0,Male,37.0,Native American&more,8.0,neg,F,neg
+1982.0,Male,58.0,Native American&more,0.0,pos,M,pos
+3098.0,Female,64.0,African-American,1.0,neg,M,neg
+6385.0,Male,31.0,African-American,1.0,pos,F,neg
+4928.0,Male,25.0,African-American,1.0,pos,F,neg
+4567.0,Male,59.0,Native American&more,1.0,neg,F,neg
+4909.0,Male,68.0,African-American,6.0,pos,M,neg
+81.0,Male,41.0,African-American,1.0,pos,M,pos
+5748.0,Male,47.0,Native American&more,13.0,neg,M,neg
+1973.0,Male,58.0,African-American,16.0,neg,F,neg
+335.0,Male,28.0,Native American&more,1.0,pos,F,pos
+3152.0,Male,37.0,Native American&more,2.0,neg,M,neg
+6502.0,Male,26.0,Native American&more,0.0,pos,F,neg
+5654.0,Male,28.0,Native American&more,0.0,pos,F,neg
+4171.0,Male,26.0,African-American,4.0,neg,F,neg
+6094.0,Male,24.0,African-American,8.0,neg,F,neg
+4586.0,Male,51.0,African-American,8.0,pos,M,neg
+3271.0,Male,25.0,African-American,4.0,neg,F,neg
+6845.0,Male,41.0,Native American&more,3.0,pos,M,neg
+945.0,Male,41.0,Native American&more,5.0,pos,F,neg
+578.0,Male,28.0,Native American&more,8.0,neg,F,neg
+1565.0,Male,32.0,Native American&more,2.0,neg,M,neg
+1197.0,Female,54.0,Native American&more,12.0,pos,F,neg
+5816.0,Male,31.0,African-American,0.0,pos,M,neg
+5562.0,Male,28.0,African-American,7.0,neg,F,neg
+6154.0,Male,38.0,Native American&more,5.0,pos,F,neg
+5458.0,Male,30.0,African-American,0.0,pos,F,neg
+6518.0,Male,45.0,African-American,1.0,neg,F,neg
+5875.0,Male,56.0,Native American&more,2.0,pos,M,neg
+4926.0,Female,25.0,African-American,1.0,pos,F,neg
+3207.0,Male,24.0,African-American,0.0,pos,F,neg
+2691.0,Male,44.0,Native American&more,6.0,neg,F,neg
+5271.0,Male,25.0,African-American,0.0,pos,F,neg
+2333.0,Male,28.0,Native American&more,0.0,pos,M,neg
+4812.0,Male,26.0,African-American,24.0,neg,F,neg
+4384.0,Male,42.0,Native American&more,0.0,pos,F,neg
+457.0,Male,29.0,African-American,3.0,neg,F,neg
+3416.0,Male,46.0,Native American&more,2.0,pos,F,neg
+1984.0,Male,46.0,Native American&more,1.0,neg,M,neg
+6080.0,Female,25.0,African-American,0.0,pos,M,neg
+6888.0,Female,23.0,African-American,2.0,neg,M,neg
+1692.0,Female,34.0,Native American&more,1.0,neg,F,neg
+4515.0,Male,62.0,African-American,4.0,pos,F,neg
+1668.0,Male,21.0,Native American&more,0.0,pos,F,neg
+913.0,Male,52.0,Native American&more,1.0,pos,F,pos
+5806.0,Male,60.0,Native American&more,1.0,neg,M,neg
+5813.0,Male,27.0,Native American&more,0.0,pos,M,neg
+4267.0,Male,29.0,African-American,1.0,neg,M,neg
+3073.0,Female,50.0,African-American,0.0,pos,M,neg
+3639.0,Male,51.0,African-American,0.0,neg,M,neg
+3661.0,Male,39.0,Native American&more,9.0,neg,F,neg
+6370.0,Female,64.0,African-American,0.0,pos,F,neg
+6099.0,Female,26.0,African-American,4.0,neg,F,neg
+4951.0,Male,31.0,African-American,6.0,neg,F,neg
+4173.0,Male,26.0,African-American,1.0,neg,M,neg
+5730.0,Male,38.0,African-American,0.0,pos,M,neg
+6519.0,Male,50.0,Native American&more,0.0,pos,M,neg
+4763.0,Male,24.0,Native American&more,0.0,pos,F,neg
+576.0,Female,49.0,Native American&more,2.0,neg,M,pos
+4425.0,Female,23.0,Native American&more,0.0,pos,M,neg
+2219.0,Male,52.0,African-American,1.0,neg,M,neg
+2959.0,Male,24.0,Native American&more,1.0,neg,F,neg
+6600.0,Female,27.0,Native American&more,2.0,neg,F,neg
+5837.0,Male,36.0,African-American,0.0,pos,M,neg
+4450.0,Female,38.0,Native American&more,2.0,pos,M,neg
+1836.0,Male,44.0,African-American,19.0,neg,M,neg
+1177.0,Male,35.0,African-American,1.0,pos,M,neg
+3439.0,Male,28.0,African-American,0.0,pos,M,neg
+194.0,Male,26.0,African-American,9.0,neg,F,neg
+2772.0,Male,31.0,Native American&more,0.0,pos,F,neg
+994.0,Male,69.0,Native American&more,0.0,pos,M,pos
+2253.0,Female,28.0,African-American,0.0,pos,M,neg
+1664.0,Male,57.0,African-American,27.0,pos,M,neg
+4708.0,Female,28.0,Native American&more,1.0,neg,F,neg
+2069.0,Male,22.0,African-American,1.0,neg,F,neg
+2553.0,Male,30.0,Native American&more,0.0,neg,F,neg
+6260.0,Male,52.0,African-American,16.0,neg,F,neg
+2297.0,Female,30.0,African-American,14.0,neg,F,neg
+5354.0,Female,20.0,Native American&more,1.0,pos,F,neg
+114.0,Male,42.0,Native American&more,1.0,neg,F,pos
+1808.0,Female,27.0,Native American&more,3.0,neg,F,neg
+1323.0,Male,32.0,Native American&more,4.0,pos,F,neg
+7125.0,Male,47.0,Native American&more,3.0,neg,M,neg
+5274.0,Male,23.0,Native American&more,6.0,neg,F,neg
+3208.0,Male,23.0,Native American&more,6.0,pos,M,neg
+802.0,Male,36.0,African-American,3.0,neg,F,neg
+4448.0,Male,61.0,African-American,12.0,pos,F,neg
+6972.0,Male,32.0,African-American,4.0,neg,F,neg
+6430.0,Male,46.0,Native American&more,2.0,pos,F,neg
+3063.0,Male,49.0,Native American&more,7.0,neg,F,neg
+6494.0,Male,28.0,Native American&more,8.0,neg,M,neg
+5685.0,Male,36.0,African-American,7.0,neg,F,neg
+5989.0,Female,21.0,African-American,0.0,pos,M,neg
+4927.0,Male,41.0,Native American&more,11.0,neg,F,neg
+299.0,Male,34.0,African-American,5.0,neg,F,neg
+4645.0,Female,24.0,Native American&more,0.0,pos,F,neg
+5012.0,Male,34.0,Native American&more,2.0,neg,M,neg
+1094.0,Female,54.0,Native American&more,1.0,pos,M,pos
+5740.0,Male,65.0,Native American&more,1.0,neg,F,neg
+2609.0,Female,32.0,African-American,0.0,neg,M,neg
+3198.0,Female,35.0,Native American&more,0.0,pos,M,neg
+1955.0,Male,31.0,African-American,4.0,neg,M,neg
+6296.0,Female,32.0,Native American&more,8.0,neg,M,neg
+1392.0,Male,22.0,Native American&more,5.0,neg,F,neg
+4455.0,Male,44.0,Native American&more,1.0,pos,F,neg
+1652.0,Male,29.0,African-American,5.0,neg,F,neg
+4548.0,Male,32.0,Native American&more,1.0,neg,M,neg
+3604.0,Male,24.0,Native American&more,3.0,neg,F,neg
+5307.0,Male,29.0,African-American,5.0,neg,F,neg
+5538.0,Male,21.0,Native American&more,0.0,neg,F,neg
+3249.0,Male,32.0,African-American,10.0,neg,F,neg
+1986.0,Male,46.0,African-American,2.0,pos,F,neg
+4197.0,Female,31.0,African-American,2.0,pos,M,neg
+2580.0,Male,38.0,African-American,1.0,neg,F,neg
+6521.0,Male,25.0,Native American&more,1.0,neg,F,neg
+2810.0,Male,20.0,Native American&more,0.0,neg,F,neg
+1758.0,Male,65.0,Native American&more,4.0,pos,M,neg
+5245.0,Female,26.0,African-American,1.0,neg,F,neg
+4507.0,Female,28.0,Native American&more,0.0,neg,M,neg
+3238.0,Male,57.0,African-American,8.0,neg,M,neg
+3764.0,Male,29.0,African-American,2.0,pos,F,neg
+2448.0,Male,34.0,African-American,0.0,pos,F,neg
+3934.0,Male,29.0,African-American,29.0,neg,F,neg
+3228.0,Male,34.0,African-American,9.0,neg,F,neg
+3026.0,Male,38.0,Native American&more,1.0,pos,F,neg
+6730.0,Female,31.0,African-American,4.0,pos,F,neg
+5155.0,Male,28.0,Native American&more,3.0,neg,M,neg
+6178.0,Male,39.0,Native American&more,2.0,neg,F,neg
+5210.0,Male,26.0,Native American&more,2.0,pos,F,neg
+6669.0,Male,44.0,Native American&more,0.0,neg,F,neg
+3074.0,Male,31.0,African-American,1.0,pos,M,neg
+4168.0,Male,26.0,African-American,10.0,neg,F,neg
+5223.0,Male,41.0,African-American,14.0,neg,F,neg
+5705.0,Male,35.0,Native American&more,4.0,pos,F,neg
+2544.0,Male,45.0,African-American,0.0,neg,F,neg
+6958.0,Male,21.0,African-American,5.0,neg,M,neg
+5557.0,Male,21.0,African-American,0.0,pos,F,neg
+1806.0,Male,31.0,Native American&more,0.0,pos,M,neg
+178.0,Male,58.0,Native American&more,0.0,pos,F,pos
+3161.0,Male,25.0,Native American&more,2.0,pos,F,neg
+3953.0,Male,24.0,African-American,0.0,neg,F,neg
+1940.0,Female,24.0,African-American,6.0,pos,M,neg
+4605.0,Male,23.0,Native American&more,0.0,pos,F,neg
+1796.0,Male,25.0,African-American,4.0,neg,F,neg
+6037.0,Male,23.0,African-American,0.0,pos,F,neg
+2024.0,Female,50.0,African-American,7.0,pos,M,neg
+6114.0,Male,20.0,African-American,1.0,neg,F,neg
+1506.0,Male,55.0,Native American&more,11.0,pos,M,neg
+7158.0,Male,21.0,African-American,1.0,pos,F,neg
+4709.0,Female,70.0,Native American&more,0.0,pos,F,neg
+4897.0,Male,26.0,African-American,5.0,neg,F,neg
+4898.0,Male,26.0,African-American,10.0,neg,F,neg
+6999.0,Male,30.0,African-American,18.0,neg,F,neg
+7048.0,Male,44.0,Native American&more,1.0,pos,M,neg
+3189.0,Male,31.0,African-American,0.0,pos,F,neg
+4244.0,Female,23.0,African-American,0.0,neg,M,neg
+5953.0,Male,34.0,African-American,12.0,neg,F,neg
+419.0,Male,31.0,African-American,7.0,neg,M,neg
+2671.0,Male,26.0,Native American&more,0.0,pos,M,neg
+1583.0,Male,43.0,Native American&more,11.0,neg,F,neg
+4627.0,Male,31.0,African-American,4.0,neg,M,neg
+5028.0,Male,39.0,Native American&more,2.0,pos,F,neg
+7100.0,Male,25.0,African-American,3.0,neg,F,neg
+4379.0,Male,26.0,African-American,3.0,neg,M,neg
+4445.0,Female,47.0,African-American,21.0,neg,M,neg
+4775.0,Male,25.0,Native American&more,2.0,pos,F,neg
+317.0,Female,42.0,Native American&more,0.0,pos,F,pos
+6876.0,Male,36.0,Native American&more,5.0,pos,F,neg
+3799.0,Male,51.0,Native American&more,6.0,neg,F,neg
+5396.0,Female,31.0,Native American&more,14.0,pos,F,neg
+3057.0,Female,65.0,Native American&more,1.0,pos,F,neg
+2802.0,Male,21.0,Native American&more,0.0,pos,M,neg
+3326.0,Male,48.0,African-American,6.0,pos,F,neg
+1078.0,Male,24.0,African-American,1.0,neg,M,neg
+6780.0,Female,34.0,Native American&more,0.0,neg,F,neg
+5750.0,Female,25.0,African-American,6.0,neg,F,neg
+5930.0,Male,34.0,Native American&more,1.0,pos,M,neg
+7207.0,Male,30.0,African-American,0.0,neg,M,neg
+6719.0,Male,26.0,Native American&more,0.0,pos,F,neg
+6265.0,Female,25.0,African-American,2.0,pos,M,neg
+4968.0,Female,33.0,Native American&more,1.0,pos,M,neg
+2462.0,Male,32.0,African-American,1.0,neg,F,neg
+3757.0,Female,45.0,Native American&more,0.0,pos,M,neg
+2272.0,Male,48.0,African-American,1.0,pos,F,neg
+5456.0,Male,26.0,African-American,6.0,pos,M,neg
+2784.0,Female,27.0,African-American,0.0,pos,F,neg
+3655.0,Male,37.0,African-American,11.0,neg,M,neg
+6663.0,Female,51.0,Native American&more,1.0,pos,F,neg
+3173.0,Male,25.0,African-American,3.0,neg,F,neg
+4541.0,Male,62.0,Native American&more,2.0,pos,F,neg
+410.0,Female,39.0,Native American&more,0.0,pos,M,pos
+3385.0,Female,31.0,African-American,3.0,pos,F,neg
+228.0,Male,33.0,Native American&more,4.0,neg,F,neg
+3907.0,Male,55.0,Native American&more,0.0,pos,M,neg
+5998.0,Male,25.0,African-American,5.0,pos,M,neg
+588.0,Male,21.0,African-American,4.0,neg,F,neg
+699.0,Male,46.0,African-American,0.0,pos,F,pos
+1852.0,Male,23.0,African-American,0.0,pos,F,neg
+2250.0,Male,25.0,African-American,21.0,neg,F,neg
+2509.0,Male,30.0,Native American&more,3.0,pos,M,neg
+5597.0,Female,50.0,Native American&more,7.0,neg,M,neg
+2753.0,Female,32.0,African-American,0.0,pos,F,neg
+982.0,Male,29.0,African-American,0.0,pos,M,pos
+6910.0,Male,42.0,Native American&more,5.0,pos,F,neg
+327.0,Male,24.0,African-American,2.0,neg,F,neg
+374.0,Male,34.0,Native American&more,1.0,pos,M,pos
+6357.0,Female,24.0,Native American&more,7.0,pos,M,neg
+5735.0,Male,30.0,African-American,8.0,neg,M,neg
+2519.0,Male,53.0,African-American,1.0,pos,M,neg
+890.0,Female,29.0,African-American,1.0,pos,F,neg
+4527.0,Female,27.0,African-American,0.0,neg,F,neg
+746.0,Male,24.0,Native American&more,1.0,pos,F,neg
+7116.0,Male,22.0,African-American,1.0,neg,F,neg
+4826.0,Female,49.0,Native American&more,4.0,pos,M,neg
+6733.0,Male,33.0,Native American&more,2.0,pos,M,neg
+5157.0,Female,22.0,Native American&more,0.0,neg,F,neg
+2556.0,Male,26.0,Native American&more,5.0,pos,M,neg
+983.0,Male,54.0,African-American,2.0,pos,M,pos
+2613.0,Male,27.0,Native American&more,8.0,neg,F,neg
+2639.0,Female,25.0,African-American,2.0,neg,F,neg
+7134.0,Female,26.0,African-American,4.0,neg,F,neg
+5628.0,Male,28.0,African-American,3.0,pos,M,neg
+7128.0,Male,36.0,Native American&more,20.0,neg,F,neg
+3984.0,Male,41.0,African-American,3.0,pos,F,neg
+3324.0,Female,38.0,African-American,0.0,pos,M,neg
+6382.0,Male,51.0,African-American,12.0,neg,F,neg
+6348.0,Male,26.0,African-American,4.0,pos,M,neg
+2242.0,Male,31.0,African-American,2.0,neg,F,neg
+3076.0,Male,44.0,Native American&more,2.0,pos,M,neg
+57.0,Male,49.0,African-American,4.0,pos,M,pos
+5958.0,Male,45.0,Native American&more,1.0,neg,F,neg
+6065.0,Male,33.0,Native American&more,0.0,pos,M,neg
+2315.0,Female,24.0,African-American,0.0,pos,F,neg
+3307.0,Male,28.0,Native American&more,2.0,neg,F,neg
+4167.0,Male,30.0,African-American,6.0,neg,M,neg
+4539.0,Male,23.0,African-American,1.0,neg,F,neg
+5067.0,Male,20.0,African-American,0.0,pos,F,neg
+849.0,Male,21.0,African-American,1.0,pos,F,neg
+4354.0,Male,35.0,Native American&more,2.0,pos,F,neg
+5536.0,Male,34.0,African-American,0.0,neg,F,neg
+6625.0,Male,31.0,Native American&more,8.0,pos,M,neg
+2645.0,Male,26.0,African-American,0.0,pos,F,neg
+2409.0,Male,33.0,Native American&more,0.0,pos,F,neg
+3389.0,Male,52.0,Native American&more,1.0,pos,F,neg
+5217.0,Male,58.0,Native American&more,5.0,pos,M,neg
+1282.0,Male,30.0,Native American&more,0.0,pos,M,neg
+1654.0,Male,57.0,African-American,19.0,pos,F,neg
+3014.0,Male,31.0,Native American&more,3.0,neg,M,neg
+5821.0,Male,24.0,Native American&more,6.0,pos,F,neg
+3251.0,Male,24.0,African-American,1.0,pos,M,neg
+2935.0,Male,47.0,African-American,15.0,pos,F,neg
+1330.0,Female,29.0,African-American,1.0,neg,F,neg
+6268.0,Male,39.0,African-American,3.0,neg,M,neg
+6699.0,Female,20.0,Native American&more,0.0,neg,F,neg
+5294.0,Male,25.0,African-American,1.0,pos,F,neg
+2807.0,Female,24.0,Native American&more,0.0,pos,F,neg
+6044.0,Male,33.0,African-American,9.0,neg,M,neg
+1804.0,Male,36.0,Native American&more,14.0,neg,F,neg
+2061.0,Female,43.0,Native American&more,7.0,pos,F,neg
+520.0,Male,24.0,Native American&more,0.0,pos,F,pos
+4549.0,Male,51.0,Native American&more,3.0,pos,F,neg
+59.0,Male,35.0,African-American,5.0,pos,F,neg
+909.0,Male,39.0,African-American,6.0,neg,M,neg
+3650.0,Male,27.0,African-American,2.0,neg,F,neg
+714.0,Male,45.0,African-American,0.0,pos,M,pos
+1467.0,Male,31.0,African-American,6.0,neg,F,neg
+5546.0,Male,30.0,African-American,4.0,pos,F,neg
+6934.0,Male,26.0,African-American,2.0,neg,F,neg
+6374.0,Male,30.0,Native American&more,0.0,pos,M,neg
+5124.0,Male,27.0,Native American&more,0.0,neg,M,neg
+3827.0,Male,27.0,Native American&more,1.0,pos,M,neg
+2793.0,Male,60.0,African-American,9.0,pos,F,neg
+4844.0,Male,23.0,African-American,1.0,pos,F,neg
+2622.0,Male,29.0,African-American,0.0,pos,M,neg
+3961.0,Male,37.0,Native American&more,4.0,neg,M,neg
+5433.0,Male,33.0,Native American&more,5.0,neg,F,neg
+6957.0,Male,25.0,Native American&more,1.0,pos,F,neg
+4010.0,Male,46.0,African-American,1.0,neg,M,neg
+1031.0,Male,46.0,Native American&more,5.0,pos,M,neg
+973.0,Male,23.0,African-American,2.0,neg,F,neg
+5511.0,Male,39.0,Native American&more,16.0,neg,F,neg
+1642.0,Male,21.0,African-American,1.0,neg,F,neg
+2227.0,Male,62.0,African-American,1.0,pos,M,pos
+5886.0,Female,27.0,African-American,1.0,neg,M,neg
+2507.0,Female,21.0,African-American,4.0,neg,M,neg
+4307.0,Male,25.0,Native American&more,1.0,pos,F,neg
+6012.0,Female,33.0,African-American,3.0,neg,M,neg
+334.0,Female,23.0,Native American&more,1.0,neg,M,pos
+4238.0,Male,47.0,Native American&more,28.0,neg,F,neg
+5904.0,Male,23.0,African-American,0.0,pos,F,neg
+3800.0,Male,24.0,African-American,8.0,neg,F,neg
+2551.0,Female,21.0,African-American,0.0,neg,F,neg
+6226.0,Male,45.0,Native American&more,0.0,pos,M,neg
+4524.0,Female,61.0,African-American,1.0,pos,F,neg
+1500.0,Male,21.0,Native American&more,5.0,neg,F,neg
+6496.0,Male,22.0,Native American&more,2.0,neg,M,neg
+370.0,Male,22.0,Native American&more,2.0,neg,M,neg
+4588.0,Male,23.0,Native American&more,0.0,pos,F,neg
+1879.0,Male,26.0,African-American,6.0,pos,F,neg
+4736.0,Male,31.0,African-American,12.0,neg,F,neg
+4832.0,Male,45.0,Native American&more,1.0,pos,F,neg
+6853.0,Male,30.0,African-American,8.0,neg,F,neg
+244.0,Male,32.0,African-American,14.0,pos,F,neg
+840.0,Male,28.0,African-American,1.0,neg,F,neg
+2030.0,Female,24.0,Native American&more,1.0,pos,F,neg
+6266.0,Female,20.0,Native American&more,4.0,neg,F,neg
+5802.0,Male,46.0,Native American&more,1.0,pos,F,neg
+1402.0,Male,27.0,African-American,3.0,neg,F,neg
+247.0,Male,28.0,African-American,25.0,neg,F,neg
+355.0,Male,69.0,Native American&more,0.0,pos,M,pos
+1739.0,Male,19.0,Native American&more,1.0,neg,F,neg
+2260.0,Male,29.0,African-American,11.0,neg,F,neg
+1250.0,Male,57.0,Native American&more,0.0,pos,M,pos
+6629.0,Male,25.0,African-American,2.0,neg,M,neg
+6696.0,Female,26.0,African-American,0.0,pos,M,neg
+4651.0,Male,55.0,Native American&more,0.0,pos,F,neg
+1638.0,Male,45.0,Native American&more,0.0,pos,F,pos
+2808.0,Male,24.0,Native American&more,2.0,neg,F,neg
+6842.0,Male,53.0,Native American&more,8.0,pos,M,neg
+1307.0,Male,32.0,African-American,4.0,neg,M,neg
+4657.0,Male,55.0,Native American&more,0.0,neg,F,neg
+1710.0,Male,47.0,African-American,6.0,pos,F,neg
+3852.0,Male,25.0,African-American,0.0,pos,F,neg
+5785.0,Female,27.0,African-American,0.0,neg,M,neg
+5019.0,Male,24.0,African-American,0.0,pos,M,neg
+3753.0,Male,27.0,Native American&more,13.0,neg,F,neg
+52.0,Male,48.0,Native American&more,20.0,neg,F,neg
+5252.0,Male,23.0,Native American&more,0.0,pos,M,neg
+1696.0,Male,58.0,Native American&more,1.0,pos,F,pos
+3341.0,Female,57.0,African-American,0.0,pos,M,neg
+675.0,Male,46.0,African-American,17.0,neg,F,neg
+5903.0,Male,38.0,African-American,6.0,pos,F,neg
+1259.0,Male,30.0,Native American&more,9.0,neg,M,neg
+5190.0,Male,21.0,Native American&more,0.0,neg,F,neg
+1677.0,Female,49.0,Native American&more,8.0,pos,F,neg
+2485.0,Male,38.0,Native American&more,0.0,pos,F,neg
+1285.0,Male,21.0,Native American&more,0.0,pos,F,neg
+1493.0,Male,37.0,African-American,12.0,neg,M,neg
+3560.0,Female,36.0,African-American,3.0,neg,F,neg
+4904.0,Female,21.0,Native American&more,0.0,pos,M,neg
+5807.0,Female,39.0,African-American,3.0,neg,F,neg
+3508.0,Male,37.0,African-American,3.0,neg,F,neg
+895.0,Male,27.0,Native American&more,1.0,pos,M,neg
+4900.0,Male,53.0,Native American&more,3.0,neg,M,neg
+1873.0,Male,38.0,Native American&more,1.0,neg,F,neg
+571.0,Male,38.0,African-American,15.0,neg,F,neg
+4397.0,Male,30.0,African-American,4.0,pos,F,neg
+2796.0,Male,21.0,African-American,0.0,pos,F,neg
+1837.0,Male,28.0,African-American,1.0,neg,F,neg
+1637.0,Male,22.0,African-American,0.0,pos,F,neg
+1596.0,Male,29.0,Native American&more,3.0,pos,F,neg
+7082.0,Male,34.0,Native American&more,13.0,pos,F,neg
+387.0,Male,35.0,African-American,2.0,pos,F,pos
+433.0,Male,24.0,Native American&more,3.0,neg,F,neg
+5734.0,Female,43.0,Native American&more,0.0,neg,M,neg
+303.0,Male,33.0,Native American&more,1.0,neg,M,pos
+6230.0,Male,30.0,Native American&more,0.0,pos,F,neg
+6051.0,Female,37.0,African-American,0.0,pos,F,neg
+703.0,Male,40.0,Native American&more,1.0,pos,F,pos
+3125.0,Male,23.0,African-American,1.0,pos,F,neg
+6819.0,Male,23.0,Native American&more,3.0,pos,M,neg
+2532.0,Female,33.0,African-American,3.0,neg,F,neg
+6468.0,Male,35.0,Native American&more,13.0,pos,F,neg
+4295.0,Male,40.0,Native American&more,1.0,pos,M,neg
+880.0,Male,28.0,African-American,1.0,pos,F,neg
+5709.0,Female,61.0,Native American&more,0.0,pos,F,neg
+3692.0,Male,42.0,Native American&more,4.0,neg,F,neg
+5583.0,Male,24.0,African-American,2.0,neg,M,neg
+3046.0,Male,21.0,African-American,1.0,neg,F,neg
+3261.0,Male,32.0,Native American&more,10.0,neg,F,neg
+5664.0,Male,52.0,African-American,0.0,pos,F,neg
+3449.0,Male,21.0,African-American,0.0,neg,M,neg
+1355.0,Male,43.0,Native American&more,4.0,neg,F,neg
+5006.0,Male,32.0,Native American&more,0.0,neg,M,neg
+5176.0,Female,43.0,Native American&more,0.0,pos,M,neg
+6192.0,Male,33.0,African-American,5.0,neg,M,neg
+3599.0,Male,43.0,Native American&more,0.0,pos,M,neg
+4506.0,Male,29.0,Native American&more,0.0,pos,F,neg
+7109.0,Female,29.0,African-American,2.0,neg,F,neg
+18.0,Male,31.0,Native American&more,6.0,neg,F,neg
+5504.0,Male,27.0,Native American&more,4.0,pos,F,neg
+4815.0,Male,20.0,African-American,4.0,neg,F,neg
+1712.0,Male,45.0,Native American&more,1.0,pos,M,neg
+1281.0,Male,26.0,Native American&more,1.0,neg,M,neg
+4057.0,Male,26.0,African-American,0.0,pos,M,neg
+5089.0,Male,34.0,Native American&more,5.0,neg,F,neg
+362.0,Female,60.0,Native American&more,0.0,pos,M,pos
+4433.0,Male,61.0,Native American&more,1.0,pos,F,neg
+4788.0,Male,36.0,African-American,2.0,neg,F,neg
+2038.0,Male,35.0,African-American,0.0,neg,F,neg
+2413.0,Male,35.0,Native American&more,1.0,pos,F,neg
+4760.0,Male,65.0,Native American&more,3.0,pos,F,neg
+3338.0,Male,20.0,African-American,2.0,neg,F,neg
+6039.0,Male,66.0,Native American&more,0.0,pos,M,neg
+6349.0,Female,26.0,African-American,0.0,pos,M,neg
+1867.0,Female,58.0,African-American,3.0,pos,M,neg
+46.0,Male,35.0,African-American,13.0,neg,F,neg
+3280.0,Male,30.0,African-American,8.0,neg,F,neg
+7036.0,Male,33.0,African-American,2.0,pos,M,neg
+2970.0,Male,25.0,Native American&more,2.0,pos,F,neg
+2787.0,Male,27.0,Native American&more,0.0,pos,F,neg
+3723.0,Male,38.0,Native American&more,1.0,pos,M,neg
+3313.0,Male,25.0,African-American,1.0,pos,F,neg
+6998.0,Male,26.0,Native American&more,1.0,pos,M,neg
+5422.0,Male,23.0,African-American,1.0,pos,F,neg
+2379.0,Male,50.0,Native American&more,0.0,pos,F,neg
+6820.0,Female,47.0,Native American&more,0.0,pos,M,neg
+7121.0,Female,28.0,African-American,6.0,neg,M,neg
+928.0,Female,33.0,Native American&more,1.0,pos,M,pos
+2096.0,Female,24.0,Native American&more,0.0,pos,F,neg
+6781.0,Male,23.0,African-American,1.0,neg,M,neg
+3418.0,Male,23.0,African-American,0.0,neg,F,neg
+5781.0,Male,21.0,Native American&more,1.0,pos,F,neg
+4475.0,Male,27.0,Native American&more,2.0,pos,F,neg
+674.0,Male,36.0,African-American,0.0,neg,M,pos
+7186.0,Male,36.0,African-American,9.0,pos,F,neg
+3432.0,Male,28.0,African-American,0.0,pos,F,neg
+5814.0,Male,22.0,African-American,2.0,pos,F,neg
+6840.0,Male,47.0,Native American&more,1.0,pos,F,neg
+6177.0,Male,26.0,African-American,1.0,neg,F,neg
+6683.0,Male,25.0,Native American&more,4.0,pos,F,neg
+3963.0,Male,19.0,African-American,3.0,neg,F,neg
+2682.0,Female,41.0,African-American,6.0,pos,M,neg
+6462.0,Male,54.0,African-American,4.0,neg,F,neg
+2082.0,Male,34.0,African-American,4.0,neg,F,neg
+1423.0,Male,39.0,Native American&more,1.0,neg,F,neg
+1934.0,Male,26.0,African-American,8.0,neg,F,neg
+2153.0,Female,20.0,Native American&more,0.0,neg,M,neg
+954.0,Male,36.0,African-American,5.0,neg,M,neg
+4076.0,Male,21.0,African-American,1.0,neg,F,neg
+45.0,Male,25.0,Native American&more,9.0,neg,M,neg
+3186.0,Male,50.0,Native American&more,5.0,pos,F,neg
+4305.0,Male,47.0,Native American&more,2.0,pos,F,neg
+1927.0,Male,23.0,African-American,0.0,neg,F,neg
+2127.0,Male,51.0,African-American,4.0,neg,M,neg
+5439.0,Male,28.0,African-American,8.0,neg,M,neg
+3081.0,Male,21.0,African-American,1.0,neg,F,neg
+1776.0,Male,54.0,African-American,0.0,pos,M,pos
+3403.0,Male,27.0,Native American&more,0.0,pos,F,neg
+5844.0,Male,38.0,African-American,5.0,pos,M,neg
+5885.0,Male,26.0,African-American,2.0,pos,F,neg
+7114.0,Male,43.0,African-American,5.0,pos,M,neg
+1328.0,Male,26.0,African-American,6.0,neg,M,neg
+429.0,Male,37.0,Native American&more,0.0,pos,F,pos
+2614.0,Male,41.0,Native American&more,2.0,pos,F,neg
+5113.0,Male,28.0,African-American,2.0,pos,F,neg
+1314.0,Female,51.0,Native American&more,5.0,pos,F,neg
+1439.0,Male,30.0,African-American,2.0,pos,M,neg
+4189.0,Male,24.0,African-American,1.0,neg,M,neg
+1594.0,Male,25.0,Native American&more,0.0,pos,F,neg
+6618.0,Female,28.0,African-American,1.0,pos,F,neg
+483.0,Male,35.0,Native American&more,0.0,pos,F,pos
+5023.0,Male,25.0,African-American,8.0,neg,F,neg
+4044.0,Male,34.0,Native American&more,5.0,neg,M,neg
+2053.0,Female,33.0,Native American&more,0.0,pos,M,neg
+4190.0,Male,47.0,African-American,1.0,pos,F,neg
+759.0,Female,23.0,Native American&more,0.0,pos,M,pos
+3104.0,Male,23.0,African-American,0.0,pos,F,neg
+2431.0,Male,75.0,Native American&more,2.0,pos,M,pos
+7182.0,Female,49.0,Native American&more,2.0,pos,F,neg
+6899.0,Male,29.0,African-American,8.0,neg,M,neg
+3317.0,Male,27.0,African-American,1.0,pos,F,neg
+6194.0,Male,36.0,African-American,17.0,neg,F,neg
+4997.0,Female,23.0,African-American,1.0,pos,F,neg
+6278.0,Male,26.0,African-American,5.0,pos,M,neg
+7208.0,Male,20.0,African-American,0.0,pos,F,neg
+861.0,Male,30.0,African-American,1.0,pos,F,neg
+1488.0,Male,32.0,African-American,2.0,pos,F,neg
+3813.0,Male,31.0,Native American&more,3.0,pos,M,neg
+4283.0,Female,33.0,African-American,5.0,pos,F,neg
+1546.0,Male,33.0,Native American&more,2.0,pos,M,neg
+6088.0,Female,29.0,Native American&more,0.0,pos,M,neg
+3004.0,Male,37.0,Native American&more,3.0,neg,M,neg
+6035.0,Male,24.0,Native American&more,4.0,neg,F,neg
+4326.0,Male,51.0,African-American,0.0,neg,F,neg
+910.0,Male,22.0,African-American,1.0,neg,F,neg
+4090.0,Female,45.0,Native American&more,0.0,pos,M,neg
+6963.0,Male,22.0,Native American&more,3.0,pos,F,neg
+6150.0,Male,29.0,Native American&more,0.0,pos,F,neg
+7010.0,Male,32.0,African-American,9.0,pos,F,neg
+6112.0,Male,28.0,African-American,12.0,neg,M,neg
+1400.0,Female,38.0,African-American,14.0,neg,F,neg
+1567.0,Male,29.0,African-American,2.0,pos,M,neg
+7031.0,Male,26.0,Native American&more,1.0,pos,F,neg
+251.0,Female,37.0,Native American&more,0.0,pos,M,pos
+7209.0,Male,23.0,African-American,0.0,pos,F,neg
+1817.0,Male,27.0,African-American,5.0,neg,F,neg
+6823.0,Male,30.0,Native American&more,0.0,pos,M,neg
+5859.0,Male,25.0,Native American&more,4.0,neg,F,neg
+1948.0,Male,46.0,Native American&more,9.0,pos,M,neg
+6274.0,Male,22.0,African-American,0.0,neg,F,neg
+2628.0,Male,20.0,African-American,0.0,pos,F,neg
+1016.0,Male,24.0,Native American&more,3.0,pos,M,neg
+4674.0,Male,57.0,African-American,1.0,pos,F,neg
+2633.0,Male,27.0,Native American&more,4.0,pos,F,neg
+3365.0,Female,54.0,Native American&more,2.0,pos,F,neg
+4638.0,Male,38.0,Native American&more,2.0,pos,F,neg
+4030.0,Male,22.0,African-American,0.0,neg,F,neg
+944.0,Male,35.0,Native American&more,2.0,pos,F,neg
+7154.0,Male,26.0,African-American,2.0,pos,M,neg
+2498.0,Male,47.0,African-American,0.0,neg,M,neg
+4241.0,Male,58.0,Native American&more,4.0,neg,F,neg
+4501.0,Female,35.0,African-American,2.0,pos,F,neg
+619.0,Male,55.0,African-American,9.0,neg,M,neg
+1576.0,Male,25.0,Native American&more,6.0,pos,F,neg
+2953.0,Male,34.0,African-American,8.0,pos,F,neg
+205.0,Male,26.0,African-American,2.0,neg,F,pos
+6704.0,Male,29.0,African-American,9.0,neg,F,neg
+2539.0,Male,69.0,African-American,22.0,pos,M,neg
+3802.0,Male,43.0,African-American,8.0,neg,F,neg
+916.0,Male,49.0,African-American,3.0,neg,F,pos
+4744.0,Male,23.0,African-American,2.0,neg,F,neg
+826.0,Female,23.0,African-American,1.0,pos,F,neg
+3791.0,Female,53.0,Native American&more,0.0,pos,M,neg
+2977.0,Male,32.0,African-American,0.0,neg,F,neg
+6982.0,Female,40.0,Native American&more,3.0,neg,F,neg
+6595.0,Male,31.0,Native American&more,5.0,pos,M,neg
+38.0,Male,34.0,African-American,21.0,neg,F,neg
+2282.0,Male,43.0,Native American&more,5.0,pos,F,neg
+3246.0,Male,31.0,Native American&more,1.0,pos,M,neg
+404.0,Male,56.0,African-American,5.0,pos,F,pos
+3069.0,Male,27.0,Native American&more,1.0,pos,M,neg
+6591.0,Male,25.0,Native American&more,5.0,neg,F,neg
+6881.0,Male,54.0,Native American&more,0.0,pos,M,neg
+3464.0,Female,30.0,African-American,15.0,neg,M,neg
+5270.0,Male,42.0,Native American&more,1.0,pos,M,neg
+1812.0,Male,44.0,Native American&more,0.0,pos,M,neg
+2510.0,Female,45.0,African-American,2.0,pos,F,neg
+5717.0,Female,20.0,African-American,0.0,neg,M,neg
+3591.0,Male,22.0,African-American,0.0,neg,F,neg
+3954.0,Male,48.0,African-American,10.0,pos,F,neg
+5880.0,Male,32.0,Native American&more,0.0,pos,M,neg
+947.0,Female,21.0,Native American&more,0.0,neg,M,neg
+5827.0,Female,56.0,Native American&more,3.0,pos,F,neg
+1757.0,Female,35.0,Native American&more,3.0,pos,F,neg
+7044.0,Male,63.0,African-American,1.0,pos,F,neg
+2435.0,Male,28.0,Native American&more,0.0,neg,F,neg
+2638.0,Female,33.0,Native American&more,0.0,pos,M,neg
+3525.0,Male,21.0,African-American,0.0,neg,F,neg
+1388.0,Male,20.0,African-American,0.0,neg,F,neg
+1535.0,Male,24.0,African-American,0.0,neg,F,neg
+3998.0,Male,33.0,African-American,17.0,neg,F,neg
+1085.0,Male,34.0,African-American,1.0,pos,M,neg
+5254.0,Male,29.0,African-American,6.0,neg,F,neg
+5212.0,Male,27.0,African-American,0.0,pos,F,neg
+5305.0,Male,59.0,Native American&more,0.0,pos,M,neg
+2903.0,Male,71.0,Native American&more,1.0,pos,M,neg
+3419.0,Female,23.0,African-American,1.0,neg,F,neg
+5114.0,Male,33.0,African-American,7.0,neg,F,neg
+3404.0,Male,23.0,African-American,2.0,neg,F,neg
+532.0,Male,32.0,Native American&more,1.0,neg,F,pos
+3479.0,Male,58.0,Native American&more,1.0,neg,F,neg
+6961.0,Female,32.0,Native American&more,1.0,pos,F,neg
+1446.0,Male,44.0,African-American,2.0,pos,F,neg
+6368.0,Male,24.0,Native American&more,1.0,neg,F,neg
+6534.0,Female,21.0,African-American,2.0,pos,F,neg
+1878.0,Female,25.0,African-American,1.0,neg,M,neg
+4021.0,Male,49.0,Native American&more,0.0,pos,F,neg
+5440.0,Female,21.0,Native American&more,3.0,neg,M,neg
+2121.0,Male,23.0,African-American,2.0,pos,F,neg
+3700.0,Male,42.0,African-American,0.0,pos,F,neg
+584.0,Male,30.0,Native American&more,0.0,neg,M,pos
+2407.0,Female,41.0,Native American&more,12.0,neg,F,neg
+7117.0,Male,74.0,Native American&more,2.0,pos,F,neg
+5452.0,Female,27.0,Native American&more,6.0,pos,F,neg
+583.0,Male,23.0,Native American&more,1.0,pos,M,neg
+5835.0,Male,30.0,African-American,0.0,pos,F,neg
+5587.0,Male,44.0,African-American,29.0,neg,F,neg
+970.0,Male,32.0,African-American,5.0,neg,M,neg
+1602.0,Female,51.0,Native American&more,5.0,neg,M,neg
+3493.0,Male,34.0,African-American,27.0,pos,M,neg
+5745.0,Male,36.0,Native American&more,0.0,neg,M,neg
+2295.0,Male,26.0,African-American,2.0,pos,F,neg
+6258.0,Male,26.0,Native American&more,0.0,pos,M,neg
+2216.0,Male,21.0,Native American&more,1.0,pos,F,neg
+6391.0,Male,24.0,African-American,0.0,pos,F,neg
+666.0,Male,37.0,African-American,11.0,pos,F,neg
+3623.0,Male,21.0,Native American&more,1.0,neg,F,neg
+962.0,Male,56.0,Native American&more,0.0,pos,M,pos
+4599.0,Female,58.0,Native American&more,1.0,pos,M,neg
+1137.0,Female,24.0,African-American,0.0,pos,F,neg
+4067.0,Male,29.0,Native American&more,8.0,neg,M,neg
+7062.0,Male,36.0,African-American,9.0,neg,F,neg
+1745.0,Male,59.0,African-American,4.0,pos,M,neg
+6846.0,Male,45.0,African-American,6.0,pos,F,neg
+1040.0,Male,40.0,African-American,0.0,pos,F,pos
+2816.0,Male,38.0,Native American&more,0.0,pos,M,neg
+6847.0,Male,47.0,Native American&more,2.0,pos,M,neg
+333.0,Female,25.0,Native American&more,2.0,neg,M,neg
+7142.0,Male,23.0,African-American,0.0,pos,F,neg
+192.0,Male,37.0,African-American,2.0,neg,M,pos
+1373.0,Male,51.0,Native American&more,1.0,pos,F,pos
+4697.0,Male,35.0,Native American&more,1.0,pos,F,neg
+2429.0,Male,74.0,Native American&more,0.0,pos,M,pos
+6165.0,Male,23.0,African-American,3.0,neg,M,neg
+4830.0,Male,21.0,Native American&more,1.0,pos,F,neg
+3237.0,Female,51.0,Native American&more,2.0,pos,M,neg
+229.0,Male,54.0,African-American,11.0,pos,F,neg
+1498.0,Male,40.0,Native American&more,0.0,pos,F,pos
+2813.0,Male,53.0,Native American&more,1.0,pos,F,neg
+2745.0,Female,44.0,Native American&more,1.0,neg,F,neg
+1854.0,Male,36.0,Native American&more,5.0,neg,M,neg
+5840.0,Female,34.0,African-American,5.0,neg,F,neg
+7206.0,Male,21.0,Native American&more,0.0,neg,M,neg
+5658.0,Male,29.0,Native American&more,11.0,neg,F,neg
+4026.0,Male,34.0,African-American,0.0,pos,F,neg
+2447.0,Male,53.0,Native American&more,0.0,pos,M,neg
+590.0,Male,25.0,African-American,0.0,neg,M,pos
+1146.0,Male,35.0,Native American&more,0.0,pos,M,pos
+3319.0,Male,21.0,Native American&more,0.0,neg,M,neg
+5771.0,Female,29.0,Native American&more,0.0,pos,M,neg
+5015.0,Male,46.0,African-American,18.0,neg,F,neg
+264.0,Male,30.0,African-American,2.0,neg,F,pos
+833.0,Male,48.0,African-American,25.0,neg,F,neg
+1427.0,Male,23.0,Native American&more,5.0,neg,M,neg
+4601.0,Male,28.0,Native American&more,2.0,neg,F,neg
+5497.0,Male,76.0,Native American&more,0.0,pos,F,neg
+1620.0,Male,31.0,African-American,8.0,neg,M,neg
+5708.0,Male,29.0,Native American&more,12.0,neg,M,neg
+1636.0,Male,55.0,Native American&more,3.0,neg,F,neg
+5901.0,Female,43.0,Native American&more,0.0,neg,F,neg
+6563.0,Female,24.0,African-American,2.0,neg,F,neg
+792.0,Female,23.0,Native American&more,0.0,pos,M,pos
+2086.0,Male,42.0,African-American,1.0,neg,F,neg
+2997.0,Male,25.0,African-American,5.0,neg,F,neg
+1238.0,Male,24.0,Native American&more,4.0,pos,M,neg
+3008.0,Male,29.0,African-American,5.0,neg,F,neg
+4179.0,Male,33.0,African-American,13.0,neg,F,neg
+3803.0,Male,45.0,African-American,20.0,neg,M,neg
+1257.0,Female,32.0,Native American&more,0.0,neg,F,neg
+6967.0,Female,21.0,Native American&more,0.0,neg,M,neg
+3589.0,Male,44.0,Native American&more,5.0,pos,F,neg
+155.0,Female,32.0,African-American,4.0,neg,F,neg
+6234.0,Male,32.0,African-American,7.0,neg,F,neg
+4573.0,Male,30.0,African-American,2.0,neg,F,neg
+401.0,Male,26.0,African-American,6.0,pos,F,neg
+683.0,Male,48.0,Native American&more,3.0,neg,F,pos
+1689.0,Female,28.0,African-American,2.0,neg,F,neg
+2007.0,Male,28.0,African-American,4.0,pos,F,neg
+5981.0,Male,35.0,African-American,13.0,neg,F,neg
+3485.0,Male,24.0,African-American,0.0,pos,F,neg
+3421.0,Male,24.0,African-American,1.0,neg,F,neg
+2985.0,Male,41.0,African-American,2.0,neg,M,neg
+1899.0,Male,33.0,African-American,14.0,neg,F,neg
+5082.0,Male,26.0,African-American,0.0,neg,F,neg
+7164.0,Male,31.0,Native American&more,7.0,neg,M,neg
+5203.0,Male,30.0,African-American,4.0,pos,M,neg
+5313.0,Male,69.0,African-American,1.0,neg,F,neg
+3680.0,Male,25.0,African-American,11.0,neg,F,neg
+2457.0,Male,29.0,African-American,6.0,neg,F,neg
+9.0,Male,21.0,Native American&more,1.0,neg,F,pos
+4714.0,Male,28.0,African-American,1.0,pos,F,neg
+2698.0,Male,56.0,Native American&more,7.0,neg,F,neg
+5529.0,Female,26.0,Native American&more,1.0,neg,F,neg
+6446.0,Male,25.0,Native American&more,1.0,neg,M,neg
+2225.0,Male,32.0,Native American&more,0.0,neg,F,neg
+7105.0,Male,24.0,Native American&more,0.0,pos,M,neg
+1272.0,Male,24.0,African-American,0.0,neg,F,neg
+4603.0,Male,26.0,African-American,6.0,neg,F,neg
+6741.0,Female,63.0,Native American&more,0.0,pos,M,neg
+2022.0,Female,33.0,Native American&more,1.0,pos,M,neg
+6834.0,Male,32.0,Native American&more,6.0,neg,M,neg
+6512.0,Male,29.0,Native American&more,0.0,neg,F,neg
+7005.0,Male,56.0,Native American&more,0.0,neg,M,neg
+5295.0,Male,26.0,African-American,2.0,pos,F,neg
+894.0,Male,52.0,Native American&more,1.0,neg,F,pos
+1324.0,Male,39.0,Native American&more,3.0,pos,F,neg
+2372.0,Female,53.0,Native American&more,0.0,pos,M,neg
+4629.0,Female,27.0,Native American&more,0.0,neg,M,neg
+5830.0,Male,22.0,African-American,2.0,neg,M,neg
+6207.0,Male,24.0,Native American&more,0.0,pos,M,neg
+442.0,Male,20.0,African-American,1.0,neg,F,neg
+5868.0,Male,41.0,African-American,0.0,pos,F,neg
+4212.0,Male,50.0,African-American,0.0,pos,M,neg
+1779.0,Male,50.0,Native American&more,11.0,pos,M,neg
+2989.0,Male,51.0,Native American&more,14.0,neg,F,neg
+1178.0,Male,25.0,African-American,4.0,neg,F,neg
+3265.0,Male,52.0,Native American&more,3.0,pos,F,neg
+2568.0,Male,27.0,Native American&more,0.0,pos,M,neg
+4883.0,Male,34.0,African-American,5.0,pos,F,neg
+884.0,Male,32.0,African-American,1.0,pos,F,neg
+906.0,Male,24.0,Native American&more,0.0,pos,F,neg
+2849.0,Female,64.0,Native American&more,0.0,pos,F,neg
+3379.0,Male,33.0,Native American&more,0.0,pos,F,neg
+1216.0,Male,38.0,African-American,1.0,pos,M,neg
+3491.0,Male,47.0,Native American&more,3.0,pos,M,neg
+3780.0,Female,32.0,African-American,1.0,pos,M,neg
+1154.0,Male,56.0,African-American,0.0,pos,F,pos
+1205.0,Male,28.0,African-American,5.0,neg,F,neg
+7167.0,Male,30.0,Native American&more,2.0,pos,M,neg
+1717.0,Male,51.0,African-American,1.0,pos,F,neg
+3667.0,Male,25.0,African-American,0.0,neg,M,neg
+2389.0,Male,31.0,Native American&more,11.0,neg,F,neg
+6746.0,Male,21.0,African-American,0.0,pos,F,neg
+3329.0,Male,30.0,Native American&more,7.0,pos,F,neg
+1640.0,Male,22.0,Native American&more,0.0,neg,M,neg
+1528.0,Female,29.0,African-American,11.0,pos,F,neg
+830.0,Male,21.0,Native American&more,0.0,neg,F,neg
+5722.0,Male,42.0,African-American,7.0,neg,F,neg
+4504.0,Male,29.0,African-American,17.0,neg,F,neg
+621.0,Female,22.0,African-American,0.0,pos,M,pos
+2757.0,Male,34.0,Native American&more,2.0,pos,F,neg
+1311.0,Male,20.0,African-American,2.0,neg,F,neg
+1983.0,Male,22.0,African-American,1.0,neg,F,neg
+5197.0,Male,22.0,African-American,0.0,pos,F,neg
+680.0,Male,23.0,African-American,2.0,neg,M,neg
+1582.0,Male,27.0,African-American,1.0,pos,F,neg
+3398.0,Male,46.0,African-American,8.0,neg,M,neg
+5427.0,Male,26.0,African-American,3.0,neg,F,neg
+5893.0,Male,34.0,Native American&more,0.0,pos,M,neg
+3760.0,Male,31.0,African-American,9.0,neg,M,neg
+2952.0,Male,22.0,Native American&more,0.0,pos,F,neg
+3807.0,Male,42.0,African-American,0.0,neg,F,neg
+5723.0,Female,29.0,Native American&more,1.0,pos,F,neg
+3285.0,Male,27.0,African-American,6.0,neg,F,neg
+3085.0,Male,52.0,African-American,3.0,neg,M,neg
+179.0,Male,78.0,Native American&more,1.0,neg,M,pos
+4362.0,Male,20.0,African-American,1.0,neg,F,neg
+3685.0,Male,36.0,Native American&more,1.0,pos,M,neg
+3902.0,Male,53.0,Native American&more,18.0,pos,F,neg
+1381.0,Male,41.0,African-American,2.0,pos,F,neg
+4242.0,Female,40.0,Native American&more,4.0,neg,F,neg
+2615.0,Male,31.0,Native American&more,0.0,pos,M,neg
+405.0,Male,27.0,African-American,9.0,neg,F,neg
+6198.0,Female,24.0,African-American,0.0,pos,F,neg
+5473.0,Male,47.0,Native American&more,1.0,pos,M,neg
+7058.0,Female,26.0,Native American&more,1.0,pos,M,neg
+5216.0,Male,23.0,African-American,3.0,neg,F,neg
+1437.0,Female,60.0,Native American&more,2.0,pos,F,pos
+617.0,Male,28.0,African-American,10.0,pos,F,neg
+2907.0,Female,54.0,Native American&more,1.0,pos,M,neg
+501.0,Male,26.0,Native American&more,7.0,neg,F,neg
+2490.0,Male,29.0,Native American&more,1.0,pos,F,neg
+4400.0,Male,26.0,African-American,18.0,neg,F,neg
+2992.0,Male,24.0,Native American&more,0.0,neg,F,neg
+5325.0,Male,37.0,African-American,12.0,pos,M,neg
+5167.0,Male,26.0,Native American&more,1.0,neg,F,neg
+6292.0,Female,34.0,African-American,5.0,neg,F,neg
+4213.0,Female,24.0,Native American&more,2.0,neg,F,neg
+2427.0,Male,61.0,African-American,30.0,pos,F,neg
+4610.0,Male,26.0,Native American&more,7.0,neg,F,neg
+6581.0,Male,63.0,African-American,22.0,neg,M,neg
+2369.0,Male,42.0,African-American,4.0,pos,M,neg
+1706.0,Female,26.0,African-American,3.0,pos,F,neg
+182.0,Male,38.0,African-American,22.0,neg,F,neg
+690.0,Male,53.0,Native American&more,2.0,pos,F,pos
+4867.0,Female,51.0,Native American&more,0.0,pos,F,neg
+3456.0,Male,27.0,Native American&more,0.0,neg,F,neg
+6811.0,Male,22.0,Native American&more,1.0,pos,M,neg
+2875.0,Male,23.0,African-American,2.0,neg,M,neg
+609.0,Male,28.0,African-American,5.0,neg,M,neg
+5008.0,Male,36.0,African-American,0.0,pos,F,neg
+565.0,Male,40.0,Native American&more,5.0,pos,F,neg
+6143.0,Male,47.0,Native American&more,22.0,neg,F,neg
+4415.0,Female,51.0,Native American&more,0.0,pos,M,neg
+4886.0,Female,29.0,African-American,1.0,pos,M,neg
+5975.0,Male,39.0,Native American&more,1.0,pos,F,neg
+3743.0,Male,21.0,African-American,1.0,pos,F,neg
+413.0,Female,27.0,African-American,1.0,neg,F,pos
+3344.0,Male,31.0,African-American,3.0,neg,F,neg
+2656.0,Male,36.0,African-American,6.0,pos,F,neg
+1777.0,Male,37.0,Native American&more,3.0,neg,F,neg
+49.0,Male,29.0,African-American,0.0,pos,F,pos
+6870.0,Male,45.0,Native American&more,2.0,pos,M,neg
+2111.0,Male,29.0,African-American,4.0,neg,F,neg
+4964.0,Male,43.0,Native American&more,8.0,pos,F,neg
+5701.0,Female,29.0,Native American&more,0.0,pos,F,neg
+6100.0,Male,61.0,African-American,2.0,pos,M,neg
+3880.0,Male,52.0,Native American&more,4.0,neg,M,neg
+3310.0,Female,24.0,African-American,2.0,neg,F,neg
+6485.0,Male,35.0,African-American,9.0,pos,F,neg
+4465.0,Male,24.0,Native American&more,1.0,pos,F,neg
+7161.0,Male,28.0,Native American&more,1.0,pos,F,neg
+6651.0,Male,25.0,African-American,2.0,pos,F,neg
+5494.0,Male,66.0,Native American&more,2.0,pos,M,neg
+2170.0,Female,40.0,Native American&more,0.0,pos,F,neg
+2483.0,Male,33.0,African-American,14.0,pos,F,neg
+5331.0,Male,50.0,African-American,1.0,pos,F,neg
+1770.0,Female,21.0,African-American,0.0,pos,F,neg
+6232.0,Male,43.0,African-American,2.0,pos,F,neg
+5335.0,Female,50.0,Native American&more,1.0,neg,F,neg
+1189.0,Male,38.0,Native American&more,0.0,pos,F,pos
+1970.0,Male,59.0,African-American,4.0,neg,F,neg
+6007.0,Male,21.0,African-American,0.0,neg,F,neg
+5913.0,Male,32.0,African-American,5.0,neg,F,neg
+5005.0,Male,35.0,Native American&more,16.0,neg,F,neg
+3513.0,Male,21.0,Native American&more,0.0,pos,F,neg
+1026.0,Male,24.0,African-American,1.0,pos,M,neg
+1428.0,Male,43.0,Native American&more,1.0,neg,F,neg
+5232.0,Male,45.0,Native American&more,21.0,neg,F,neg
+1232.0,Male,24.0,African-American,8.0,neg,F,neg
+3340.0,Male,31.0,African-American,10.0,neg,F,neg
+4615.0,Male,51.0,Native American&more,3.0,pos,F,neg
+4027.0,Male,55.0,African-American,5.0,neg,F,neg
+3415.0,Male,37.0,African-American,0.0,neg,F,neg
+4584.0,Male,22.0,African-American,1.0,neg,F,neg
+1289.0,Male,45.0,Native American&more,0.0,pos,M,pos
+800.0,Male,83.0,Native American&more,0.0,pos,M,pos
+1371.0,Male,28.0,African-American,2.0,neg,F,neg
+2664.0,Female,33.0,Native American&more,2.0,pos,F,neg
+731.0,Female,36.0,African-American,4.0,neg,F,neg
+3972.0,Male,57.0,Native American&more,6.0,pos,F,neg
+3605.0,Male,43.0,Native American&more,2.0,pos,M,neg
+1153.0,Male,23.0,African-American,1.0,pos,M,neg
+5095.0,Male,25.0,Native American&more,2.0,neg,M,neg
+1612.0,Male,51.0,African-American,8.0,pos,F,neg
+2683.0,Male,35.0,African-American,0.0,pos,F,neg
+5889.0,Female,43.0,Native American&more,0.0,pos,F,neg
+6220.0,Male,31.0,African-American,0.0,pos,F,neg
+5383.0,Male,31.0,Native American&more,3.0,neg,M,neg
+6475.0,Male,52.0,African-American,0.0,neg,M,neg
+5065.0,Male,22.0,Native American&more,0.0,neg,F,neg
+3202.0,Male,45.0,Native American&more,0.0,pos,M,neg
+6218.0,Male,22.0,Native American&more,1.0,pos,M,neg
+3323.0,Female,24.0,African-American,0.0,pos,M,neg
+298.0,Male,23.0,Native American&more,0.0,neg,F,pos
+6940.0,Male,24.0,African-American,12.0,pos,M,neg
+569.0,Female,35.0,African-American,6.0,neg,F,neg
+3602.0,Male,24.0,African-American,1.0,neg,F,neg
+489.0,Male,50.0,Native American&more,5.0,neg,F,neg
+2805.0,Male,51.0,Native American&more,2.0,pos,F,neg
+5266.0,Male,41.0,Native American&more,0.0,pos,M,neg
+1477.0,Female,25.0,Native American&more,5.0,pos,F,neg
+6767.0,Male,31.0,Native American&more,8.0,neg,M,neg
+1210.0,Male,21.0,Native American&more,1.0,pos,F,neg
+458.0,Male,52.0,Native American&more,6.0,neg,F,neg
+7115.0,Male,29.0,African-American,2.0,neg,F,neg
+5826.0,Male,29.0,African-American,7.0,neg,F,neg
+4667.0,Male,38.0,African-American,7.0,neg,F,neg
+3926.0,Male,33.0,Native American&more,5.0,neg,F,neg
+5419.0,Male,26.0,African-American,6.0,neg,F,neg
+768.0,Male,23.0,Native American&more,2.0,pos,M,neg
+3737.0,Male,49.0,Native American&more,0.0,pos,F,neg
+6532.0,Female,22.0,African-American,0.0,pos,M,neg
+5663.0,Male,44.0,African-American,0.0,pos,F,neg
+5916.0,Male,43.0,African-American,2.0,pos,M,neg
+461.0,Male,55.0,African-American,5.0,neg,F,pos
+4230.0,Male,59.0,African-American,15.0,neg,M,neg
+4525.0,Male,30.0,African-American,9.0,neg,F,neg
+4827.0,Female,35.0,Native American&more,2.0,pos,M,neg
+4409.0,Male,44.0,Native American&more,7.0,neg,F,neg
+2705.0,Female,19.0,African-American,0.0,neg,M,neg
+1110.0,Female,32.0,Native American&more,1.0,pos,F,neg
+6071.0,Male,45.0,Native American&more,0.0,pos,M,neg
+6421.0,Male,30.0,African-American,2.0,neg,F,neg
+4750.0,Female,26.0,African-American,1.0,pos,F,neg
+5116.0,Male,22.0,African-American,1.0,neg,M,neg
+121.0,Male,27.0,African-American,3.0,neg,F,neg
+2517.0,Female,62.0,Native American&more,0.0,pos,M,pos
+6175.0,Male,41.0,Native American&more,1.0,neg,M,neg
+4140.0,Male,39.0,African-American,21.0,neg,F,neg
+331.0,Male,21.0,Native American&more,3.0,neg,F,neg
+2892.0,Male,29.0,African-American,0.0,pos,F,neg
+6626.0,Female,39.0,African-American,1.0,pos,F,neg
+189.0,Male,45.0,Native American&more,8.0,neg,M,neg
+7073.0,Female,49.0,Native American&more,2.0,pos,M,neg
+6054.0,Female,34.0,African-American,0.0,pos,F,neg
+5687.0,Female,25.0,Native American&more,0.0,pos,M,neg
+2937.0,Male,24.0,African-American,3.0,neg,F,neg
+451.0,Female,46.0,African-American,2.0,neg,F,pos
+2502.0,Male,26.0,Native American&more,9.0,neg,M,neg
+1508.0,Male,28.0,African-American,3.0,pos,F,neg
+3441.0,Female,48.0,Native American&more,2.0,pos,F,neg
+1946.0,Male,21.0,Native American&more,0.0,pos,F,neg
+7099.0,Male,23.0,Native American&more,2.0,pos,F,neg
+722.0,Male,68.0,Native American&more,0.0,pos,M,pos
+3097.0,Male,26.0,Native American&more,0.0,pos,M,neg
+3349.0,Male,20.0,African-American,0.0,neg,F,neg
+1600.0,Male,21.0,African-American,0.0,neg,F,neg
+6498.0,Male,52.0,African-American,7.0,neg,F,neg
+6452.0,Female,44.0,Native American&more,0.0,neg,M,neg
+509.0,Female,35.0,African-American,12.0,pos,M,neg
+2877.0,Male,44.0,African-American,0.0,pos,F,neg
+5879.0,Male,20.0,Native American&more,1.0,neg,F,neg
+998.0,Male,29.0,African-American,2.0,pos,F,neg
+6694.0,Male,67.0,African-American,3.0,pos,F,neg
+6855.0,Male,23.0,African-American,0.0,pos,F,neg
+5766.0,Female,27.0,Native American&more,0.0,pos,M,neg
+7212.0,Female,33.0,African-American,3.0,pos,M,neg
+2220.0,Male,48.0,Native American&more,0.0,pos,M,neg
+4995.0,Male,49.0,African-American,1.0,neg,M,neg
+6488.0,Male,27.0,African-American,5.0,neg,F,neg
+4516.0,Male,39.0,Native American&more,0.0,pos,M,neg
+1979.0,Male,21.0,African-American,1.0,pos,F,neg
+3967.0,Male,31.0,African-American,6.0,pos,F,neg
+3981.0,Male,29.0,African-American,12.0,neg,F,neg
+5948.0,Male,22.0,Native American&more,0.0,neg,F,neg
+3302.0,Male,23.0,African-American,3.0,neg,F,neg
+2355.0,Male,51.0,African-American,1.0,neg,M,neg
+2885.0,Male,50.0,Native American&more,1.0,pos,F,neg
+1741.0,Male,30.0,Native American&more,1.0,neg,M,neg
+2821.0,Male,28.0,African-American,14.0,neg,M,neg
+41.0,Male,51.0,African-American,2.0,pos,M,pos
+1937.0,Male,27.0,African-American,1.0,pos,F,neg
+755.0,Male,26.0,African-American,4.0,neg,F,neg
+5969.0,Male,20.0,African-American,1.0,neg,F,neg
+5724.0,Male,44.0,Native American&more,4.0,pos,F,neg
+6346.0,Male,24.0,African-American,0.0,pos,F,neg
+3068.0,Male,21.0,African-American,1.0,neg,F,neg
+6822.0,Female,30.0,Native American&more,5.0,neg,F,neg
+5017.0,Male,57.0,African-American,0.0,neg,F,neg
+5014.0,Male,37.0,Native American&more,1.0,neg,F,neg
+3809.0,Male,25.0,African-American,2.0,neg,F,neg
+864.0,Female,22.0,Native American&more,1.0,pos,F,neg
+4103.0,Male,38.0,Native American&more,2.0,neg,F,neg
+1754.0,Male,27.0,African-American,0.0,neg,F,neg
+4198.0,Male,83.0,Native American&more,4.0,pos,F,neg
+6305.0,Male,39.0,African-American,0.0,pos,M,neg
+1957.0,Male,37.0,Native American&more,0.0,pos,F,neg
+3423.0,Male,48.0,African-American,10.0,pos,F,neg
+5716.0,Female,34.0,Native American&more,1.0,pos,F,neg
+6227.0,Male,36.0,African-American,7.0,pos,M,neg
+6666.0,Male,33.0,Native American&more,0.0,neg,M,neg
+5234.0,Male,24.0,African-American,2.0,pos,M,neg
+949.0,Male,27.0,African-American,10.0,neg,F,neg
+5241.0,Male,55.0,Native American&more,18.0,neg,F,neg
+1357.0,Male,19.0,African-American,2.0,neg,F,neg
+2846.0,Male,33.0,Native American&more,5.0,neg,M,neg
+2183.0,Male,32.0,African-American,14.0,neg,F,neg
+2016.0,Male,26.0,African-American,13.0,neg,M,neg
+6060.0,Male,24.0,African-American,1.0,neg,F,neg
+1.0,Male,34.0,African-American,0.0,neg,F,pos
+4510.0,Male,35.0,Native American&more,3.0,neg,M,neg
+1759.0,Male,29.0,African-American,7.0,neg,F,neg
+6405.0,Male,36.0,African-American,0.0,pos,F,neg
+6901.0,Female,42.0,Native American&more,0.0,pos,F,neg
+7032.0,Male,74.0,Native American&more,0.0,pos,M,neg
+3086.0,Female,52.0,Native American&more,0.0,neg,F,neg
+1363.0,Female,33.0,Native American&more,0.0,pos,M,neg
+5845.0,Male,46.0,Native American&more,0.0,pos,M,neg
+6966.0,Male,25.0,Native American&more,0.0,pos,M,neg
+2076.0,Male,25.0,African-American,4.0,neg,F,neg
+688.0,Male,36.0,African-American,1.0,pos,M,pos
+4838.0,Male,40.0,African-American,15.0,neg,F,neg
+1632.0,Male,21.0,Native American&more,0.0,pos,F,neg
+559.0,Male,38.0,African-American,0.0,pos,F,pos
+4329.0,Male,52.0,African-American,1.0,pos,F,neg
+2769.0,Male,32.0,Native American&more,0.0,neg,M,neg
+1202.0,Male,20.0,African-American,1.0,pos,F,neg
+2694.0,Male,21.0,African-American,1.0,pos,F,neg
+972.0,Female,30.0,African-American,3.0,pos,F,neg
+3644.0,Male,35.0,African-American,5.0,neg,F,neg
+4046.0,Female,50.0,African-American,12.0,neg,M,neg
+4008.0,Female,48.0,African-American,0.0,pos,M,neg
+5680.0,Male,32.0,Native American&more,0.0,neg,F,neg
+4437.0,Female,28.0,Native American&more,0.0,pos,M,neg
+2708.0,Male,51.0,African-American,8.0,neg,M,neg
+6435.0,Female,33.0,African-American,2.0,neg,F,neg
+2980.0,Male,34.0,Native American&more,2.0,neg,M,neg
+1068.0,Male,50.0,Native American&more,2.0,pos,M,pos
+6442.0,Male,29.0,African-American,3.0,neg,F,neg
+6748.0,Male,55.0,African-American,1.0,pos,F,neg
+2381.0,Male,39.0,Native American&more,0.0,pos,F,neg
+1444.0,Female,26.0,African-American,3.0,neg,F,neg
+3030.0,Male,69.0,Native American&more,0.0,neg,M,neg
+4553.0,Male,28.0,Native American&more,0.0,pos,F,neg
+1887.0,Male,25.0,Native American&more,0.0,pos,F,neg
+6122.0,Male,46.0,African-American,3.0,neg,M,neg
+5727.0,Male,39.0,Native American&more,0.0,neg,F,neg
+174.0,Male,55.0,Native American&more,1.0,pos,F,pos
+6533.0,Female,25.0,African-American,0.0,pos,M,neg
+4294.0,Male,56.0,African-American,12.0,neg,F,neg
+3348.0,Male,40.0,African-American,1.0,pos,F,neg
+702.0,Male,27.0,African-American,10.0,neg,F,neg
+6771.0,Male,25.0,African-American,1.0,pos,F,neg
+6721.0,Male,43.0,Native American&more,1.0,pos,F,neg
+798.0,Female,24.0,African-American,1.0,neg,M,neg
+1230.0,Male,20.0,Native American&more,8.0,neg,F,neg
+1892.0,Male,32.0,Native American&more,15.0,neg,F,neg
+6723.0,Male,28.0,Native American&more,4.0,pos,F,neg
+1719.0,Male,39.0,African-American,1.0,pos,F,neg
+2867.0,Male,26.0,Native American&more,1.0,neg,F,neg
+2342.0,Male,36.0,Native American&more,9.0,pos,F,neg
+4163.0,Male,39.0,Native American&more,0.0,pos,F,neg
+3637.0,Male,28.0,African-American,5.0,pos,M,neg
+3511.0,Female,36.0,Native American&more,3.0,neg,F,neg
+4014.0,Female,54.0,Native American&more,7.0,pos,F,neg
+4981.0,Male,27.0,African-American,0.0,neg,M,neg
+5956.0,Male,37.0,Native American&more,2.0,pos,M,neg
+2790.0,Male,25.0,Native American&more,0.0,pos,M,neg
+6546.0,Male,21.0,African-American,1.0,neg,F,neg
+4712.0,Male,37.0,Native American&more,0.0,pos,F,neg
+5515.0,Male,30.0,Native American&more,5.0,neg,F,neg
+6928.0,Male,51.0,Native American&more,1.0,pos,F,neg
+101.0,Male,30.0,African-American,1.0,pos,F,pos
+7011.0,Male,27.0,Native American&more,2.0,neg,F,neg
+1045.0,Male,22.0,Native American&more,0.0,pos,M,neg
+5442.0,Male,29.0,Native American&more,1.0,pos,F,neg
+3995.0,Male,20.0,African-American,1.0,neg,M,neg
+3269.0,Male,33.0,African-American,2.0,neg,F,neg
+6049.0,Male,35.0,Native American&more,3.0,pos,F,neg
+4452.0,Male,23.0,African-American,0.0,neg,F,neg
+707.0,Male,28.0,African-American,0.0,pos,F,pos
+4707.0,Male,21.0,Native American&more,0.0,neg,M,neg
+4611.0,Male,40.0,Native American&more,2.0,pos,M,neg
+162.0,Male,30.0,African-American,1.0,pos,F,pos
+1715.0,Male,26.0,African-American,0.0,neg,M,neg
+2384.0,Male,29.0,African-American,0.0,pos,M,neg
+2619.0,Male,41.0,African-American,1.0,pos,F,neg
+5265.0,Male,44.0,African-American,8.0,neg,M,neg
+1047.0,Female,26.0,African-American,4.0,neg,F,neg
+5775.0,Male,38.0,Native American&more,1.0,pos,F,neg
+4669.0,Male,26.0,African-American,3.0,neg,F,neg
+486.0,Female,24.0,Native American&more,6.0,neg,F,neg
+6327.0,Male,48.0,African-American,3.0,neg,F,neg
+6052.0,Female,30.0,African-American,0.0,pos,F,neg
+4011.0,Female,41.0,Native American&more,3.0,pos,F,neg
+4141.0,Male,32.0,African-American,3.0,pos,M,neg
+6997.0,Male,20.0,African-American,0.0,pos,F,neg
+2440.0,Male,23.0,African-American,2.0,pos,F,neg
+6155.0,Male,35.0,Native American&more,2.0,pos,M,neg
+3211.0,Male,48.0,Native American&more,0.0,pos,M,neg
+6560.0,Male,29.0,African-American,9.0,neg,F,neg
+5202.0,Male,22.0,Native American&more,5.0,neg,M,neg
+3790.0,Male,47.0,Native American&more,0.0,pos,M,neg
+795.0,Male,26.0,Native American&more,2.0,neg,F,neg
+4191.0,Male,57.0,Native American&more,1.0,pos,M,neg
+5004.0,Male,24.0,African-American,3.0,neg,F,neg
+5967.0,Male,39.0,Native American&more,8.0,pos,F,neg
+1185.0,Male,24.0,Native American&more,5.0,pos,F,neg
+801.0,Male,28.0,Native American&more,2.0,pos,F,neg
+3003.0,Male,24.0,African-American,2.0,neg,F,neg
+3362.0,Male,27.0,Native American&more,0.0,neg,M,neg
+5565.0,Male,52.0,Native American&more,2.0,pos,M,neg
+3688.0,Male,39.0,Native American&more,0.0,pos,F,neg
+1861.0,Female,22.0,African-American,0.0,neg,M,neg
+6142.0,Male,50.0,African-American,15.0,pos,M,neg
+3515.0,Male,69.0,African-American,3.0,pos,F,neg
+3567.0,Male,34.0,African-American,21.0,neg,M,neg
+5976.0,Male,51.0,Native American&more,1.0,neg,M,neg
+5908.0,Male,79.0,Native American&more,1.0,pos,M,neg
+5985.0,Male,26.0,African-American,5.0,pos,F,neg
+152.0,Female,61.0,African-American,1.0,neg,F,pos
+2642.0,Male,28.0,Native American&more,0.0,neg,M,neg
+7033.0,Male,24.0,African-American,3.0,neg,F,neg
+1507.0,Female,23.0,Native American&more,0.0,neg,F,neg
+848.0,Female,39.0,Native American&more,1.0,neg,M,pos
+3218.0,Male,49.0,African-American,1.0,neg,M,neg
+728.0,Male,42.0,Native American&more,1.0,pos,F,pos
+1473.0,Male,36.0,African-American,5.0,pos,F,neg
+3266.0,Male,26.0,Native American&more,1.0,neg,F,neg
+5642.0,Female,22.0,African-American,0.0,pos,F,neg
+7087.0,Male,34.0,Native American&more,1.0,pos,F,neg
+94.0,Female,20.0,Native American&more,0.0,pos,F,pos
+3741.0,Male,34.0,African-American,5.0,pos,F,neg
+24.0,Male,24.0,Native American&more,1.0,neg,F,pos
+6214.0,Male,37.0,African-American,16.0,neg,F,neg
+1676.0,Male,33.0,Native American&more,0.0,pos,F,neg
+4028.0,Male,37.0,African-American,6.0,pos,M,neg
+923.0,Male,28.0,African-American,10.0,neg,M,neg
+477.0,Male,37.0,Native American&more,3.0,pos,F,neg
+4875.0,Male,26.0,African-American,5.0,pos,F,neg
+3950.0,Male,54.0,Native American&more,0.0,pos,F,neg
+4517.0,Male,30.0,African-American,1.0,neg,F,neg
+6709.0,Male,23.0,African-American,1.0,pos,F,neg
+4922.0,Male,49.0,Native American&more,4.0,neg,M,neg
+6671.0,Male,46.0,Native American&more,0.0,pos,F,neg
+3470.0,Male,31.0,Native American&more,5.0,neg,F,neg
+1343.0,Male,21.0,Native American&more,1.0,pos,F,neg
+6447.0,Male,67.0,Native American&more,0.0,pos,F,neg
+4596.0,Male,36.0,Native American&more,5.0,neg,F,neg
+2480.0,Male,28.0,Native American&more,1.0,neg,M,neg
+3843.0,Male,31.0,African-American,4.0,neg,F,neg
+5133.0,Female,42.0,Native American&more,4.0,neg,M,neg
+3774.0,Male,38.0,Native American&more,0.0,pos,M,neg
+1674.0,Male,30.0,African-American,1.0,neg,F,neg
+4602.0,Male,28.0,Native American&more,0.0,neg,M,neg
+5490.0,Male,56.0,Native American&more,0.0,pos,M,neg
+6407.0,Male,22.0,Native American&more,6.0,neg,F,neg
+6585.0,Male,34.0,Native American&more,0.0,neg,M,neg
+328.0,Male,53.0,Native American&more,36.0,neg,F,neg
+951.0,Female,21.0,Native American&more,0.0,neg,M,neg
+417.0,Male,22.0,Native American&more,0.0,pos,F,pos
+3537.0,Male,31.0,Native American&more,2.0,pos,F,neg
+2678.0,Male,23.0,Native American&more,2.0,pos,M,neg
+6836.0,Male,26.0,Native American&more,2.0,neg,F,neg
+585.0,Male,24.0,African-American,10.0,neg,F,neg
+1751.0,Male,29.0,Native American&more,2.0,pos,F,neg
+1166.0,Male,20.0,Native American&more,2.0,neg,F,neg
+6059.0,Male,39.0,Native American&more,3.0,pos,F,neg
+2744.0,Male,59.0,Native American&more,0.0,pos,F,neg
+4390.0,Male,32.0,African-American,5.0,pos,F,neg
+2500.0,Male,28.0,Native American&more,0.0,neg,F,neg
+2783.0,Male,33.0,Native American&more,8.0,neg,F,neg
+4449.0,Male,57.0,African-American,3.0,pos,F,neg
+813.0,Male,26.0,Native American&more,0.0,pos,M,pos
+6042.0,Male,22.0,Native American&more,3.0,neg,F,neg
+2752.0,Female,31.0,African-American,0.0,neg,M,neg
+4774.0,Female,25.0,African-American,3.0,pos,M,neg
+1988.0,Male,35.0,African-American,4.0,pos,M,neg
+7139.0,Male,35.0,African-American,18.0,neg,F,neg
+1539.0,Male,22.0,Native American&more,2.0,pos,F,neg
+7101.0,Male,47.0,African-American,14.0,pos,M,neg
+2374.0,Male,22.0,African-American,1.0,neg,F,neg
+4872.0,Male,52.0,African-American,0.0,neg,F,neg
+4239.0,Male,34.0,African-American,7.0,neg,F,neg
+4110.0,Male,44.0,African-American,3.0,pos,M,neg
+3012.0,Male,39.0,African-American,2.0,neg,F,neg
+270.0,Male,22.0,Native American&more,0.0,pos,F,pos
+5617.0,Male,30.0,African-American,13.0,neg,F,neg
+4246.0,Male,56.0,Native American&more,13.0,pos,F,neg
+4000.0,Male,27.0,Native American&more,0.0,pos,M,neg
+6138.0,Male,36.0,African-American,6.0,pos,M,neg
+3314.0,Male,55.0,African-American,12.0,pos,F,neg
+7023.0,Male,31.0,Native American&more,9.0,neg,M,neg
+5603.0,Male,58.0,African-American,0.0,neg,F,neg
+4987.0,Male,20.0,African-American,4.0,neg,F,neg
+4195.0,Male,30.0,African-American,0.0,neg,F,neg
+6412.0,Male,26.0,African-American,7.0,neg,F,neg
+6832.0,Male,24.0,African-American,1.0,pos,M,neg
+127.0,Male,42.0,Native American&more,6.0,pos,F,neg
+3205.0,Male,25.0,Native American&more,0.0,pos,M,neg
+1090.0,Male,23.0,African-American,1.0,neg,F,neg
+2780.0,Male,43.0,Native American&more,3.0,neg,M,neg
+6697.0,Male,31.0,African-American,9.0,neg,F,neg
+2927.0,Male,58.0,Native American&more,0.0,pos,M,neg
+5934.0,Female,21.0,Native American&more,0.0,neg,M,neg
+1570.0,Female,24.0,African-American,0.0,pos,F,neg
+1419.0,Male,22.0,African-American,1.0,pos,F,neg
+5878.0,Male,36.0,African-American,2.0,neg,F,neg
+4138.0,Male,36.0,Native American&more,9.0,neg,F,neg
+4834.0,Male,28.0,Native American&more,3.0,pos,F,neg
+5753.0,Male,27.0,African-American,2.0,pos,F,neg
+2263.0,Male,27.0,African-American,2.0,neg,M,neg
+1194.0,Female,29.0,African-American,2.0,pos,F,neg
+5340.0,Male,21.0,Native American&more,0.0,pos,F,neg
+2874.0,Male,37.0,African-American,2.0,neg,F,neg
+5447.0,Female,32.0,Native American&more,2.0,pos,M,neg
+3169.0,Male,26.0,African-American,2.0,neg,F,neg
+5890.0,Male,24.0,Native American&more,0.0,neg,F,neg
+794.0,Male,30.0,Native American&more,0.0,pos,F,pos
+1209.0,Male,38.0,African-American,3.0,pos,F,neg
+3531.0,Male,57.0,Native American&more,0.0,pos,F,neg
+4578.0,Male,61.0,African-American,20.0,neg,M,neg
+6810.0,Male,27.0,African-American,10.0,neg,F,neg
+4808.0,Male,32.0,African-American,6.0,neg,F,neg
+4963.0,Male,22.0,Native American&more,0.0,pos,M,neg
+1840.0,Male,21.0,Native American&more,0.0,neg,M,neg
+373.0,Male,21.0,African-American,0.0,neg,F,pos
+4023.0,Male,30.0,African-American,10.0,neg,M,neg
+3250.0,Male,68.0,African-American,1.0,pos,F,neg
+4499.0,Male,57.0,African-American,2.0,pos,F,neg
+3635.0,Male,51.0,African-American,22.0,neg,F,neg
+2537.0,Male,61.0,Native American&more,0.0,pos,M,pos
+2118.0,Male,41.0,Native American&more,0.0,pos,M,neg
+2799.0,Male,21.0,African-American,0.0,neg,F,neg
+865.0,Male,25.0,African-American,0.0,neg,F,neg
+3434.0,Male,31.0,Native American&more,0.0,pos,M,neg
+3888.0,Male,36.0,Native American&more,4.0,neg,F,neg
+322.0,Male,56.0,Native American&more,0.0,pos,M,pos
+5574.0,Male,37.0,Native American&more,3.0,pos,F,neg
+7000.0,Male,23.0,Native American&more,0.0,neg,M,neg
+1158.0,Male,23.0,Native American&more,1.0,pos,M,neg
+2882.0,Male,56.0,Native American&more,0.0,neg,M,neg
+4124.0,Male,56.0,African-American,3.0,pos,M,neg
+3137.0,Male,28.0,African-American,9.0,neg,F,neg
+3483.0,Male,27.0,African-American,0.0,pos,M,neg
+2065.0,Male,49.0,Native American&more,4.0,pos,F,neg
+2887.0,Male,47.0,African-American,1.0,neg,M,neg
+817.0,Male,32.0,African-American,0.0,pos,M,pos
+4761.0,Female,33.0,Native American&more,5.0,neg,M,neg
+1499.0,Male,23.0,Native American&more,0.0,pos,F,neg
+4647.0,Male,49.0,Native American&more,4.0,neg,M,neg
+5036.0,Male,26.0,African-American,4.0,neg,F,neg
+843.0,Male,37.0,African-American,6.0,neg,F,neg
+4800.0,Male,30.0,Native American&more,2.0,neg,M,neg
+7045.0,Male,24.0,African-American,11.0,neg,F,neg
+48.0,Male,34.0,African-American,4.0,neg,M,pos
+6131.0,Female,31.0,African-American,0.0,pos,M,neg
+887.0,Male,19.0,Native American&more,1.0,neg,M,neg
+5487.0,Male,25.0,African-American,4.0,neg,F,neg
+5776.0,Male,21.0,African-American,2.0,neg,F,neg
+3665.0,Male,26.0,Native American&more,1.0,pos,F,neg
+950.0,Male,22.0,Native American&more,0.0,pos,M,neg
+5175.0,Male,20.0,African-American,0.0,pos,F,neg
+5553.0,Male,45.0,Native American&more,2.0,pos,F,neg
+2155.0,Male,31.0,Native American&more,6.0,pos,M,neg
+1541.0,Male,41.0,Native American&more,5.0,pos,F,neg
+3570.0,Female,31.0,Native American&more,2.0,pos,F,neg
+4068.0,Male,29.0,Native American&more,0.0,pos,F,neg
+2479.0,Female,42.0,Native American&more,0.0,pos,M,neg
+1256.0,Male,58.0,Native American&more,2.0,pos,F,pos
+552.0,Male,26.0,African-American,3.0,neg,F,neg
+7196.0,Male,43.0,African-American,0.0,pos,M,neg
+3393.0,Male,71.0,Native American&more,13.0,pos,F,neg
+5368.0,Male,36.0,Native American&more,4.0,neg,F,neg
+6396.0,Male,28.0,African-American,4.0,neg,M,neg
+237.0,Male,30.0,African-American,11.0,neg,M,neg
+4733.0,Male,50.0,Native American&more,3.0,pos,F,neg
+358.0,Male,22.0,Native American&more,0.0,pos,F,pos
+2922.0,Female,26.0,African-American,1.0,pos,F,neg
+6564.0,Male,60.0,African-American,15.0,neg,F,neg
+6995.0,Male,64.0,African-American,0.0,pos,M,neg
+6152.0,Female,25.0,Native American&more,2.0,neg,F,neg
+592.0,Male,27.0,African-American,0.0,pos,M,pos
+6366.0,Female,55.0,Native American&more,0.0,pos,M,neg
+5417.0,Male,29.0,African-American,11.0,neg,F,neg
+5973.0,Male,26.0,African-American,11.0,neg,F,neg
+1071.0,Male,44.0,Native American&more,2.0,pos,M,pos
+200.0,Male,50.0,Native American&more,1.0,pos,F,pos
+4223.0,Male,23.0,African-American,0.0,pos,F,neg
+5500.0,Male,44.0,Native American&more,6.0,neg,F,neg
+3092.0,Male,35.0,African-American,12.0,neg,F,neg
+3113.0,Male,47.0,African-American,1.0,pos,F,neg
+6062.0,Female,55.0,Native American&more,0.0,pos,M,neg
+5907.0,Male,39.0,African-American,1.0,neg,F,neg
+2833.0,Male,50.0,African-American,24.0,neg,M,neg
+1524.0,Male,28.0,African-American,4.0,neg,F,neg
+6389.0,Male,28.0,African-American,11.0,neg,F,neg
+1568.0,Male,46.0,African-American,15.0,neg,F,neg
+131.0,Female,37.0,Native American&more,2.0,pos,M,pos
+2815.0,Male,25.0,African-American,5.0,pos,F,neg
+2579.0,Male,37.0,Native American&more,0.0,pos,M,neg
+6287.0,Female,46.0,Native American&more,0.0,pos,F,neg
+6472.0,Male,32.0,African-American,1.0,pos,M,neg
+2834.0,Male,54.0,Native American&more,12.0,neg,F,neg
+821.0,Male,34.0,Native American&more,1.0,neg,M,pos
+4767.0,Male,56.0,African-American,16.0,pos,F,neg
+5324.0,Male,27.0,African-American,2.0,neg,F,neg
+1595.0,Male,24.0,African-American,8.0,neg,F,neg
+6040.0,Male,28.0,African-American,7.0,pos,M,neg
+6887.0,Male,62.0,Native American&more,0.0,pos,M,neg
+1064.0,Male,44.0,Native American&more,3.0,pos,F,neg
+4738.0,Male,21.0,Native American&more,1.0,pos,F,neg
+6802.0,Male,35.0,Native American&more,0.0,neg,M,neg
+3788.0,Male,35.0,Native American&more,3.0,neg,F,neg
+3975.0,Male,57.0,Native American&more,12.0,pos,M,neg
+6866.0,Male,37.0,Native American&more,0.0,neg,M,neg
+5936.0,Male,24.0,Native American&more,8.0,neg,F,neg
+3913.0,Male,33.0,Native American&more,0.0,neg,M,neg
+1318.0,Female,63.0,African-American,1.0,pos,F,pos
+5148.0,Male,51.0,African-American,4.0,pos,F,neg
+2302.0,Male,26.0,African-American,7.0,pos,M,neg
+1558.0,Male,34.0,African-American,3.0,pos,M,neg
+506.0,Male,35.0,Native American&more,1.0,pos,F,pos
+742.0,Male,36.0,Native American&more,0.0,pos,F,pos
+4745.0,Female,22.0,African-American,0.0,pos,M,neg
+6001.0,Male,26.0,African-American,0.0,pos,F,neg
+5624.0,Male,21.0,African-American,0.0,neg,M,neg
+5595.0,Male,29.0,African-American,4.0,neg,M,neg
+2599.0,Male,48.0,African-American,7.0,neg,F,neg
+3845.0,Male,26.0,Native American&more,2.0,neg,F,neg
+1310.0,Male,22.0,African-American,6.0,neg,F,neg
+1193.0,Male,20.0,African-American,0.0,neg,M,neg
+6180.0,Male,26.0,African-American,2.0,pos,F,neg
+4196.0,Male,53.0,Native American&more,1.0,pos,F,neg
+6562.0,Male,45.0,African-American,4.0,neg,M,neg
+5360.0,Male,25.0,African-American,0.0,pos,M,neg
+5009.0,Male,61.0,Native American&more,0.0,pos,M,neg
+3752.0,Female,39.0,African-American,22.0,neg,F,neg
+5412.0,Female,29.0,Native American&more,7.0,neg,F,neg
+3792.0,Male,31.0,Native American&more,6.0,pos,F,neg
+4274.0,Male,22.0,African-American,3.0,neg,F,neg
+6920.0,Female,31.0,Native American&more,1.0,neg,M,neg
+2446.0,Female,41.0,Native American&more,0.0,pos,F,neg
+2826.0,Male,34.0,African-American,22.0,pos,F,neg
+2028.0,Female,23.0,African-American,0.0,pos,M,neg
+5507.0,Male,21.0,African-American,0.0,neg,F,neg
+6976.0,Male,59.0,Native American&more,20.0,neg,F,neg
+6897.0,Male,25.0,African-American,3.0,pos,F,neg
+3110.0,Male,47.0,Native American&more,1.0,pos,F,neg
+7079.0,Female,22.0,African-American,0.0,neg,F,neg
+3624.0,Male,45.0,African-American,1.0,pos,F,neg
+4561.0,Male,23.0,African-American,4.0,neg,F,neg
+1566.0,Male,30.0,African-American,11.0,pos,F,neg
+4161.0,Male,35.0,Native American&more,3.0,neg,F,neg
+5406.0,Male,28.0,African-American,7.0,pos,F,neg
+6983.0,Male,54.0,Native American&more,7.0,pos,F,neg
+1969.0,Male,55.0,Native American&more,0.0,pos,M,pos
+6796.0,Male,23.0,African-American,3.0,neg,F,neg
+412.0,Female,22.0,African-American,0.0,pos,F,pos
+408.0,Male,60.0,Native American&more,4.0,pos,F,pos
+3234.0,Male,29.0,Native American&more,1.0,pos,F,neg
+6763.0,Male,44.0,African-American,0.0,neg,F,neg
+2060.0,Male,37.0,Native American&more,0.0,neg,F,neg
+5278.0,Male,41.0,Native American&more,0.0,pos,M,neg
+4623.0,Male,27.0,African-American,6.0,neg,M,neg
+4969.0,Male,25.0,Native American&more,3.0,pos,F,neg
+824.0,Male,47.0,Native American&more,2.0,pos,F,pos
+647.0,Female,45.0,Native American&more,1.0,pos,F,pos
+90.0,Male,26.0,Native American&more,7.0,neg,F,neg
+1775.0,Female,53.0,Native American&more,4.0,neg,F,neg
+2472.0,Male,32.0,Native American&more,2.0,neg,F,neg
+832.0,Male,25.0,African-American,3.0,neg,F,neg
+4474.0,Male,25.0,African-American,0.0,neg,F,neg
+1738.0,Male,31.0,Native American&more,0.0,pos,M,neg
+181.0,Male,24.0,Native American&more,0.0,pos,F,pos
+5799.0,Male,29.0,African-American,3.0,pos,M,neg
+1241.0,Male,21.0,Native American&more,1.0,neg,F,neg
+2894.0,Female,43.0,Native American&more,0.0,pos,M,neg
+4059.0,Male,27.0,African-American,3.0,neg,F,neg
+5443.0,Male,22.0,African-American,12.0,neg,F,neg
+2911.0,Female,22.0,African-American,1.0,pos,F,neg
+1924.0,Male,51.0,African-American,5.0,pos,M,neg
+3501.0,Male,55.0,Native American&more,2.0,pos,F,neg
+3547.0,Male,39.0,Native American&more,21.0,pos,F,neg
+238.0,Male,28.0,Native American&more,1.0,pos,F,pos
+1521.0,Male,25.0,African-American,14.0,neg,F,neg
+4718.0,Male,30.0,Native American&more,3.0,pos,M,neg
+5448.0,Male,30.0,Native American&more,0.0,pos,F,neg
+4781.0,Female,35.0,African-American,13.0,pos,F,neg
+2158.0,Female,30.0,African-American,0.0,pos,M,neg
+6010.0,Male,43.0,Native American&more,1.0,neg,M,neg
+678.0,Female,34.0,Native American&more,15.0,neg,F,neg
+4268.0,Male,36.0,Native American&more,1.0,pos,F,neg
+2963.0,Male,24.0,African-American,5.0,neg,F,neg
+2081.0,Male,41.0,African-American,4.0,pos,F,neg
+6212.0,Female,30.0,African-American,3.0,pos,F,neg
+1647.0,Male,28.0,African-American,11.0,pos,F,neg
+5786.0,Male,35.0,Native American&more,0.0,pos,F,neg
+2896.0,Male,25.0,Native American&more,2.0,neg,M,neg
+6295.0,Female,23.0,Native American&more,0.0,pos,F,neg
+4947.0,Male,37.0,African-American,1.0,neg,F,neg
+4325.0,Male,40.0,African-American,0.0,pos,F,neg
+5652.0,Male,30.0,African-American,3.0,pos,F,neg
+2719.0,Male,29.0,Native American&more,1.0,pos,M,neg
+7092.0,Male,30.0,African-American,8.0,neg,F,neg
+1303.0,Male,51.0,Native American&more,7.0,neg,F,neg
+2449.0,Male,24.0,Native American&more,0.0,neg,F,neg
+1382.0,Female,28.0,African-American,4.0,pos,F,neg
+5308.0,Female,21.0,African-American,0.0,pos,M,neg
+5215.0,Male,37.0,Native American&more,1.0,pos,F,neg
+3325.0,Male,27.0,African-American,7.0,neg,F,neg
+2113.0,Male,26.0,Native American&more,2.0,pos,F,neg
+3736.0,Male,20.0,Native American&more,0.0,neg,M,neg
+3612.0,Male,31.0,Native American&more,1.0,neg,M,neg
+5818.0,Female,29.0,Native American&more,0.0,pos,F,neg
+4915.0,Male,26.0,African-American,3.0,neg,M,neg
+2797.0,Male,25.0,African-American,4.0,neg,F,neg
+4207.0,Male,45.0,Native American&more,1.0,pos,M,neg
+2555.0,Male,30.0,African-American,11.0,neg,F,neg
+6331.0,Male,25.0,African-American,0.0,pos,M,neg
+3746.0,Male,57.0,Native American&more,1.0,pos,M,neg
+225.0,Female,41.0,African-American,5.0,pos,M,neg
+1723.0,Male,23.0,Native American&more,2.0,pos,F,neg
+2378.0,Male,21.0,African-American,0.0,neg,F,neg
+7063.0,Male,33.0,Native American&more,2.0,neg,M,neg
+4542.0,Female,56.0,African-American,1.0,neg,F,neg
+5660.0,Male,38.0,Native American&more,1.0,pos,F,neg
+2527.0,Male,35.0,African-American,4.0,pos,M,neg
+1951.0,Male,40.0,African-American,1.0,pos,M,neg
+1684.0,Male,27.0,African-American,2.0,neg,M,neg
+5713.0,Male,44.0,African-American,12.0,pos,F,neg
+256.0,Female,24.0,Native American&more,1.0,neg,M,pos
+5815.0,Female,29.0,African-American,0.0,neg,F,neg
+6838.0,Male,49.0,African-American,2.0,pos,F,neg
+1502.0,Male,55.0,Native American&more,13.0,neg,F,neg
+4380.0,Female,24.0,African-American,3.0,neg,M,neg
+6464.0,Male,26.0,African-American,15.0,pos,F,neg
+5612.0,Male,30.0,African-American,0.0,neg,F,neg
+3987.0,Male,53.0,African-American,26.0,neg,F,neg
+2706.0,Male,20.0,African-American,0.0,neg,M,neg
+6508.0,Female,50.0,Native American&more,0.0,neg,M,neg
+5791.0,Male,36.0,Native American&more,26.0,neg,F,neg
+2803.0,Female,24.0,African-American,2.0,neg,M,neg
+4980.0,Female,51.0,Native American&more,2.0,neg,F,neg
+4554.0,Female,31.0,African-American,0.0,pos,F,neg
+6474.0,Male,39.0,Native American&more,2.0,pos,F,neg
+2964.0,Female,30.0,African-American,3.0,neg,F,neg
+4511.0,Male,20.0,African-American,1.0,neg,F,neg
+6839.0,Female,33.0,African-American,6.0,neg,M,neg
+1971.0,Female,42.0,African-American,0.0,pos,F,neg
+681.0,Male,27.0,African-American,3.0,pos,F,neg
+3162.0,Female,27.0,African-American,3.0,pos,F,neg
+1639.0,Female,31.0,African-American,7.0,neg,F,neg
+638.0,Female,57.0,Native American&more,0.0,neg,M,pos
+6631.0,Male,55.0,Native American&more,0.0,pos,M,neg
+1497.0,Male,38.0,Native American&more,0.0,pos,F,neg
+3075.0,Male,47.0,Native American&more,0.0,pos,M,neg
+595.0,Female,24.0,Native American&more,0.0,pos,F,pos
+1824.0,Female,26.0,African-American,0.0,pos,M,neg
+5580.0,Male,33.0,African-American,14.0,neg,F,neg
+4797.0,Male,39.0,Native American&more,2.0,pos,M,neg
+3870.0,Male,50.0,Native American&more,9.0,neg,F,neg
+1680.0,Male,21.0,Native American&more,0.0,neg,F,neg
+5441.0,Male,37.0,African-American,8.0,neg,F,neg
+7052.0,Female,22.0,Native American&more,0.0,pos,M,neg
+6718.0,Male,25.0,African-American,7.0,neg,F,neg
+1462.0,Female,30.0,Native American&more,7.0,pos,M,neg
+6490.0,Male,47.0,African-American,21.0,neg,F,neg
+6505.0,Male,31.0,African-American,1.0,pos,M,neg
+7150.0,Male,44.0,African-American,11.0,neg,F,neg
+1510.0,Male,56.0,African-American,3.0,pos,M,neg
+2625.0,Male,35.0,Native American&more,4.0,pos,M,neg
+6277.0,Male,47.0,Native American&more,3.0,pos,M,neg
+3355.0,Male,21.0,Native American&more,0.0,neg,F,neg
+4255.0,Male,29.0,Native American&more,0.0,pos,F,neg
+3964.0,Male,39.0,Native American&more,2.0,pos,M,neg
+2301.0,Male,26.0,African-American,2.0,pos,M,neg
+911.0,Male,46.0,African-American,2.0,neg,F,pos
+4234.0,Male,34.0,African-American,12.0,pos,F,neg
+2125.0,Male,70.0,Native American&more,11.0,neg,F,neg
+2572.0,Male,45.0,Native American&more,2.0,pos,M,neg
+4065.0,Male,20.0,African-American,2.0,neg,F,neg
+6003.0,Male,29.0,African-American,0.0,pos,F,neg
+6766.0,Male,43.0,African-American,3.0,neg,F,neg
+6495.0,Male,25.0,African-American,5.0,neg,F,neg
+6022.0,Male,52.0,African-American,2.0,neg,F,neg
+4333.0,Female,22.0,African-American,0.0,pos,F,neg
+2495.0,Male,27.0,African-American,0.0,pos,M,neg
+304.0,Male,58.0,Native American&more,2.0,pos,F,pos
+6959.0,Male,29.0,African-American,1.0,neg,F,neg
+5971.0,Male,58.0,Native American&more,7.0,neg,F,neg
+6509.0,Male,27.0,African-American,1.0,pos,M,neg
+733.0,Female,45.0,Native American&more,1.0,pos,F,pos
+3353.0,Male,37.0,Native American&more,1.0,neg,F,neg
+1675.0,Male,61.0,African-American,1.0,pos,M,pos
+5386.0,Male,39.0,Native American&more,1.0,pos,F,neg
+1187.0,Female,26.0,Native American&more,3.0,pos,M,neg
+2112.0,Male,43.0,Native American&more,1.0,neg,F,neg
+4785.0,Female,42.0,African-American,1.0,pos,F,neg
+1169.0,Male,49.0,African-American,3.0,pos,F,neg
+639.0,Male,21.0,African-American,0.0,pos,F,neg
+5854.0,Male,27.0,African-American,1.0,neg,F,neg
+3938.0,Female,35.0,African-American,0.0,pos,M,neg
+4315.0,Male,30.0,Native American&more,1.0,pos,F,neg
+5277.0,Male,33.0,Native American&more,2.0,pos,F,neg
+6031.0,Male,43.0,African-American,3.0,neg,F,neg
+2189.0,Male,20.0,African-American,1.0,neg,F,neg
+4743.0,Male,33.0,African-American,4.0,pos,M,neg
+3320.0,Female,27.0,African-American,0.0,pos,M,neg
+5165.0,Male,55.0,Native American&more,0.0,pos,F,neg
+4846.0,Male,23.0,African-American,2.0,neg,F,neg
+5283.0,Male,36.0,African-American,1.0,pos,M,neg
+5367.0,Male,53.0,Native American&more,3.0,neg,F,neg
+3105.0,Male,46.0,African-American,3.0,pos,F,neg
+3282.0,Male,59.0,African-American,8.0,neg,F,neg
+3682.0,Male,32.0,Native American&more,0.0,neg,M,neg
+4319.0,Male,21.0,African-American,0.0,pos,F,neg
+5876.0,Male,22.0,African-American,1.0,neg,M,neg
+3139.0,Male,24.0,Native American&more,5.0,pos,M,neg
+151.0,Female,26.0,Native American&more,0.0,pos,M,pos
+5572.0,Male,53.0,Native American&more,1.0,neg,M,neg
+2627.0,Male,24.0,African-American,3.0,neg,M,neg
+2037.0,Male,28.0,African-American,6.0,pos,M,neg
+6589.0,Male,29.0,Native American&more,8.0,neg,F,neg
+739.0,Male,34.0,African-American,10.0,neg,F,neg
+4906.0,Male,31.0,African-American,4.0,neg,F,neg
+2685.0,Male,20.0,African-American,1.0,pos,M,neg
+5935.0,Male,63.0,African-American,9.0,neg,F,neg
+1598.0,Male,31.0,African-American,5.0,neg,F,neg
+2422.0,Male,21.0,African-American,1.0,neg,F,neg
+6705.0,Male,49.0,Native American&more,3.0,pos,F,neg
+6398.0,Male,49.0,Native American&more,0.0,pos,F,neg
+4277.0,Female,35.0,Native American&more,0.0,pos,M,neg
+2452.0,Female,27.0,Native American&more,0.0,pos,F,neg
+3204.0,Male,31.0,African-American,16.0,neg,F,neg
+318.0,Male,24.0,Native American&more,9.0,neg,F,neg
+4820.0,Male,25.0,Native American&more,0.0,pos,F,neg
+4839.0,Male,22.0,African-American,2.0,neg,M,neg
+6978.0,Male,23.0,African-American,0.0,pos,F,neg
+4032.0,Male,20.0,African-American,0.0,neg,F,neg
+6588.0,Male,57.0,Native American&more,0.0,pos,F,neg
+5464.0,Male,54.0,African-American,4.0,pos,F,neg
+774.0,Male,31.0,African-American,0.0,pos,M,pos
+3016.0,Male,50.0,Native American&more,0.0,pos,M,neg
+4564.0,Male,28.0,Native American&more,1.0,pos,M,neg
+1774.0,Female,28.0,African-American,2.0,pos,M,neg
+1395.0,Female,59.0,Native American&more,1.0,pos,F,pos
+3831.0,Male,29.0,African-American,0.0,pos,M,neg
+1707.0,Male,49.0,African-American,1.0,pos,F,neg
+4025.0,Female,27.0,African-American,1.0,pos,M,neg
+2672.0,Male,41.0,African-American,13.0,pos,F,neg
+3309.0,Male,23.0,Native American&more,7.0,neg,F,neg
+6330.0,Male,27.0,African-American,6.0,pos,M,neg
+255.0,Male,22.0,African-American,3.0,neg,M,neg
+6320.0,Male,43.0,Native American&more,0.0,pos,F,neg
+6134.0,Male,54.0,African-American,21.0,pos,F,neg
+221.0,Male,36.0,Native American&more,1.0,neg,M,pos
+3229.0,Male,26.0,Native American&more,1.0,pos,M,neg
+898.0,Male,32.0,African-American,3.0,neg,F,neg
+2029.0,Male,25.0,African-American,1.0,pos,F,neg
+7176.0,Male,22.0,Native American&more,0.0,pos,M,neg
+1627.0,Female,46.0,Native American&more,0.0,neg,M,pos
+988.0,Male,24.0,Native American&more,1.0,neg,F,neg
+6583.0,Male,25.0,African-American,6.0,neg,F,neg
+1315.0,Male,27.0,African-American,4.0,neg,F,neg
+1997.0,Female,33.0,African-American,1.0,pos,M,neg
+1469.0,Male,30.0,African-American,15.0,neg,F,neg
+6097.0,Male,29.0,African-American,10.0,neg,F,neg
+2641.0,Female,35.0,African-American,0.0,pos,M,neg
+5170.0,Male,48.0,Native American&more,3.0,neg,F,neg
+7195.0,Male,35.0,African-American,8.0,neg,M,neg
+5041.0,Male,39.0,Native American&more,3.0,neg,M,neg
+6318.0,Male,26.0,African-American,27.0,neg,M,neg
+96.0,Male,66.0,Native American&more,3.0,pos,F,pos
+3185.0,Female,27.0,African-American,4.0,neg,F,neg
+6222.0,Male,21.0,Native American&more,2.0,neg,F,neg
+6371.0,Male,48.0,Native American&more,0.0,pos,M,neg
+6923.0,Male,51.0,Native American&more,2.0,neg,M,neg
+6886.0,Female,25.0,Native American&more,14.0,pos,F,neg
+5109.0,Male,41.0,African-American,2.0,pos,F,neg
+6805.0,Male,41.0,Native American&more,0.0,pos,F,neg
+447.0,Male,30.0,African-American,1.0,pos,M,pos
+2823.0,Male,52.0,African-American,7.0,neg,F,neg
+6432.0,Male,32.0,African-American,8.0,pos,F,neg
+6093.0,Male,47.0,African-American,3.0,pos,F,neg
+2761.0,Male,46.0,Native American&more,0.0,pos,F,neg
+7143.0,Male,20.0,African-American,1.0,neg,F,neg
+3812.0,Male,21.0,Native American&more,2.0,neg,F,neg
+6141.0,Male,32.0,African-American,3.0,neg,F,neg
+4106.0,Male,32.0,African-American,9.0,neg,M,neg
+4108.0,Male,30.0,Native American&more,1.0,neg,F,neg
+2839.0,Male,50.0,African-American,5.0,pos,F,neg
+1708.0,Female,47.0,Native American&more,0.0,pos,M,pos
+5387.0,Male,33.0,Native American&more,0.0,pos,F,neg
+6139.0,Male,34.0,African-American,9.0,neg,F,neg
+3540.0,Male,43.0,Native American&more,8.0,neg,F,neg
+6249.0,Female,37.0,African-American,23.0,neg,M,neg
+3824.0,Male,22.0,African-American,1.0,neg,M,neg
+5570.0,Female,30.0,African-American,4.0,pos,F,neg
+6046.0,Male,31.0,Native American&more,1.0,pos,F,neg
+1939.0,Male,27.0,African-American,1.0,pos,F,neg
+4375.0,Male,25.0,Native American&more,2.0,neg,M,neg
+2079.0,Male,21.0,Native American&more,0.0,neg,F,neg
+5773.0,Female,30.0,Native American&more,1.0,pos,F,neg
+6386.0,Male,23.0,African-American,2.0,neg,M,neg
+6148.0,Male,21.0,African-American,2.0,pos,F,neg
+2755.0,Male,22.0,Native American&more,2.0,pos,F,neg
+3702.0,Male,32.0,African-American,7.0,neg,F,neg
+6128.0,Male,20.0,Native American&more,1.0,neg,F,neg
+329.0,Male,28.0,Native American&more,2.0,neg,M,pos
+5798.0,Male,33.0,African-American,11.0,neg,F,neg
+5960.0,Male,24.0,African-American,3.0,neg,F,neg
+2014.0,Male,42.0,Native American&more,1.0,pos,M,neg
+2929.0,Male,30.0,African-American,0.0,neg,M,neg
+3146.0,Male,57.0,African-American,23.0,neg,F,neg
+7152.0,Male,35.0,African-American,12.0,neg,M,neg
+3158.0,Female,56.0,African-American,1.0,pos,F,neg
+3079.0,Male,23.0,African-American,0.0,pos,M,neg
+2950.0,Male,29.0,African-American,1.0,neg,M,neg
+2552.0,Male,23.0,Native American&more,6.0,neg,M,neg
+4932.0,Male,21.0,African-American,1.0,neg,F,neg
+5298.0,Male,59.0,African-American,8.0,neg,F,neg
+4895.0,Male,42.0,African-American,1.0,neg,M,neg
+6482.0,Female,22.0,African-American,0.0,pos,F,neg
+1809.0,Male,28.0,Native American&more,0.0,pos,F,neg
+5027.0,Male,26.0,Native American&more,1.0,pos,F,neg
+3611.0,Male,36.0,Native American&more,0.0,pos,F,neg
+2786.0,Male,46.0,African-American,12.0,pos,M,neg
+3231.0,Male,21.0,African-American,0.0,neg,F,neg
+4587.0,Male,28.0,African-American,0.0,pos,F,neg
+4804.0,Male,41.0,African-American,19.0,neg,F,neg
+2567.0,Male,46.0,Native American&more,3.0,neg,F,neg
+3532.0,Male,25.0,African-American,9.0,pos,F,neg
+1058.0,Male,26.0,African-American,0.0,neg,F,neg
+4285.0,Male,59.0,Native American&more,3.0,pos,M,neg
+180.0,Male,56.0,Native American&more,0.0,pos,F,pos
+3686.0,Female,42.0,Native American&more,5.0,neg,M,neg
+3496.0,Male,20.0,Native American&more,0.0,neg,F,neg
+2188.0,Male,42.0,African-American,0.0,neg,M,neg
+3985.0,Male,25.0,African-American,1.0,neg,M,neg
+2607.0,Male,29.0,Native American&more,17.0,neg,F,neg
+1277.0,Male,21.0,African-American,0.0,pos,M,neg
+3171.0,Male,50.0,Native American&more,3.0,neg,M,neg
+5293.0,Male,23.0,African-American,2.0,neg,F,neg
+6679.0,Male,29.0,African-American,8.0,neg,F,neg
+6716.0,Female,29.0,Native American&more,0.0,pos,M,neg
+3005.0,Male,25.0,Native American&more,9.0,pos,F,neg
+6176.0,Male,57.0,Native American&more,7.0,neg,F,neg
+5692.0,Male,40.0,Native American&more,5.0,pos,F,neg
+6343.0,Male,33.0,African-American,0.0,pos,F,neg
+3342.0,Male,25.0,African-American,0.0,pos,M,neg
+2778.0,Male,35.0,Native American&more,0.0,pos,F,neg
+1271.0,Male,28.0,Native American&more,2.0,pos,M,neg
+265.0,Male,39.0,Native American&more,0.0,pos,F,pos
+3321.0,Male,46.0,Native American&more,0.0,neg,F,neg
+1125.0,Male,25.0,African-American,11.0,neg,F,neg
+4282.0,Female,23.0,Native American&more,2.0,pos,M,neg
+1106.0,Male,46.0,Native American&more,1.0,pos,M,pos
+1365.0,Male,53.0,Native American&more,0.0,neg,F,pos
+3140.0,Male,33.0,Native American&more,9.0,pos,F,neg
+12.0,Female,37.0,Native American&more,0.0,pos,M,pos
+1949.0,Male,26.0,African-American,2.0,pos,M,neg
+2403.0,Male,33.0,African-American,8.0,neg,F,neg
+2041.0,Female,40.0,African-American,7.0,pos,M,neg
+1181.0,Male,30.0,Native American&more,0.0,pos,M,neg
+1380.0,Male,44.0,Native American&more,0.0,pos,M,pos
+2957.0,Male,59.0,African-American,1.0,pos,F,neg
+6701.0,Male,37.0,African-American,0.0,pos,M,neg
+6576.0,Female,37.0,Native American&more,5.0,neg,F,neg
+668.0,Male,33.0,Native American&more,5.0,pos,F,neg
+4529.0,Male,42.0,African-American,1.0,pos,F,neg
+6526.0,Male,56.0,Native American&more,2.0,pos,F,neg
+2771.0,Male,22.0,Native American&more,2.0,neg,F,neg
+4536.0,Male,22.0,Native American&more,3.0,neg,F,neg
+1501.0,Male,27.0,Native American&more,4.0,neg,F,neg
+5694.0,Male,27.0,African-American,2.0,pos,F,neg
+26.0,Male,32.0,Native American&more,0.0,pos,M,pos
+1766.0,Male,29.0,African-American,0.0,pos,F,neg
+5312.0,Male,21.0,African-American,3.0,neg,F,neg
+6924.0,Male,67.0,Native American&more,0.0,pos,M,neg
+3462.0,Male,44.0,African-American,7.0,pos,F,neg
+5548.0,Male,33.0,Native American&more,2.0,neg,F,neg
+3949.0,Male,58.0,Native American&more,5.0,neg,F,neg
+3021.0,Female,24.0,African-American,2.0,pos,M,neg
+1756.0,Male,24.0,Native American&more,0.0,pos,F,neg
+5173.0,Male,26.0,African-American,6.0,pos,M,neg
+3410.0,Male,26.0,Native American&more,0.0,pos,F,neg
+3431.0,Male,25.0,African-American,4.0,pos,M,neg
+3147.0,Female,39.0,Native American&more,8.0,neg,F,neg
+2000.0,Male,21.0,Native American&more,1.0,pos,F,neg
+1509.0,Male,31.0,Native American&more,2.0,neg,F,neg
+1203.0,Male,42.0,African-American,0.0,pos,M,pos
+5370.0,Male,23.0,African-American,0.0,neg,M,neg
+4147.0,Female,26.0,Native American&more,2.0,pos,M,neg
+248.0,Male,44.0,Native American&more,8.0,neg,M,neg
+3861.0,Female,21.0,African-American,0.0,neg,F,neg
+4489.0,Male,31.0,Native American&more,1.0,neg,F,neg
+6969.0,Male,54.0,Native American&more,1.0,neg,F,neg
+435.0,Male,29.0,African-American,2.0,pos,F,neg
+605.0,Male,27.0,Native American&more,6.0,neg,F,neg
+428.0,Male,48.0,Native American&more,1.0,neg,M,pos
+4730.0,Male,24.0,African-American,1.0,neg,F,neg
+5764.0,Male,41.0,Native American&more,5.0,neg,M,neg
+1195.0,Male,24.0,Native American&more,0.0,pos,F,neg
+4803.0,Male,20.0,Native American&more,0.0,neg,F,neg
+5772.0,Female,42.0,Native American&more,0.0,neg,F,neg
+6639.0,Male,56.0,Native American&more,5.0,neg,M,neg
+1714.0,Female,52.0,Native American&more,0.0,pos,M,pos
+482.0,Male,59.0,Native American&more,1.0,neg,F,pos
+1353.0,Male,30.0,African-American,7.0,neg,F,neg
+4790.0,Male,27.0,Native American&more,0.0,pos,F,neg
+1911.0,Male,24.0,African-American,3.0,pos,M,neg
+5169.0,Male,25.0,African-American,0.0,pos,M,neg
+5752.0,Male,43.0,Native American&more,1.0,pos,F,neg
+6806.0,Male,22.0,Native American&more,0.0,neg,M,neg
+3273.0,Male,34.0,Native American&more,14.0,neg,F,neg
+3900.0,Female,33.0,Native American&more,0.0,pos,F,neg
+5493.0,Male,47.0,Native American&more,5.0,pos,M,neg
+17.0,Male,25.0,African-American,3.0,pos,F,neg
+119.0,Female,30.0,Native American&more,1.0,pos,F,pos
+469.0,Female,24.0,African-American,6.0,neg,F,neg
+4083.0,Male,23.0,Native American&more,0.0,neg,F,neg
+1449.0,Male,52.0,African-American,15.0,neg,M,neg
+2713.0,Female,41.0,Native American&more,1.0,pos,M,neg
+2209.0,Male,52.0,Native American&more,9.0,neg,F,neg
+175.0,Male,31.0,Native American&more,8.0,neg,F,neg
+706.0,Male,26.0,African-American,8.0,pos,F,neg
+4575.0,Male,25.0,African-American,2.0,neg,M,neg
+3428.0,Male,43.0,Native American&more,2.0,pos,F,neg
+5070.0,Male,34.0,African-American,8.0,neg,F,neg
+4662.0,Male,36.0,Native American&more,4.0,neg,M,neg
+351.0,Male,19.0,African-American,2.0,neg,F,neg
+3871.0,Female,32.0,African-American,3.0,pos,M,neg
+3689.0,Female,52.0,Native American&more,3.0,pos,M,neg
+5902.0,Male,21.0,African-American,0.0,neg,F,neg
+7156.0,Male,36.0,African-American,0.0,pos,M,neg
+2278.0,Male,49.0,Native American&more,2.0,pos,F,neg
+3901.0,Male,31.0,African-American,6.0,pos,F,neg
+1147.0,Female,24.0,African-American,0.0,pos,F,neg
+1338.0,Male,20.0,African-American,0.0,neg,F,neg
+5954.0,Male,59.0,Native American&more,2.0,neg,M,neg
+6602.0,Male,26.0,Native American&more,1.0,pos,M,neg
+84.0,Male,25.0,African-American,14.0,neg,F,neg
+1404.0,Female,42.0,African-American,2.0,pos,F,neg
+2612.0,Male,29.0,Native American&more,0.0,pos,M,neg
+1990.0,Male,42.0,African-American,2.0,pos,F,neg
+5224.0,Male,22.0,Native American&more,0.0,pos,F,neg
+3447.0,Female,28.0,Native American&more,0.0,neg,F,neg
+6714.0,Male,30.0,African-American,10.0,neg,F,neg
+1162.0,Male,33.0,Native American&more,3.0,pos,M,neg
+2293.0,Male,35.0,Native American&more,0.0,pos,M,neg
+852.0,Male,26.0,African-American,4.0,neg,M,neg
+3316.0,Male,26.0,African-American,24.0,neg,M,neg
+4101.0,Male,42.0,African-American,17.0,neg,M,neg
+3327.0,Female,31.0,Native American&more,2.0,neg,F,neg
+1361.0,Female,23.0,African-American,0.0,pos,M,neg
+6108.0,Male,47.0,Native American&more,0.0,pos,F,neg
+363.0,Female,26.0,African-American,0.0,pos,M,pos
+7050.0,Female,52.0,Native American&more,0.0,pos,M,neg
+3276.0,Male,29.0,Native American&more,0.0,pos,M,neg
+5037.0,Male,47.0,Native American&more,0.0,pos,M,neg
+214.0,Male,38.0,African-American,15.0,pos,F,neg
+4971.0,Female,20.0,African-American,3.0,neg,M,neg
+5846.0,Male,27.0,African-American,0.0,neg,F,neg
+1761.0,Male,23.0,African-American,1.0,neg,F,neg
+5667.0,Female,21.0,African-American,2.0,neg,F,neg
+3078.0,Male,56.0,Native American&more,0.0,pos,F,neg
