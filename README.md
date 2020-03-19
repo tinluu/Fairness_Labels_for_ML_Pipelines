@@ -1,4 +1,4 @@
-# Team 4: Fairness Labels for Machine Learning Pipeline
+# Fairness Labels for Machine Learning Pipeline
 
 ## Instructions to run the pipeline
 Initialize a python virtual environment and install the packages listed in "requirements.txt" using the following command. Please replace "python" and "pip" to the corresponding version installed in your os. 
